@@ -52,6 +52,14 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 ## Lesson 5
 
+| Lesson Point                | Short Summary                                                                                      |
+| --------------------------- | -------------------------------------------------------------------------------------------------- |
+| へ (directional)            | Particle after a location to show heading きょうとう へ 行きます                                     |
+| X-も (not any X)            | どこへも　(Not Anywhere), なにも　(nothing / Not Any), etc                                           |
+| で　(Method of / Tool used) | なんで 東京 へ いきません　(how did you get to 東京) しんかんせん で いきます　(I came by shinkannsenn) |
+| と (with)                   | だれ　と　東京　へ　いきませか　(who did you go to 東京　with?)                                        |
+| いつ (when)                 | いつ　にほん　へ　いきますたか　(When did you come to Japan?)                                          |
+
 ## Lesson 6
 
 ## Lesson 7
