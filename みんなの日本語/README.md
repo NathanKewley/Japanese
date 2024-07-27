@@ -62,4 +62,13 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 ## Lesson 6
 
+| Lesson Point                 | Short Summary                                                                                      |
+| ---------------------------- | -------------------------------------------------------------------------------------------------- |
+| を　(bro how this work)      | Just use this shit everywhere I guess... Need to figgure out good short definition lmao            |
+| で　(Location)               | Used to mark the location where you do something. えき　で　しんぶん　を　かいます　(I bought a newspaper at the train station)             |
+| いっしょに (together)         | Literally "Together". Used to create invites. いっしょに　おさけ　を　のみませんか　（Shall we drink together?)                     |
+| X-ませんか (Invitation)       | To invite someone you use the negative form of a verb to create a question. いっしょに　おさけ　を　のみませんか　（Shall we drink together?) |
+| X－ましょう (Lets X Together) | Modifes a verb generally used to accept an invite. はい　のみましょう　(Yes, lets drink together)  |
+| それから  (and then/after)    | にほんご　を　べんきょうしました。それから　ともだち　と　えいが　を　みました。　(I studied Japanese. After that I saw a movie with my friend.) |
+
 ## Lesson 7
