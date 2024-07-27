@@ -64,7 +64,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point                 | Short Summary                                                                                      |
 | ---------------------------- | -------------------------------------------------------------------------------------------------- |
-| を　(bro how this work)      | Just use this shit everywhere I guess... Need to figgure out good short definition lmao            |
+| [を](../Grammar/を.md)　     | Marks the direct object of a verb. おさけ　を　のみますか (do you drink alcahol?)                     |
 | で　(Location)               | Used to mark the location where you do something. えき　で　しんぶん　を　かいます　(I bought a newspaper at the train station)             |
 | いっしょに (together)         | Literally "Together". Used to create invites. いっしょに　おさけ　を　のみませんか　（Shall we drink together?)                     |
 | X-ませんか (Invitation)       | To invite someone you use the negative form of a verb to create a question. いっしょに　おさけ　を　のみませんか　（Shall we drink together?) |
