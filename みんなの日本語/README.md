@@ -56,7 +56,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | --------------------------- | -------------------------------------------------------------------------------------------------- |
 | へ (directional)            | Particle after a location to show heading きょうとう へ 行きます                                     |
 | X-も (not any X)            | どこへも　(Not Anywhere), なにも　(nothing / Not Any), etc                                           |
-| で　(Method of / Tool used) | なんで 東京 へ いきません　(how did you get to 東京) しんかんせん で いきます　(I came by shinkannsenn) |
+| で　(Method of)             | なんで 東京 へ いきません　(how did you get to 東京) しんかんせん で いきます　(I came by shinkannsenn) |
 | と (with)                   | だれ　と　東京　へ　いきませか　(who did you go to 東京　with?)                                        |
 | いつ (when)                 | いつ　にほん　へ　いきますたか　(When did you come to Japan?)                                          |
 
@@ -72,3 +72,14 @@ Where there are extra notes for any lession point, the lesson point will be link
 | それから  (and then/after)    | にほんご　を　べんきょうしました。それから　ともだち　と　えいが　を　みました。　(I studied Japanese. After that I saw a movie with my friend.) |
 
 ## Lesson 7
+
+| Lesson Point                             | Short Summary                                                                                      |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| で　    (Tool Used)                       | なん　で　ごはん　を　たべます　(What did you eat with). はし　で　たべません　(With Chopsticks)       |
+| もう　  (Already)                         | もう　ひるごはん　を　たべましたか　(Have you already eaten lunch?)                                   |
+| [あげます　(give)](../Grammar/あげる.md)   | Used when giving from close to far --> (((You) --> (Family/Friends)) --> Everyone else). いもうと は ともだち に はな を あげました (My sister gave her friend flowers) |
+| [もらいました　(recieving)](../Grammar/もらう.md) | Used to say you recieved something. せんせい　に　ほん　を　もらいました　(I recived a book from sensei) |
+
+## Lesson 8
+
+## Lesson 9
