@@ -10,3 +10,5 @@ List of particles that I have more detailed notes for.
 * [を](Grammar/を.md)
 * [あげる](Grammar/あげる.md)
 * [もらう](Grammar/もらう.md)
+* [これ、それ、あれ](../Grammar/これーそれーあれ.md)
+* [この、その、あの](../Grammar/このーそのーあの.md)
