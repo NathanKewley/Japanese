@@ -83,9 +83,11 @@ Where there are extra notes for any lession point, the lesson point will be link
 | かります　(To Borrow)                     | Aさん　に　ほん　を　かります　(I borrow a book from A)                                              |
 | かします  (To Lend)                       | Aさん　に　ほん　を　かします　(I lend a book to A)                                                  |
 
-## Non Lession Items
+## Non Lesson Items
 
 Items that we learnt in class that are not in the textbook.
+
+### Learnt as part of Lesson 7
 
 | Point                                    | Short Summary                                                                                      |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
