@@ -1,6 +1,6 @@
 # みんなの日本語
 
-Broken down by lesson and important parts of each lesson. These notes are just for me so are not comprehensive and written in the way I want them // the way that makes sense to me. Not sure if I will share or make public at any point in time.
+Broken down by lesson and important parts of each lesson. These notes are just for me so are not comprehensive and written in the way I want them // the way that makes sense to me.
 
 Where there are extra notes for any lession point, the lesson point will be linked to the additional notes in the `Lesson Point` column.
 
@@ -19,8 +19,8 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point         | Short Summary                                                                            |
 | -------------------- | ---------------------------------------------------------------------------------------- |
-| [これ、それ、あれ](../Grammar/これーそれーあれ.md)      | noun placeholder for this, that, "that over there"                                        |
-| [この、その、あの](../Grammar/このーそのーあの.md)      | x-noun for this-x, that-x, "that-x over there"                                            |
+| [これ、それ、あれ](../Grammar/これーそれーあれ.md)      | noun placeholder for this, that, "that over there"       |
+| [この、その、あの](../Grammar/このーそのーあの.md)      | x-noun for this-x, that-x, "that-x over there"           |
 | だれ                 | To ask who ownes something (これ は だれ の ですか)                                        |
 | の (ownership)       | Particle to show ownership (これ は Nathさん の です)                                      |
 | の (Noun Substitute) | Substituting a known noun when it is already defined earlier in context                   |
@@ -52,13 +52,13 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 ## Lesson 5
 
-| Lesson Point                | Short Summary                                                                                      |
-| --------------------------- | -------------------------------------------------------------------------------------------------- |
-| へ (directional)            | Particle after a location to show heading きょうとう へ 行きます                                     |
-| X-も (not any X)            | どこへも　(Not Anywhere), なにも　(nothing / Not Any), etc                                           |
+| Lesson Point                | Short Summary                                                                                        |
+| --------------------------- | ---------------------------------------------------------------------------------------------------- |
+| へ (directional)            | Particle after a location to show heading きょうとう へ 行きます                                       |
+| X-も (not any X)            | どこへも　(Not Anywhere), なにも　(nothing / Not Any), etc                                             |
 | で　(Method of)             | なんで 東京 へ　いきましたか　(how did you get to 東京) しんかんせん で いきます　(I came by shinkannsenn) |
-| と (with)                   | だれ　と　東京　へ　いきませか　(who did you go to 東京　with?)                                        |
-| いつ (when)                 | いつ　にほん　へ　いきますたか　(When did you come to Japan?)                                          |
+| と (with)                   | だれ　と　東京　へ　いきませか　(who did you go to 東京　with?)                                          |
+| いつ (when)                 | いつ　にほん　へ　いきますたか　(When did you come to Japan?)                                            |
 
 ## Lesson 6
 
@@ -91,5 +91,11 @@ Items that we learnt in class that are not in the textbook.
 
 | Point                                    | Short Summary                                                                                      |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| おしえます　(To teach)                    |  Aさん　は　Bさん　に　おしえます  (A teaches B)                                                      |
+| おしえます　(To teach)                    | Aさん　は　Bさん　に　おしえます  (A teaches B)                                                      |
 | ならいます　(To learn from)               | Aさん　に　テニス　を　ならいまし　(I am learning tennis from A)                                      |
+
+### Fucked Shit
+
+| Point                                                 | Short Summary                                                                                      |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [いきます　と　きます](../Grammar/いきます-と-きます.md) | いきます（行きます）To Go. きます（来ます）To Come. Always used from the speakers perspective. Therefore `いきます` is used when the speaker is talking about going to somewhere they are not currently. `きます` is used when the speaker is talking about coming to the location they are currently at.    |

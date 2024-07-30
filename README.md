@@ -4,7 +4,7 @@ Central place for my notes on Learning Japanese. The course in Japan is based on
 
 ## Particle Reference
 
-List of particles that I have more detailed notes for.
+Particle Quick Reference where I have details beyond whats in [みんなの日本語](みんなの日本語/README.md).
 
 * [か](Grammar/か.md)
 * [を](Grammar/を.md)
@@ -12,3 +12,4 @@ List of particles that I have more detailed notes for.
 * [もらう](Grammar/もらう.md)
 * [これ、それ、あれ](Grammar/これーそれーあれ.md)
 * [この、その、あの](Grammar/このーそのーあの.md)
+* [いきます　と　きます](../Grammar/いきます-と-きます.md)
