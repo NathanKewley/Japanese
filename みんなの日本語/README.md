@@ -79,7 +79,15 @@ Where there are extra notes for any lession point, the lesson point will be link
 | もう　  (Already)                         | もう　ひるごはん　を　たべましたか　(Have you already eaten lunch?)                                   |
 | [あげます　(give)](../Grammar/あげる.md)   | Used when giving from close to far --> (((You) --> (Family/Friends)) --> Everyone else). いもうと は ともだち に はな を あげました (My sister gave her friend flowers) |
 | [もらいました　(recieving)](../Grammar/もらう.md) | Used to say you recieved something. せんせい　に　ほん　を　もらいました　(I recived a book from sensei) |
+| おくり　(To send)                         | Used to say something is sent. もう　にもつ　おくり　ましたか　(Did you already send the luggage?)    |
+| かります　(To Borrow)                     | Aさん　に　ほん　を　かります　(I borrow a book from A)                                              |
+| かします  (To Lend)                       | Aさん　に　ほん　を　かします　(I lend a book to A)                                                  |
 
-## Lesson 8
+## Non Lession Items
 
-## Lesson 9
+Items that we learnt in class that are not in the textbook.
+
+| Point                                    | Short Summary                                                                                      |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| おしえます　(To teach)                    |  Aさん　は　Bさん　に　おしえます  (A teaches B)                                                      |
+| ならいます　(To learn from)               | Aさん　に　テニス　を　ならいまし　(I am learning tennis from A)                                      |
