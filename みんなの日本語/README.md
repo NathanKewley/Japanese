@@ -93,7 +93,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | そして (and same) | `そして` is used to say something is `x` and `y`. Where `x` and `y` must either BOTH be good or bad. You cannot use `そして` for a good and bad thing. `この　へや　は きれいです。　そして　ひろいですよ`。(This room is is both clean and spacious). |
 | けど (and different)　| `けど` is used in the same context as `そして` but used to show conflicting ideas. Where `x` is good and `y` is bad. `にほんご　は　おもしろいです　けど　とても　むずかしい`　(Japanese is interesting but very difficult). |
 | どんな (What Kind Of) | Used when asking someone what sort of `x` questions. `どんな　たべもの　が　すきですか` (What kind of food do you like?) `どんな` Must always be followed by a Noun `どんな<Noun>`. |
-| どう (What Kind Of) | Used to ask what something is like. `にほんご　の　べんきょう　は　どう　ですか` (How is studying Japanese?) |
+| どう (How is) | Used to ask what something is like. `にほんご　の　べんきょう　は　どう　ですか` (How is studying Japanese?) |
 | basic adjective use | When prefixing a `な-adjective` to a Noun you must prefix it in the format `<な-adjective>な<noun>` ゆうめい　な　ひと (Famous Person) - for `い-adjectives` the prefix is direct `<い-adjective><noun>` `たかい　かばん` (an expensive bag) |
 
 ## Non Lesson Items
