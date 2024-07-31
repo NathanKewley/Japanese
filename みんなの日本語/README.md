@@ -89,11 +89,11 @@ Where there are extra notes for any lession point, the lesson point will be link
 | ------------------------------------------ | ---------------------------------------------------------------------------------- |
 | [い-Adjectives And な-Adjectives](../Grammar/い-Adjectives-And-な-Adjectives.md) | In Japanese there are 2 types of Adjectives: `い-Adjectives` And `な-Adjectives`. Please see the full page for identifying which are which and for exceptions.  |
 | [い-Adjectives And な-Adjectives (Negating)](../Grammar/い-Adjectives-And-な-Adjectives-(Negating).md) | The way you create the negative for of an Adjective depends on the adjective type. The exceptions have thier own rules as well. |
-| よ　Particle                               |                                                                                    |
-| そして  | |
-| けど　| |
+| よ (New Info)                          | The `よ` particle can be placed at the end of a sentance when the speaker expects the information they are providing to be new to the listener.           |
+| そして (and same) | `そして` is used to say something is `x` and `y`. Where `x` and `y` must either BOTH be good or bad. You cannot use `そして` for a good and bad thing. この　へや　は きれいです。　そして　ひろいですよ。(This room is is both clean and spacious). |
+| けど (and different)　| `けど` is used in the same context as `そして` but used to show conflicting ideas. Where `x` is good and `y` is bad. にほんご　は　おもしろいです　けど　とても　むずかしい　(Japanese is interesting but very difficult). |
 | どんな | |
-| basic adjective use | な　vs い prefixing to nouns | 
+| basic adjective use | When prefixing a `な-adjective` to a Noun you must prefix it in the format `<な-adjective>な<noun>` ゆうめい　な　ひと (Famous Person) - for `い-adjectives` the prefix is direct `<い-adjective><noun>` たかい　かばん (an expensive bag) |
 
 ## Non Lesson Items
 
