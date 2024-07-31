@@ -85,9 +85,11 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 ## Lesson 8
 
-| Lesson Point                             | Short Summary                                                                                      |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| いい　と　な　types                                    |                                                                                                    |
+| Lesson Point                               | Short Summary                                                                      |
+| ------------------------------------------ | ---------------------------------------------------------------------------------- |
+| [い-Adjectives And な-Adjectives](../Grammar/い-Adjectives-And-な-Adjectives.md) | In Japanese there are 2 types of Adjectives: `い-Adjectives` And `な-Adjectives`. Please see the full page for identifying which are which and for exceptions.  |
+| [い-Adjectives And な-Adjectives (Negating)](../Grammar/い-Adjectives-And-な-Adjectives-(Negating).md) | The way you create the negative for of an Adjective depends on the adjective type. The exceptions have thier own rules as well. |
+| よ　Particle                               |                                                                                    |
 
 ## Non Lesson Items
 
@@ -95,13 +97,13 @@ Items that we learnt in class that are not in the textbook.
 
 ### Learnt as part of Lesson 7
 
-| Point                                    | Short Summary                                                                                      |
+| Language Point                           | Short Summary                                                                                      |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | おしえます　(To teach)                    | Aさん　は　Bさん　に　おしえます  (A teaches B)                                                      |
 | ならいます　(To learn from)               | Aさん　に　テニス　を　ならいまし　(I am learning tennis from A)                                      |
 
 ### Fucked Shit
 
-| Point                                                 | Short Summary                                                                                      |
+| Language Point                                        | Short Summary                                                                                      |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [いきます　と　きます](../Grammar/いきます-と-きます.md) | `いきます`（行きます）To Go. `きます`（来ます）To Come. Always used from the speakers perspective. Therefore `いきます` is used when the speaker is talking about going to somewhere they are not currently. `きます` is used when the speaker is talking about coming to the location they are currently at. |
