@@ -64,13 +64,18 @@ flowchart TD;
     NotLoan(Ends With)
     KanjiEnds(Is the い part of the words Kanji or appended as Hiragana)
 
-    style IsIt stroke:#F00
-    style NotLoan stroke:#F00
-    style KanjiEnds stroke:#F00
-
     い-Adjective[い-Adjective]
     な-Adjective[な-Adjective]
     Exception[Exception]
+
+    style Start stroke:#00F
+    style Except stroke:#F00
+    style IsIt stroke:#F00
+    style NotLoan stroke:#F00
+    style KanjiEnds stroke:#F00
+    style い-Adjective stroke:#0F0
+    style な-Adjective stroke:#0F0
+    style Exception stroke:#0F0
 
     Except -->|Yes| Exception
     Except -->|No| IsIt
