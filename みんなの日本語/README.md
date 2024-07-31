@@ -54,34 +54,34 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point                | Short Summary                                                                                        |
 | --------------------------- | ---------------------------------------------------------------------------------------------------- |
-| へ (directional)            | Particle after a location to show heading きょうとう へ 行きます                                       |
-| X-も (not any X)            | どこへも　(Not Anywhere), なにも　(nothing / Not Any), etc                                             |
-| で　(Method of)             | なんで 東京 へ　いきましたか　(how did you get to 東京) しんかんせん で いきます　(I came by shinkannsenn) |
-| と (with)                   | だれ　と　東京　へ　いきませか　(who did you go to 東京　with?)                                          |
-| いつ (when)                 | いつ　にほん　へ　いきますたか　(When did you come to Japan?)                                            |
+| へ (directional)            | Particle after a location to show heading `きょうとう へ 行きます`                                       |
+| X-も (not any X)            | `どこへも`　(Not Anywhere), `なにも`　(nothing / Not Any), etc                                             |
+| で　(Method of)             | `なんで 東京 へ　いきましたか`　(how did you get to 東京) `しんかんせん で いきます`　(I came by shinkannsenn) |
+| と (with)                   | `だれ　と　東京　へ　いきませか`　(who did you go to 東京　with?)                                          |
+| いつ (when)                 | `いつ　にほん　へ　いきますたか`　(When did you come to Japan?)                                            |
 
 ## Lesson 6
 
 | Lesson Point                 | Short Summary                                                                                      |
 | ---------------------------- | -------------------------------------------------------------------------------------------------- |
-| [を](../Grammar/を.md)　     | Marks the direct object of a verb. おさけ　を　のみますか (do you drink alcahol?)                     |
-| で　(Location)               | Used to mark the location where you do something. えき　で　しんぶん　を　かいます　(I bought a newspaper at the train station)             |
-| いっしょに (together)         | Literally "Together". Used to create invites. いっしょに　おさけ　を　のみませんか　（Shall we drink together?)                     |
-| X-ませんか (Invitation)       | To invite someone you use the negative form of a verb to create a question. いっしょに　おさけ　を　のみませんか　（Shall we drink together?) |
-| X－ましょう (Lets X Together) | Modifes a verb generally used to accept an invite. はい　のみましょう　(Yes, lets drink together)  |
-| それから  (and then/after)    | にほんご　を　べんきょうしました。それから　ともだち　と　えいが　を　みました。　(I studied Japanese. After that I saw a movie with my friend.) |
+| [を](../Grammar/を.md)　     | Marks the direct object of a verb. `おさけ　を　のみますか` (do you drink alcahol?)                     |
+| で　(Location)               | Used to mark the location where you do something. `えき　で　しんぶん　を　かいます`　(I bought a newspaper at the train station)             |
+| いっしょに (together)         | Literally "Together". Used to create invites. `いっしょに　おさけ　を　のみませんか` (Shall we drink together?)                     |
+| X-ませんか (Invitation)       | To invite someone you use the negative form of a verb to create a question. `いっしょに　おさけ　を　のみませんか`　（Shall we drink together?) |
+| X－ましょう (Lets X Together) | Modifes a verb generally used to accept an invite. `はい　のみましょう`　(Yes, lets drink together)  |
+| それから  (and then/after)    | `にほんご　を　べんきょうしました。それから　ともだち　と　えいが　を　みました`。　(I studied Japanese. After that I saw a movie with my friend.) |
 
 ## Lesson 7
 
 | Lesson Point                             | Short Summary                                                                                      |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| で　    (Tool Used)                       | なに　で　ごはん　を　たべます　(What did you eat with). はし　で　たべません　(With Chopsticks)       |
-| もう　  (Already)                         | もう　ひるごはん　を　たべましたか　(Have you already eaten lunch?)                                   |
-| [あげます　(give)](../Grammar/あげる.md)   | Used when giving from close to far --> (((You) --> (Family/Friends)) --> Everyone else). いもうと は ともだち に はな を あげました (My sister gave her friend flowers) |
-| [もらいました　(recieving)](../Grammar/もらう.md) | Used to say you recieved something. せんせい　に　ほん　を　もらいました　(I recived a book from sensei) |
-| おくり　(To send)                         | Used to say something is sent. もう　にもつ　おくり　ましたか　(Did you already send the luggage?)    |
-| かります　(To Borrow)                     | Aさん　に　ほん　を　かります　(I borrow a book from A)                                              |
-| かします  (To Lend)                       | Aさん　に　ほん　を　かします　(I lend a book to A)                                                  |
+| で　    (Tool Used)                       | `なに　で　ごはん　を　たべます`　(What did you eat with). `はし　で　たべません`　(With Chopsticks)       |
+| もう　  (Already)                         | `もう　ひるごはん　を　たべましたか`　(Have you already eaten lunch?)                                   |
+| [あげます　(give)](../Grammar/あげる.md)   | Used when giving from close to far --> (((You) --> (Family/Friends)) --> Everyone else). `いもうと は ともだち に はな を あげました` (My sister gave her friend flowers) |
+| [もらいました　(recieving)](../Grammar/もらう.md) | Used to say you recieved something. `せんせい　に　ほん　を　もらいました`　(I recived a book from sensei) |
+| おくり　(To send)                         | Used to say something is sent. `もう　にもつ　おくり　ましたか`　(Did you already send the luggage?)    |
+| かります　(To Borrow)                     | `Aさん　に　ほん　を　かります`　(I borrow a book from A)                                              |
+| かします  (To Lend)                       | `Aさん　に　ほん　を　かします`　(I lend a book to A)                                                  |
 
 ## Lesson 8
 
@@ -91,7 +91,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | [い-Adjectives And な-Adjectives (Negating)](../Grammar/い-Adjectives-And-な-Adjectives-(Negating).md) | The way you create the negative for of an Adjective depends on the adjective type. The exceptions have thier own rules as well. |
 | よ (New Info)                          | The `よ` particle can be placed at the end of a sentance when the speaker expects the information they are providing to be new to the listener.           |
 | そして (and same) | `そして` is used to say something is `x` and `y`. Where `x` and `y` must either BOTH be good or bad. You cannot use `そして` for a good and bad thing. `この　へや　は きれいです。　そして　ひろいですよ`。(This room is is both clean and spacious). |
-| けど (and different)　| `けど` is used in the same context as `そして` but used to show conflicting ideas. Where `x` is good and `y` is bad. にほんご　は　おもしろいです　けど　とても　むずかしい　(Japanese is interesting but very difficult). |
+| けど (and different)　| `けど` is used in the same context as `そして` but used to show conflicting ideas. Where `x` is good and `y` is bad. `にほんご　は　おもしろいです　けど　とても　むずかしい`　(Japanese is interesting but very difficult). |
 | どんな (What Kind Of) | Used when asking someone what sort of `x` questions. `どんな　たべもの　が　すきですか` (What kind of food do you like?) `どんな` Must always be followed by a Noun `どんな<Noun>`. |
 | どう (What Kind Of) | Used to ask what something is like. `にほんご　の　べんきょう　は　どう　ですか` (How is studying Japanese?) |
 | basic adjective use | When prefixing a `な-adjective` to a Noun you must prefix it in the format `<な-adjective>な<noun>` ゆうめい　な　ひと (Famous Person) - for `い-adjectives` the prefix is direct `<い-adjective><noun>` `たかい　かばん` (an expensive bag) |
@@ -104,8 +104,8 @@ Items that we learnt in class that are not in the textbook.
 
 | Language Point                           | Short Summary                                                                                      |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| おしえます　(To teach)                    | Aさん　は　Bさん　に　おしえます  (A teaches B)                                                      |
-| ならいます　(To learn from)               | Aさん　に　テニス　を　ならいまし　(I am learning tennis from A)                                      |
+| おしえます　(To teach)                    | `Aさん　は　Bさん　に　おしえます`  (A teaches B)                                                      |
+| ならいます　(To learn from)               | `Aさん　に　テニス　を　ならいまし`　(I am learning tennis from A)                                      |
 
 ### Fucked Shit
 
