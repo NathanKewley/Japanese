@@ -87,7 +87,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point                             | Short Summary                                                                                      |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| tbd                                      |                                                                                                    |
+| いい　と　な　types                                    |                                                                                                    |
 
 ## Non Lesson Items
 
