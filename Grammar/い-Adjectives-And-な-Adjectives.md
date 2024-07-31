@@ -56,11 +56,11 @@ Of course there are some special exemptions to the rules 🙃
 ---
 title: Adjective Types
 ---
-flowchart LR;
+flowchart TD;
     Start[Start] --> Except(Is the word いい?)
     IsIt(Is it a loan Word)
     NotLoan(Ends With)
-    KanjiEnds(Is the last い part of the Kanji Spelling of the word?)
+    KanjiEnds(Is the い Kanji or Hiragana)
 
     い-Adjective[い-Adjective]
     な-Adjective[な-Adjective]
@@ -73,6 +73,6 @@ flowchart LR;
     NotLoan -->|えい| な-Adjective
     NotLoan -->|い| KanjiEnds
     NotLoan -->|しい| KanjiEnds
-    KanjiEnds -->|Yes| な-Adjective
-    KanjiEnds -->|No| い-Adjective
+    KanjiEnds -->|Kanji| な-Adjective
+    KanjiEnds -->|Hiragana| い-Adjective
 ```
