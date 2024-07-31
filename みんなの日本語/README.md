@@ -75,7 +75,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point                             | Short Summary                                                                                      |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| で　    (Tool Used)                       | `なに　で　ごはん　を　たべます`　(What did you eat with). `はし　で　たべません`　(With Chopsticks)       |
+| で　    (Tool Used)                       | `なに　で　ごはん　を　たべますしたか`　(What did you eat with). `はし　で　たべました`　(With Chopsticks)       |
 | もう　  (Already)                         | `もう　ひるごはん　を　たべましたか`　(Have you already eaten lunch?)                                   |
 | [あげます　(give)](../Grammar/あげる.md)   | Used when giving from close to far --> (((You) --> (Family/Friends)) --> Everyone else). `いもうと は ともだち に はな を あげました` (My sister gave her friend flowers) |
 | [もらいました　(recieving)](../Grammar/もらう.md) | Used to say you recieved something. `せんせい　に　ほん　を　もらいました`　(I recived a book from sensei) |
