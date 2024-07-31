@@ -58,9 +58,9 @@ title: Adjective Types
 ---
 flowchart TD;
     Start[Start] --> Except(Is the word いい?)
-    IsIt(Is it a loan Word)
-    NotLoan(Ends With)
-    KanjiEnds(Is the い Kanji or Hiragana)
+    IsIt{Is it a loan Word}
+    NotLoan{Ends With}
+    KanjiEnds{Is the い part of the words Kanji or appended as Hiragana}
 
     い-Adjective[い-Adjective]
     な-Adjective[な-Adjective]
