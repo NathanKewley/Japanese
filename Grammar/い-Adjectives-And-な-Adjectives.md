@@ -53,9 +53,26 @@ Of course there are some special exemptions to the rules 🙃
 ## Visual Explanation
 
 ```mermaid
-graph TD;
-    Start-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+---
+title: Adjective Types
+---
+flowchart LR;
+    Start[Start] --> Exception{Is the word いい?}
+    IsIt{Is it a loan Word}
+    NotLoan{Ends With}
+    KanjiEnd{Is the last い part of the Kanji Spelling of the word?}
+
+    い-Adjective[い-Adjective]
+    な-Adjective[な-Adjective]
+    Exception[Exception]
+
+    Exception -->|Yes| Exception
+    Exception -->|No| IsIt
+    IsIt -->|Yes| な-Adjective
+    IsIt -->|No| NotLoan
+    NotLoan -->|えい| な-Adjective
+    NotLoan -->|い| な-Adjective
+    NotLoan -->|しい| な-Adjective
+    KanjiEnds -->|Yes| な-Adjective
+    KanjiEnds -->|No| い-Adjective
 ```
