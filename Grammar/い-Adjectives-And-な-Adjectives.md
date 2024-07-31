@@ -57,7 +57,7 @@ Of course there are some special exemptions to the rules 🙃
 title: Adjective Types
 ---
 flowchart LR;
-    Start[Start] --> Exception{Is the word いい?}
+    Start[Start] --> Excep{Is the word いい?}
     IsIt{Is it a loan Word}
     NotLoan{Ends With}
     KanjiEnd{Is the last い part of the Kanji Spelling of the word?}
@@ -66,13 +66,13 @@ flowchart LR;
     な-Adjective[な-Adjective]
     Exception[Exception]
 
-    Exception -->|Yes| Exception
-    Exception -->|No| IsIt
+    Except -->|Yes| Exception
+    Except -->|No| IsIt
     IsIt -->|Yes| な-Adjective
     IsIt -->|No| NotLoan
     NotLoan -->|えい| な-Adjective
-    NotLoan -->|い| な-Adjective
-    NotLoan -->|しい| な-Adjective
+    NotLoan -->|い| KanjiEnds
+    NotLoan -->|しい| KanjiEnds
     KanjiEnds -->|Yes| な-Adjective
     KanjiEnds -->|No| い-Adjective
 ```
