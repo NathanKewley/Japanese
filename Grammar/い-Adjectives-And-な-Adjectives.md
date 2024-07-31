@@ -57,10 +57,10 @@ Of course there are some special exemptions to the rules 🙃
 title: Adjective Types
 ---
 flowchart LR;
-    Start[Start] --> Except{Is the word いい?}
-    IsIt{Is it a loan Word}
-    NotLoan{Ends With}
-    KanjiEnd{Is the last い part of the Kanji Spelling of the word?}
+    Start[Start] --> Except(Is the word いい?)
+    IsIt(Is it a loan Word)
+    NotLoan(Ends With)
+    KanjiEnds(Is the last い part of the Kanji Spelling of the word?)
 
     い-Adjective[い-Adjective]
     な-Adjective[な-Adjective]
