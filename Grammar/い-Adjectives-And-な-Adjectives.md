@@ -57,10 +57,12 @@ Of course there are some special exemptions to the rules 🙃
 title: Adjective Types
 ---
 flowchart TD;
+    classDef question stroke:#f00
+
     Start[Start] --> Except(Is the word いい?)
-    IsIt{Is it a loan Word}
-    NotLoan{Ends With}
-    KanjiEnds{Is the い part of the words Kanji or appended as Hiragana}
+    IsIt:::question(Is it a loan Word)
+    NotLoan:::question(Ends With)
+    KanjiEnds:::question(Is the い part of the words Kanji or appended as Hiragana)
 
     い-Adjective[い-Adjective]
     な-Adjective[な-Adjective]
