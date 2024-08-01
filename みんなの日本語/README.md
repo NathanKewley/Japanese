@@ -92,6 +92,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | よ　Particle                               |                                                                                    |
 | そして  | |
 | けど　| |
+| basic adjective use | な　vs い appending to nouns | 
 
 ## Non Lesson Items
 
