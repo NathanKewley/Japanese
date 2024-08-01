@@ -90,6 +90,8 @@ Where there are extra notes for any lession point, the lesson point will be link
 | [い-Adjectives And な-Adjectives](../Grammar/い-Adjectives-And-な-Adjectives.md) | In Japanese there are 2 types of Adjectives: `い-Adjectives` And `な-Adjectives`. Please see the full page for identifying which are which and for exceptions.  |
 | [い-Adjectives And な-Adjectives (Negating)](../Grammar/い-Adjectives-And-な-Adjectives-(Negating).md) | The way you create the negative for of an Adjective depends on the adjective type. The exceptions have thier own rules as well. |
 | よ　Particle                               |                                                                                    |
+| そして  | |
+| けど　| |
 
 ## Non Lesson Items
 
