@@ -45,7 +45,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | -------------------- | -------------------------------------------------------- |
 | tenses               | (present, present negative, past, past negative)         |
 | から -- まで          | From time `x` to time `y`                                |
-| なんじ               | To ask "what time"                                        |
+| なん-X               | `なんじ` (what time), `なんばん` (what number), `なんようび` (what day), `なんげつ` (what month) |
 | 時　ふん　ぶん        | for stating time                                          |
 | に (Time)            | Particle for time                                         |
 | と (And)             | "And" (`A` と `B` が すき です)                            |
