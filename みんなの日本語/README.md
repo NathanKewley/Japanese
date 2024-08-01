@@ -93,7 +93,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | そして  | |
 | けど　| |
 | どんな | |
-| basic adjective use | な　vs い appending to nouns | 
+| basic adjective use | な　vs い prefixing to nouns | 
 
 ## Non Lesson Items
 
