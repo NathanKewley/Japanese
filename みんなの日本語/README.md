@@ -13,7 +13,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | ですか        | Like です but adding the か changes this from a statement to a question                   |
 | じゃありません | Also like です but in the negative form to state something `IS NOT`                       |
 | さん          | Polite Honorific for someones name. etc Nathさん                                          |
-| も            | Particle used to mean "is also". Nathさん は Australian です. Rileyさん も Australian です |
+| も (is also)  | `Nathさん は　オーストラリアじん です. Rileyさん も オーストラリアじん です` (Nath is Australian. Riley is also Australian.). `も` can replace both `を` and `が` directly, but for `に` and `で` it is appended into `にも` and `でも` |
 
 ## Lesson 2
 
@@ -111,7 +111,6 @@ Where there are extra notes for any lession point, the lesson point will be link
 | から (Because of)              | `いそがしいです　から　テレビ　を　みません` (I did not watch TV because I was busy). `から` is used in the following way `<Reason>から<Thing>` where the reason always comes before the thing being explained. |
 | が　(Subject Marker Particle)  | The `が` particle is similar to the `は` particle from lesson 1 in that both can be used to mark the subject of a sentance. The general rule is that `は` **always** marks the main subject of a sentance while `が` marks a secondary subject. `わたし は うま が すき です` (I like Horses). In this sentance `I` am the main subject and what I like `Horses` are the secondary subject. |
 | どうして (Why / How)           | |
-| じょうずです                   | Used as a backhanded compliment to forigners 😉 |
 
 ### Lesson 9 - Extra items not in textbook
 
