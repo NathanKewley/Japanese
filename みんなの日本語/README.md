@@ -47,7 +47,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | から -- まで                   | From time `x` to time `y`                                |
 | なん-X                         | `なんじ` (what time), `なんばん` (what number), `なんようび` (what day), `なんげつ` (what month) |
 | 時　ふん　ぶん                  | for stating time                                          |
-| [に (Time)](../Grammar/に.md)  | Particle for time                                         |
+| [に (Time)](../Grammar/に.md)  | The `に` particle can be used to mark what time something takes place or happens. It is important to note `に` is only used for static time phrases not dynamic ones. Please see details in linked page. |
 | と (And)                       | "And" (`A` と `B` が すき です)                            |
 
 ## Lesson 5
@@ -90,7 +90,6 @@ Where there are extra notes for any lession point, the lesson point will be link
 | おしえます　(To teach)                    | `Aさん　は　Bさん　に　おしえます`  (A teaches B)                                                      |
 | ならいます　(To learn from)               | `Aさん　に　テニス　を　ならいまし`　(I am learning tennis from A)                                      |
 
-
 ## Lesson 8
 
 | Lesson Point                               | Short Summary                                                                      |
@@ -110,6 +109,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | ----------------------------- | -------------------------------------------------------- |
 | すきじゃ ありません　(Dislike)  | A:`ダンス　が　すきですか`. B: `いいえ　すきじゃ　ありません`. (A: "Do you like Dancing? B: No, I do not like). Can also be shorted to `じゃない` in more casual speech. |
 | から (Because of)              | `いそがしいです　から　テレビ　を　みません` (I did not watch TV because I was busy). `から` is used in the following way `<Reason>から<Thing>` where the reason always comes before the thing being explained. |
+| が　(Subject Marker Particle)  | The `が` particle is similar to the `は` particle from lesson 1 in that both can be used to mark the subject of a sentance. The general rule is that `は` **always** marks the main subject of a sentance while `が` marks a secondary subject. `わたし は うま が すき です` (I like Horses). In this sentance `I` am the main subject and what I like `Horses` are the secondary subject. |
 | どうして (Why / How)           | |
 | じょうずです                   | Used as a backhanded compliment to forigners 😉 |
 
