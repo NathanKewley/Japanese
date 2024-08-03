@@ -83,6 +83,14 @@ Where there are extra notes for any lession point, the lesson point will be link
 | かります　(To Borrow)                     | `Aさん　に　ほん　を　かります`　(I borrow a book from A)                                              |
 | かします  (To Lend)                       | `Aさん　に　ほん　を　かします`　(I lend a book to A)                                                  |
 
+### Lesson 7 - Extra items not in textbook
+
+| Language Point                           | Short Summary                                                                                      |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| おしえます　(To teach)                    | `Aさん　は　Bさん　に　おしえます`  (A teaches B)                                                      |
+| ならいます　(To learn from)               | `Aさん　に　テニス　を　ならいまし`　(I am learning tennis from A)                                      |
+
+
 ## Lesson 8
 
 | Lesson Point                               | Short Summary                                                                      |
@@ -105,18 +113,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | どうして (Why / How)           | |
 | じょうずです                   | Used as a backhanded compliment to forigners 😉 |
 
-## Non Lesson Items
-
-Items that we learnt in class that are not in the textbook.
-
-### Learnt as part of Lesson 7
-
-| Language Point                           | Short Summary                                                                                      |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| おしえます　(To teach)                    | `Aさん　は　Bさん　に　おしえます`  (A teaches B)                                                      |
-| ならいます　(To learn from)               | `Aさん　に　テニス　を　ならいまし`　(I am learning tennis from A)                                      |
-
-### Learnt as part of Lesson 9
+### Lesson 9 - Extra items not in textbook
 
 | Language Point                | Short Summary                                            |
 | ----------------------------- | -------------------------------------------------------- |
