@@ -110,14 +110,14 @@ Where there are extra notes for any lession point, the lesson point will be link
 | すきじゃ ありません　(Dislike)  | A:`ダンス　が　すきですか`. B: `いいえ　すきじゃ　ありません`. (A: "Do you like Dancing? B: No, I do not like). Can also be shorted to `じゃない` in more casual speech. |
 | から (Because of)              | `いそがしいです　から　テレビ　を　みません` (I did not watch TV because I was busy). `から` is used in the following way `<Reason>から<Thing>` where the reason always comes before the thing being explained. |
 | が　(Subject Marker Particle)  | The `が` particle is similar to the `は` particle from lesson 1 in that both can be used to mark the subject of a sentance. The general rule is that `は` **always** marks the main subject of a sentance while `が` marks a secondary subject. `わたし は うま が すき です` (I like Horses). In this sentance `I` am the main subject and what I like `Horses` are the secondary subject. |
-| どうして (Why / How)           | `どうして いきませんか` (Why did you not go?). `この　かんじ　は　どうして　かくんですか` (How do I write this Kanji?). `どうして` is used to as the Why or How of something. |
+| どうして (Why / How)           | `どうして いきませんか` (Why did you not go?). `この　かんじ　は　どうして　かくんですか` (How do I write this Kanji?). `どうして` is used to ask the Why or How of something. |
 
 ### Lesson 9 - Extra items not in textbook
 
 | Language Point                | Short Summary                                            |
 | ----------------------------- | -------------------------------------------------------- |
-| とくい (Am good at - polite)   |  |
-| にがて (Am bad at - polite)    | |
+| とくい (Am good at - polite)   | `わたし　は　うた　が　とくい　です` (I am good at singing.) `とくい` is a more humble way of talking about been good at something and generally should be used when talking about yourself or family rather than `じょうず`. |
+| にがて (Am bad at - polite)    | `わたし　は　うた　が　あまり　にがて　です` (I am not very good at singing). `にがて` is a bit different in that it can mean not being good at, or not liking something. |
 
 ### Fucked Shit
 
