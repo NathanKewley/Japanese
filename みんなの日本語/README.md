@@ -41,14 +41,14 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 ## Lesson 4
 
-| Lesson Point         | Short Summary                                            |
-| -------------------- | -------------------------------------------------------- |
-| tenses               | (present, present negative, past, past negative)         |
-| から -- まで          | From time `x` to time `y`                                |
-| なん-X               | `なんじ` (what time), `なんばん` (what number), `なんようび` (what day), `なんげつ` (what month) |
-| 時　ふん　ぶん        | for stating time                                          |
-| に (Time)            | Particle for time                                         |
-| と (And)             | "And" (`A` と `B` が すき です)                            |
+| Lesson Point                  | Short Summary                                            |
+| ----------------------------- | -------------------------------------------------------- |
+| tenses                        | (present, present negative, past, past negative)         |
+| から -- まで                   | From time `x` to time `y`                                |
+| なん-X                         | `なんじ` (what time), `なんばん` (what number), `なんようび` (what day), `なんげつ` (what month) |
+| 時　ふん　ぶん                  | for stating time                                          |
+| [に (Time)](../Grammar/に.md)  | Particle for time                                         |
+| と (And)                       | "And" (`A` と `B` が すき です)                            |
 
 ## Lesson 5
 
@@ -92,8 +92,8 @@ Where there are extra notes for any lession point, the lesson point will be link
 | よ (New Info)                          | The `よ` particle can be placed at the end of a sentance when the speaker expects the information they are providing to be new to the listener.           |
 | そして (and same) | `そして` is used to say something is `x` and `y`. Where `x` and `y` must either BOTH be good or bad. You cannot use `そして` for a good and bad thing. `この　へや　は きれいです。　そして　ひろいですよ`。(This room is is both clean and spacious). |
 | けど (and different)　| `けど` is used in the same context as `そして` but used to show conflicting ideas. Where `x` is good and `y` is bad. `にほんご　は　おもしろいです　けど　とても　むずかしい`　(Japanese is interesting but very difficult). |
-| どんな (What Kind Of) | Used when asking someone what sort of `x` questions. `どんな　たべもの　が　すきですか` (What kind of food do you like?) `どんな` Must always be followed by a Noun `どんな<Noun>`. |
-| どう (How is) | Used to ask how something is like. `にほんご　の　べんきょう　は　どう　ですか` (How is studying Japanese?) |
+| どんな (What Kind Of) | Used when asking someone what sort of `x` questions. `どんな　たべもの　が　すきですか` (What kind of food do you like?) `どんな` **AFAIK** Must always be followed by a Noun `どんな<Noun>`. |
+| どう (How is) | Used to ask how something is like. `にほんご　の　べんきょう　は　どう　ですか` (How is studying Japanese?). **AFAIK** must always be at the end of a sentance in the form `どう　ですか` |
 | basic adjective use | When prefixing a `な-adjective` to a Noun you must prefix it in the format `<な-adjective>な<noun>` ゆうめい　な　ひと (Famous Person) - for `い-adjectives` the prefix is direct `<い-adjective><noun>` `たかい　かばん` (an expensive bag) |
 
 ## Non Lesson Items
