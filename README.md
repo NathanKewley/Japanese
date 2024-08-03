@@ -8,7 +8,7 @@ Particle Quick Reference where I have details beyond whats in [みんなの日�
 
 * [か](Grammar/か.md)
 * [を](Grammar/を.md)
-* [に (Time)](Grammar/に.md)
+* [に](Grammar/に.md)
 * [あげる](Grammar/あげる.md)
 * [もらう](Grammar/もらう.md)
 * [これ、それ、あれ](Grammar/これーそれーあれ.md)
