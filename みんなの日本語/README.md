@@ -96,6 +96,15 @@ Where there are extra notes for any lession point, the lesson point will be link
 | どう (How is) | Used to ask how something is like. `にほんご　の　べんきょう　は　どう　ですか` (How is studying Japanese?). **AFAIK** must always be at the end of a sentance in the form `どう　ですか` |
 | basic adjective use | When prefixing a `な-adjective` to a Noun you must prefix it in the format `<な-adjective>な<noun>` ゆうめい　な　ひと (Famous Person) - for `い-adjectives` the prefix is direct `<い-adjective><noun>` `たかい　かばん` (an expensive bag) |
 
+## Lesson 9
+
+| Lesson Point                  | Short Summary                                            |
+| ----------------------------- | -------------------------------------------------------- |
+| すきじゃ ありません　(Dislike)  | A:`ダンス　が　すきですか`. B: `いいえ　すきじゃ　ありません`. (A: "Do you like Dancing? B: No, I do not like). Can also be shorted to `じゃない` in more casual speech. |
+| から (Because of)              | `いそがしいです　から　テレビ　を　みません` (I did not watch TV because I was busy). `から` is used in the following way `<Reason>から<Thing>` where the reason always comes before the thing being explained. |
+| どうして (Why / How)           | |
+| じょうずです                   | Used as a backhanded compliment to forigners 😉 |
+
 ## Non Lesson Items
 
 Items that we learnt in class that are not in the textbook.
@@ -106,6 +115,13 @@ Items that we learnt in class that are not in the textbook.
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | おしえます　(To teach)                    | `Aさん　は　Bさん　に　おしえます`  (A teaches B)                                                      |
 | ならいます　(To learn from)               | `Aさん　に　テニス　を　ならいまし`　(I am learning tennis from A)                                      |
+
+### Learnt as part of Lesson 9
+
+| Language Point                | Short Summary                                            |
+| ----------------------------- | -------------------------------------------------------- |
+| とくい (Am good at - polite)   |  |
+| にがて (Am bad at - polite)    | |
 
 ### Fucked Shit
 

@@ -2,6 +2,8 @@
 
 Central place for my notes on Learning Japanese. The course in Japan is based on the [みんなの日本語](みんなの日本語/README.md). A book I dont really like, but anyhow, I have notes for it in the linked page as we are going through the chapters.
 
+Everything here is subject to my poor understanding of Japanese and could very well be wrong. Take this all with a grain of salt.
+
 ## Particle Reference
 
 Particle Quick Reference where I have details beyond whats in [みんなの日本語](みんなの日本語/README.md).
