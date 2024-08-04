@@ -8,11 +8,11 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point  | Short Summary                                                                            |
 | ------------- | ---------------------------------------------------------------------------------------- |
-| は            | Particle to mark subject of a sentance                                                   |
-| です          | To state something "is" used at end of sentance                                          |
-| ですか        | Like です but adding the か changes this from a statement to a question                   |
-| じゃありません | Also like です but in the negative form to state something `IS NOT`                       |
-| さん          | Polite Honorific for someones name. etc Nathさん                                          |
+| は            | `わたし　は　Nathです` (I am Nath). Particle to mark subject of a sentance, In this case `わたし`/`I`    |
+| です          | `わたし　は　Nathです` (I am Nath). To state something "is" used at end of sentance. |
+| ですか        | `あのひと　は　だれ　ですか` (Who is that person?). `か` Appended to `です` making the statement a question instead. |
+| じゃありません | `わたし　は　がくせい　じゃ　ありません` (I am not a student). This is the negative form of `です` to state something `IS NOT`. |
+| さん          | `Nathさん`. Polite Honorific for someones name. This is generally how you should refer to people in Japanese |
 | も (is also)  | `Nathさん は　オーストラリアじん です. Rileyさん も オーストラリアじん です` (Nath is Australian. Riley is also Australian.). `も` can replace both `を` and `が` directly, but for `に` and `で` it is appended into `にも` and `でも` |
 
 ## Lesson 2
