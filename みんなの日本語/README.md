@@ -19,8 +19,8 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point         | Short Summary                                                                            |
 | -------------------- | ---------------------------------------------------------------------------------------- |
-| [これ、それ、あれ](../Grammar/これーそれーあれ.md)      | noun placeholder for this, that, "that over there"       |
-| [この、その、あの](../Grammar/このーそのーあの.md)      | x-noun for this-x, that-x, "that-x over there"           |
+| [これ、それ、あれ](../Grammar/これーそれーあれ.md)      | `これ　は　ほん　です` (This is a book). These act as noun placeholders for `this`, `that`, `that over there`. They are treated as a noun themselves. |
+| [この、その、あの](../Grammar/このーそのーあの.md)      | `この　かばん　は　わたし　の　です` (This bag belongs to me). These are not treated as Nouns themselves and must always have a noun attached in the format `this<noun>`, `that<noun>`, `that<noun> over there`. |
 | だれ                 | To ask who ownes something (これ は だれ の ですか)                                        |
 | の (ownership)       | Particle to show ownership (これ は Nathさん の です)                                      |
 | の (Noun Substitute) | Substituting a known noun when it is already defined earlier in context                   |
