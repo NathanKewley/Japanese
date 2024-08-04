@@ -20,14 +20,14 @@ Where there are extra notes for any lession point, the lesson point will be link
 | Lesson Point         | Short Summary                                                                            |
 | -------------------- | ---------------------------------------------------------------------------------------- |
 | [これ、それ、あれ](../Grammar/これーそれーあれ.md)      | `これ　は　ほん　です` (This is a book). These act as noun placeholders for `this`, `that`, `that over there`. They are treated as a noun themselves. |
-| [この、その、あの](../Grammar/このーそのーあの.md)      | `この　かばん　は　わたし　の　です` (This bag belongs to me). These are not treated as Nouns themselves and must always have a noun attached in the format `this<noun>`, `that<noun>`, `that<noun> over there`. |
-| だれ                 | To ask who ownes something (これ は だれ の ですか)                                        |
-| の (ownership)       | Particle to show ownership (これ は Nathさん の です)                                      |
-| の (Noun Substitute) | Substituting a known noun when it is already defined earlier in context                   |
-| なん                 | To ask what something is                                                                  |
-| 何の                 | To ask what type (what type of magazine?, fassion)                                        |
-| なんさい             | To ask how old someone is                                                                 |
-| ちがいます            | To say something is not the case (standalone)                                            |
+| [この、その、あの](../Grammar/このーそのーあの.md)      | `この　かばん　は　わたし　の　です` (This bag belongs to me). These are not treated as Nouns themselves and must always have a noun attached in the format `this<noun>`, `that<noun>`, `that-over-there<noun>`. |
+| だれ                 | `これ は だれ の ですか` (Who does this belong to?). Used to ask who ownes something. |
+| の (ownership)       | `それ は Nathさん の です` (That belongs to Nath). Particle is attached to a Noun to show ownership. |
+| の (Noun Substitute) | `たべもの　は　からい　の　は　にがてです` (As for food I cannot eat spicy food). `の` can also be used to substitute a noun that is already known by context, this typically sounds more natural that repeating a noun. |
+| なん (what)          | `これ　は　なん　ですか` (What is this?). `ほんです` (A book). Used to ask what something is. |
+| なんの               | `それ　は　なんの　ざっし　ですか` (What kind of magazine is that?). `くるま　の　ざっし　です` (A car magazine). Used to ask what type of x something is. |
+| なんさい             | `ミラーさん　は　なんさい　ですか` (How old is ミラーさん?). Used to ask how old someone is. |
+| ちがいます            | `いいえ　ちがいます` (No, thats not the case) To say something is not the case, this is a standalone statement. |
 
 ## Lesson 3
 
