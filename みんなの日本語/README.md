@@ -111,8 +111,6 @@ Where there are extra notes for any lession point, the lesson point will be link
 | から (Because of)              | `いそがしいです　から　テレビ　を　みません` (I did not watch TV because I was busy). `から` is used in the following way `<Reason>から<Thing>` where the reason always comes before the thing being explained. |
 | が　(Subject Marker Particle)  | The `が` particle is similar to the `は` particle from lesson 1 in that both can be used to mark the subject of a sentance. The general rule is that `は` **always** marks the main subject of a sentance while `が` marks a secondary subject. `わたし は うま が すき です` (I like Horses). In this sentance `I` am the main subject and what I like `Horses` are the secondary subject. |
 | どうして (Why / How)           | `どうして いきませんか` (Why did you not go?). `この　かんじ　は　どうして　かくんですか` (How do I write this Kanji?). `どうして` is used to ask the Why or How of something. |
-| あります (to be - inanimate) | `あそこ　に　りんご　が　あります` |
-| います (to be - animate) | `あそこ　に　ねこ　が　います` |
 
 ### Lesson 9 - Extra items not in textbook
 
