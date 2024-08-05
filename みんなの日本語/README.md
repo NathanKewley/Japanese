@@ -120,6 +120,17 @@ Where there are extra notes for any lession point, the lesson point will be link
 | ----------------------------- | -------------------------------------------------------- |
 | とくい (Am good at - polite)   | `わたし　は　うた　が　とくい　です` (I am good at singing.) `とくい` is a more humble way of talking about been good at something and generally should be used when talking about yourself or family rather than `じょうず`. |
 | にがて (Am bad at - polite)    | `わたし　は　うた　が　あまり　にがて　です` (I am not very good at singing). `にがて` is a bit different in that it can mean not being good at, or not liking something. |
+| すこし, とても, だいたい, よこ (+ Frequency) | `よく を あまり たべます` (I often eat apples). For `+` frequency words the sentance should be in positive form. |
+| あまり, ぜんぜん　(- Frequency) | `りんご を あまり たべません` (I dont eat apples often). For `-` Frequency terms the sentance should take negative form. |
+
+## Lesson 10
+
+| Lesson Point                  | Short Summary                                            |
+| ----------------------------- | -------------------------------------------------------- |
+| あります (to be - inanimate)   | `あそこ　に　りんご　が　あります` (There is an apple over there) `あります` is always used for inanimate objects. Interesting plants are considered inanimate. Its more can something think and act on its own, rather than is something alive. |
+| います (to be - animate)       | `あそこ　に　ねこ　が　います` (There is a cat over there) `います` is always used for any animate objects that can think and act on thier own. |
+| X や X など (Incomplete list)  | `りんご　や　いちご　など　が　すきです`　(I like apples and strawberries among other things). The pattern `<thing>や<thing>など` Is used to indicate the list of items is incomplete. |
+| の (Place Relativity)         | `いす　の　うえ　に　ねこ　が　います` (There is a cat on the chair). `の` Can be used to specify a place relative to another. |
 
 ### Fucked Shit
 
