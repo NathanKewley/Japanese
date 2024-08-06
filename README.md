@@ -43,3 +43,18 @@ This time, we use the 'a' step. So the vowel of the last character will change t
 待つ → 待たない
 作る → 作らない
 ```
+
+Godan verbs that end in う have a special variation - instead of ending in -あない, we change the あ to a わ instead
+
+```text
+買う → 買わない
+会う → 会わない
+```
+
+#### Exceptions (Irregular)
+
+```text
+ある → ない
+する→しない
+来る→来ない
+```
