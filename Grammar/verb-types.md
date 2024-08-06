@@ -43,16 +43,15 @@ Here is a chart for a quick reference to `vowel order` for all hiragana.
 ```
 
 > [!WARNING]
-> NOTE: This information is incomplete and conjugation prep may be different depending on the target conjugation. See casual negative (ない) in the examples below. For polite present and past it seems to hold true.
+> This information is incomplete and conjugation prep may be different depending on the target conjugation. See casual negative (ない) in the examples below. For polite present and past it seems to hold true.
 
 ### Godan Examples
 
 | Base Verb (Positive) | Conjugation Prepped | Negative | Negative (Polite) | Positive (Polite) |
 | -------------------- | ------------------- | -------- | ----------------- | ----------------- |
 | かく (To Write)       | かき                | かくない  | かきません         | かきます          |
-| きる (To Cut)         | きり                | きらない  | きいません         | きります          |
+| きる (To Cut)         | きり                | きらない  | きりません         | きります          |
 | はなす (To Talk)      | はなし              | はなさない | はなしません       | はなします        |
-
 
 ## Irregular
 
