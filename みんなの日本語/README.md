@@ -75,8 +75,8 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point                             | Short Summary                                                                                      |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| で　    (Tool Used)                       | `なに　で　ごはん　を　たべますしたか`　(What did you eat with). `はし　で　たべました`　(With Chopsticks)       |
-| もう　  (Already)                         | `もう　ひるごはん　を　たべましたか`　(Have you already eaten lunch?)                                   |
+| で (Tool Used)                           | `なに　で　ごはん　を　たべますしたか`　(What did you eat with). `はし　で　たべました`　(With Chopsticks)       |
+| もう (Already)                            | `もう　ひるごはん　を　たべましたか`　(Have you already eaten lunch?)                                   |
 | [あげます　(give)](../Grammar/あげる.md)   | Used when giving from close to far --> (((You) --> (Family/Friends)) --> Everyone else). `いもうと は ともだち に はな を あげました` (My sister gave her friend flowers) |
 | [もらいました　(recieving)](../Grammar/もらう.md) | Used to say you recieved something. `せんせい　に　ほん　を　もらいました`　(I recived a book from sensei) |
 | おくり　(To send)                         | Used to say something is sent. `もう　にもつ　おくり　ましたか`　(Did you already send the luggage?)    |
@@ -130,7 +130,13 @@ Where there are extra notes for any lession point, the lesson point will be link
 | X や X など (Incomplete list)  | `りんご　や　いちご　など　が　すきです`　(I like apples and strawberries among other things). The pattern `<thing>や<thing>など` Is used to indicate the list of items is incomplete. |
 | の (Place Relativity)         | `いす　の　うえ　に　ねこ　が　います` (There is a cat on the chair). `の` Can be used to specify a place relative to another. |
 
-### Fucked Shit
+## Items Not Yet Covered
+
+| Language Point                | Short Summary                                            |
+| ----------------------------- | -------------------------------------------------------- |
+| で (Duration of Time)         | `にじかん　で　ほん　を　よみました` (I read a book in 4 hours). `で` is very similar to `に` in terms of refering to time. However `で` is used with `かん` to show **how long** an action took rather than when an action took place. |
+
+## Fucked Shit
 
 | Language Point                                        | Short Summary                                                                                      |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
