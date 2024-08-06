@@ -55,6 +55,9 @@ Godan verbs that end in う have a special variation - instead of ending in -あ
 
 ```text
 ある → ない
-する→しない
-来る→来ない
+する → しない
+来る → 来ない
+です → だ
 ```
+
+Note: If a sentance ends with an `い` adjective you can omit `です`/`だ` in casual speech. This includes when you negate an adjective into a negative `い` adjective.
