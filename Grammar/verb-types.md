@@ -49,7 +49,7 @@ Here is a chart for a quick reference to `vowel order` for all hiragana.
 
 | Base Verb (Positive) | Conjugation Prepped | Negative | Negative (Polite) | Positive (Polite) |
 | -------------------- | ------------------- | -------- | ----------------- | ----------------- |
-| かく (To Write)       | かき                | かくない  | かきません         | かきます          |
+| かく (To Write)       | かき                | かかない  | かきません         | かきます          |
 | きる (To Cut)         | きり                | きらない  | きりません         | きります          |
 | はなす (To Talk)      | はなし              | はなさない | はなしません       | はなします        |
 
