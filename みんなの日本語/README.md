@@ -135,10 +135,10 @@ Where there are extra notes for any lession point, the lesson point will be link
 | Language Point                | Short Summary                                            |
 | ----------------------------- | -------------------------------------------------------- |
 | で (Duration of Time)         | `にじかん　で　ほん　を　よみました` (I read a book in 4 hours). `で` is very similar to `に` in terms of refering to time. However `で` is used with `かん` to show **how long** an action took rather than when an action took place. |
+| [Verb Casual Negating](../Grammar/verb-casual-negation.md) | Cansual negating of verbs. |
 
 ## Fucked Shit
 
 | Language Point                                        | Short Summary                                                                                      |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [いきます　と　きます](../Grammar/いきます-と-きます.md) | `いきます`（行きます）To Go. `きます`（来ます）To Come. Always used from the speakers perspective. Therefore `いきます` is used when the speaker is talking about going to somewhere they are not currently. `きます` is used when the speaker is talking about coming to the location they are currently at. |
-| [Verb Casual Negating](../Grammar/verb-casual-negation.md) | Cansual negating of verbs. |
