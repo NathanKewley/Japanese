@@ -2,8 +2,7 @@
 
 ## Ichidan Verbs
 
-Ichidan verbs will work similarly to the verb forms we've looked at before: you will drop the る, and add the negative ending ない.
-So “don't eat” would be たべない, はじめない is to “not begin”, and “don't close” is しめない.
+Ichidan verbs will work similarly to the verb forms we've looked at before: you will drop the `る`, and add the negative ending `ない`.
 
 ```text
 たべる → たべない
@@ -13,7 +12,7 @@ So “don't eat” would be たべない, はじめない is to “not begin”,
 ## Goadn Verbs
 
 For our Godan verbs, we will be using another one of our vowel 'steps.'
-This time, we use the 'a' step. So the vowel of the last character will change to 'a,' and then negative ない will be added.
+This time, we use the `a step`. So the vowel of the last character will change to `a` and then negative `ない` will be added.
 
 ```text
 書く → 書かない
@@ -21,7 +20,7 @@ This time, we use the 'a' step. So the vowel of the last character will change t
 作る → 作らない
 ```
 
-Godan verbs that end in う have a special variation - instead of ending in -あない, we change the あ to a わ instead
+Godan verbs that end in `う` have a special variation - instead of ending in `あない`, we change the `あ` to a `わ` instead
 
 ```text
 買う → 買わない
