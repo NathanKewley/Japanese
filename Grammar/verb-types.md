@@ -57,14 +57,7 @@ Here is a chart for a quick reference to `vowel order` for all hiragana.
 
 There are 2 irregular verbs (2 too many).
 
-### する (To Do)
+You kinda just have to learn the conjugations for these as you go. You can always look em up in a Japanese dictionary.
 
-The verb stem of `する` is `し`.
-
-### くる (To Come)
-
-the verb stem of `くる` is `き`.
-
-## Verb Stems
-
-The stem of a verb is determined differently based on the type of Verb it is. Hence this section is last on this page.
+* `する` --> The verb stem `し`
+* `くる` --> the verb stem is `き`.
