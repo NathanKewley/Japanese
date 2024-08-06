@@ -24,16 +24,34 @@ The dictionary form of all `Ichidan` verbs end with `る`. However not every ver
 
 `Godan` verbs are also sometimes refered to as `5-step` and `う` verbs.
 
-If a verb does not end in `る` it is deffiantly a `Godan` Verb.
+If a verb does not end in `る` it is deffiantly a `Godan` Verb. If a verb ends in `る` it **MIGHT** be a `Godan` Verb. There is no rule for this, you just have to know which are which.
 
 ### Goadn Conjugation
 
-Preparing a Godan Verb for conjugation...
+Conjugating a `Godan` verb is a bit more complicated than `Ichidan`. I requires knowing the Japanese `vowel order` of `あ → い → う → え → お`. Preparing a `Godan` verb for conjugation requires taking the last sound of the verb and moving it `up` the `vowel order` one step.
+
+For instance the last sound of `かく` is `う`, moving that `う` up once in the `vowel order` to `い` changes the `く` to `き` creating `かき`.
+
+Here is a chart for a quick reference to `vowel order` for all hiragana.
+
+```text
+↑ あ　か　さ　た　な　は　ま　ら　や　わ　
+↑ い　き　し　ち　に　ひ　み　り
+↑ う　く　す　つ　ぬ　ふ　む　る　ゆ
+↑ え　け　せ　て　ね　へ　め　れ
+↑ お　こ　そ　と　の　ほ　も　ろ　よ　を
+```
+
+> [!WARNING]
+> NOTE: This information is incomplete and conjugation prep may be different depending on the target conjugation. See casual negative (ない) in the examples below. For polite present and past it seems to hold true.
 
 ### Godan Examples
 
-かく → かき
-きる → きり
+| Base Verb (Positive) | Conjugation Prepped | Negative | Negative (Polite) | Positive (Polite) |
+| -------------------- | ------------------- | -------- | ----------------- | ----------------- |
+| かく (To Write)       | かき                | かくない  | かきません         | かきます          |
+| きる (To Cut)         | きり                | きらない  | きいません         | きります          |
+| はなす (To Talk)      | はなし              | はなさない | はなしません       | はなします        |
 
 
 ## Irregular
