@@ -141,3 +141,4 @@ Where there are extra notes for any lession point, the lesson point will be link
 | Language Point                                        | Short Summary                                                                                      |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [いきます　と　きます](../Grammar/いきます-と-きます.md) | `いきます`（行きます）To Go. `きます`（来ます）To Come. Always used from the speakers perspective. Therefore `いきます` is used when the speaker is talking about going to somewhere they are not currently. `きます` is used when the speaker is talking about coming to the location they are currently at. |
+| [Verb Casual Negating](../Grammar/verb-casual-negation.md) | Cansual negating of verbs. |
