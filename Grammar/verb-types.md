@@ -1,6 +1,6 @@
 # Verb Types
 
-`Verbs` are words that describe an action, there are 3 types of `Verbs` in Japanese. `Ichidan`, `Godan` and `Irregular`. All verbs have a Verb stem used for conjugations.
+`Verbs` are words that describe an action, there are 3 types of `Verbs` in Japanese. `Ichidan`, `Godan` and `Irregular`. All verbs have a Verb stem used for conjugations. The verb stem in the tables on this page is refered to as `Conjugation prepped` (prob change this all to verb stem for consistency?)
 
 ## Ichidan
 
@@ -28,7 +28,7 @@ If a verb does not end in `る` it is deffiantly a `Godan` Verb. If a verb ends 
 
 ### Goadn Conjugation
 
-Conjugating a `Godan` verb is a bit more complicated than `Ichidan`. I requires knowing the Japanese `vowel order` of `あ → い → う → え → お`. Preparing a `Godan` verb for conjugation requires taking the last sound of the verb and moving it `up` the `vowel order` one step.
+Conjugating a `Godan` verb is a bit more complicated than `Ichidan`. It requires knowing the Japanese `vowel order` of `あ → い → う → え → お`. Preparing a `Godan` verb for conjugation requires taking the last sound of the verb and moving it `up` the `vowel order` one step.
 
 For instance the last sound of `かく` is `う`, moving that `う` up once in the `vowel order` to `い` changes the `く` to `き` creating `かき`.
 
