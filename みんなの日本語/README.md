@@ -133,6 +133,17 @@ Where there are extra notes for any lession point, the lesson point will be link
 | X や X など (Incomplete list)  | `りんご　や　いちご　など　が　すきです`　(I like apples and strawberries among other things). The pattern `<thing>や<thing>など` Is used to indicate the list of items is incomplete. |
 | の (Place Relativity)         | `いす　の　うえ　に　ねこ　が　います` (There is a cat on the chair). `の` Can be used to specify a place relative to another. |
 
+## Lesson 11
+
+| Lesson Point                  | Short Summary                                            |
+| ----------------------------- | -------------------------------------------------------- |
+| いくつ (Asking how many)      |   |
+| じかん (Amount of time)       |   |
+| だけ (Only / Just)            |   |
+| どのくらい (How Long)         | `田中さん　は　どのくらい　にほんご　を　べんきょうしましたか` (Tanaka, how long have you studied Japanese for). Used to ask how long someone has done something for. Prob more to this to check later and update as well. |
+| かかります (Duration to go)   | `大阪　から　とうきょう　まで　しんかんせん　で　どのくらい　かかりますか` (How long does it take to get from Osake to Tokyo via ShinnKanSenn). Used to ask or answer how long something takes.  |
+| に (Frequency)               |   |
+
 ## Items Not Yet Covered
 
 | Language Point                | Short Summary                                            |
