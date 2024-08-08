@@ -137,12 +137,13 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point                  | Short Summary                                            |
 | ----------------------------- | -------------------------------------------------------- |
-| いくつ (Asking how many)      |   |
-| じかん (Amount of time)       |   |
-| だけ (Only / Just)            |   |
+| いくつ (Asking how many)      | `りんご　が　いくつ　ありますか` (How many apples are there?). Used to ask how many of a thing there are. |
+| じかん (Amount of time)       | `わたし　の　くに　から　にほん　で　ひこうき　で　４じかん　かかります` (From my country it takes 4 hours by place to Japan). Used to specify an amount of time something takes or is done for. |
+| だけ (Only / Just)            | ``  |
 | どのくらい (How Long)         | `田中さん　は　どのくらい　にほんご　を　べんきょうしましたか` (Tanaka, how long have you studied Japanese for). Used to ask how long someone has done something for. Prob more to this to check later and update as well. |
 | かかります (Duration to go)   | `大阪　から　とうきょう　まで　しんかんせん　で　どのくらい　かかりますか` (How long does it take to get from Osake to Tokyo via ShinnKanSenn). Used to ask or answer how long something takes.  |
-| に (Frequency)               |   |
+| に (Frequency)                | ``  |
+| とき (At the time)            | `こども　の　とき　なに　が　すきじゃありませんでしたか` (When you were a kid, what did you not like). Used to set the time context of the sentance. |
 
 ## Items Not Yet Covered
 
