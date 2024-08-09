@@ -46,12 +46,12 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point                  | Example | Short Summary                                            |
 | ----------------------------- | ------- | -------------------------------------------------------- |
-| tenses                        | | (present, present negative, past, past negative)         |
-| から -- まで                   | | From time `x` to time `y`                                |
-| なん-X                         | | `なんじ` (what time), `なんばん` (what number), `なんようび` (what day), `なんげつ` (what month) |
-| 時　ふん　ぶん                  | | for stating time                                          |
-| [に (Time)](../Grammar/に.md)  | | The `に` particle can be used to mark what time something takes place or happens. It is important to note `に` is only used for static time phrases not dynamic ones. Please see details in linked page. |
-| と (And)                       | | "And" (`A` と `B` が すき です)                            |
+| tenses                        | `n/a` | (present, present negative, past, past negative). Need proper page for this         |
+| から -- まで                   | `ひるやすみ　は　１２じ　から　１じ　まで　です` (Lunch break is from 12 to 1) | From time `x` to time `y`                                |
+| なん-X                         | `あなた　は　まいにち　なんじ　に　おきます` (What time do you wake up everyday?) | `なんじ` (what time), `なんばん` (what number), `なんようび` (what day), `なんげつ` (what month) |
+| 時　ふん　ぶん                  | `１２じ <> 12時` (12 o'clock) | for stating time                                          |
+| [に (Time)](../Grammar/に.md)  | `１２じ　に　おきました` (I woke up at 12 o'clock) | The `に` particle can be used to mark what time something takes place or happens. It is important to note `に` is only used for static time phrases not dynamic ones. Please see details in linked page. |
+| と (And)                       | `ワイン　と　ビル　を　のみます` (I drink both wine and beer) | "And" (`A` と `B` が すき です)                            |
 
 ## Lesson 5
 
