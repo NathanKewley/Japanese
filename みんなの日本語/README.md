@@ -36,11 +36,11 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point                | Example | Short Summary                                                                                 |
 | --------------------------- | ------- | --------------------------------------------------------------------------------------------- |
-| ここ                         | | particle for "Here"  (ここ は `X` です)　here is `X` where `X` could be School, shop, etc     |
-| どこ                         | | "Where", used to ask where something is                                                      |
-| どこの                       | | Where did x come from (country, etc)                                                         |
-| そうですか                   | | "Is that so" / "oh I see". Used to acknowledge speaker                                       |
-| こちら、そちら、あちら、どちら | | Polite forms used for people and directions rather than places `(need to understand better)` |
+| ここ                         | `ここ　は　がっこう　です` (The school is here) | particle for "Here"  (ここ は `X` です)　here is `X` where `X` could be School, shop, etc     |
+| どこ                         | `がっこう　は　どこ　ですか` (Where is the school) | "Where", used to ask where something is                                                      |
+| どこの                       | `これ　は　どこの　ワイン　ですか` (Where is this whine from?), `これ　は　にほん　の　ワイン　です` (This wine is from Japan) | Where did x come from (country, etc)                                                         |
+| そうですか                   | `そうですか` (Is that so) | "Is that so" / "oh I see". Used to acknowledge speaker                                       |
+| こちら、そちら、あちら、どちら | `がっこう　は　あちら　です` (School is over there) | Polite forms used for people and directions rather than places `(need to understand better)` |
 
 ## Lesson 4
 
