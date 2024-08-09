@@ -28,7 +28,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | の (ownership)       | `それ は Nathさん の です` (That belongs to Nath) | Particle is attached to a Noun to show ownership. |
 | の (Noun Substitute) | `たべもの　は　からい　の　は　にがてです` (As for food I cannot eat spicy food) | `の` can also be used to substitute a noun that is already known by context, this typically sounds more natural that repeating a noun. |
 | なん (what)          | `これ　は　なん　ですか` (What is this?) | `ほんです` (A book). Used to ask what something is. |
-| なんの               | `それ　は　なんの　ざっし　ですか` (What kind of magazine is that?) | `くるま　の　ざっし　です` (A car magazine). Used to ask what type of x something is. |
+| なんの               | `それ　は　なんの　ざっし　ですか` (What kind of magazine is that?). `くるま　の　ざっし　です` (A car magazine) | Used to ask what type of x something is. |
 | なんさい             | `ミラーさん　は　なんさい　ですか` (How old is ミラーさん?) | Used to ask how old someone is. |
 | ちがいます            | `いいえ　ちがいます` (No, thats not the case) | `ちがいます` is used say something is not the case, this is a standalone statement. |
 
@@ -102,7 +102,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | よ (New Info)                          | | The `よ` particle can be placed at the end of a sentance when the speaker expects the information they are providing to be new to the listener.           |
 | そして (and same) | `この　へや　は きれいです。　そして　ひろいですよ`(This room is is both clean and spacious) | `そして` is used to say something is `x` and `y`. Where `x` and `y` must either BOTH be good or bad. You cannot use `そして` for a good and bad thing. |
 | けど (and different)　| `にほんご　は　おもしろいです　けど　とても　むずかしい`　(Japanese is interesting but very difficult) | `けど` is used in the same context as `そして` but used to show conflicting ideas. Where `x` is good and `y` is bad. |
-| どんな (What Kind Of) | | Used when asking someone what sort of `x` questions. `どんな　たべもの　が　すきですか` (What kind of food do you like?) `どんな` **AFAIK** Must always be followed by a Noun `どんな<Noun>`. |
+| どんな (What Kind Of) | `どんな　たべもの　が　すきですか` (What kind of food do you like?) | Used when asking someone what sort of `x` questions. `どんな` **AFAIK** Must always be followed by a Noun `どんな<Noun>`. |
 | どう (How is) | `にほんご　の　べんきょう　は　どう　ですか` (How is studying Japanese?). | Used to ask how something is like. **AFAIK** must always be at the end of a sentance in the form `どう　ですか` |
 | basic adjective use | `ゆうめい　な　ひと` (Famous Person - な-Adjective), `たかい　かばん` (an expensive bag い-Adjective) | When prefixing a `な-adjective` to a Noun you must prefix it in the format `<な-adjective>な<noun>` - for `い-adjectives` the prefix is direct `<い-adjective><noun>` |
 
