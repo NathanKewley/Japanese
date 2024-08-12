@@ -1,4 +1,4 @@
-# い-Adjectives And な-Adjectives-(Negating)
+# い And な Adjective Conjugations
 
 The way adjectives are conjugated into differen forms differes for `い-Adjectives` And `な-Adjectives`. Each of the conjugation types are explained with a table at the bottom providing examples of all cases.
 
