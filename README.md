@@ -31,12 +31,12 @@ Particle Quick Reference where I have details beyond whats in [みんなの日�
 ### て Form
 
 * [て Form](Grammar/て-form.md)
-* [て Form Conjugations](て-form-conjugation.md)
+* [て Form Conjugations](Grammar/て-form-conjugation.md)
 
 ### Adjectives
 
 * [い-Adjectives And な-Adjectives](Grammar/Adjectives-い-And-な.md)
-* [い-Adjectives And な-Adjectives (Negating)](Grammar/Adjectives-い-And-な-conjugations.md)
+* [い-Adjectives And な-Adjective Conjugations](Grammar/Adjectives-い-And-な-conjugations.md)
 
 ### Verbs
 
