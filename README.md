@@ -31,7 +31,7 @@ Particle Quick Reference where I have details beyond whats in [みんなの日�
 ### Adjectives
 
 * [い-Adjectives And な-Adjectives](Grammar/Adjectives-い-And-な.md)
-* [い-Adjectives And な-Adjectives (Negating)](Grammar/Adjectives-い-And-な-negation.md)
+* [い-Adjectives And な-Adjectives (Negating)](Grammar/Adjectives-い-And-な-conjugations.md)
 
 ### Verbs
 

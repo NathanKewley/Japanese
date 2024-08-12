@@ -98,7 +98,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | Lesson Point                               | Example | Short Summary                                                                      |
 | ------------------------------------------ | ------- | ------------------------------------------------------------------------------ |
 | [い-Adjectives And な-Adjectives](../Grammar/Adjectives-い-And-な.md) | `n/a` | In Japanese there are 2 types of Adjectives: `い-Adjectives` And `な-Adjectives`. Please see the full page for identifying which are which and for exceptions.  |
-| [い-Adjectives And な-Adjectives (Negating)](../Grammar/Adjectives-い-And-な-negation.md) | `n/a` | The way you create the negative for of an Adjective depends on the adjective type. The exceptions have thier own rules as well. Please see full article. |
+| [い-Adjectives And な-Adjectives (Negating)](../Grammar/Adjectives-い-And-な-conjugations.md) | `n/a` | The way you create the negative for of an Adjective depends on the adjective type. The exceptions have thier own rules as well. Please see full article. |
 | よ (New Info)                          | | The `よ` particle can be placed at the end of a sentance when the speaker expects the information they are providing to be new to the listener.           |
 | そして (and same) | `この　へや　は きれいです。　そして　ひろいですよ`(This room is is both clean and spacious) | `そして` is used to say something is `x` and `y`. Where `x` and `y` must either BOTH be good or bad. You cannot use `そして` for a good and bad thing. |
 | けど (and different)　| `にほんご　は　おもしろいです　けど　とても　むずかしい`　(Japanese is interesting but very difficult) | `けど` is used in the same context as `そして` but used to show conflicting ideas. Where `x` is good and `y` is bad. |
@@ -145,7 +145,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | かかります (Duration to go)      | `大阪　から　とうきょう　まで　しんかんせん　で　どのくらい　かかりますか` (How long does it take to get from Osake to Tokyo via ShinnKanSenn) | Used to ask or answer how long something takes.  |
 | に (Frequency)                   | `1ねん　に　５かい　ぐらい　えいが　を　みます` (I watch about 5 movies each year) | Used to specify a frequency withing a timeframe. `<TimeFrame>に<TimesPerTimeframe>` |
 | とき (At the time)               | `こども　の　とき　なに　が　すきじゃありませんでしたか` (When you were a kid, what did you not like) | Used to set the time context of the sentance. |
-| い and な past tennse adjectives | `n/a` | Please see linked page (to be updated) for past tense conjugations. |
+| [い and な past tennse conjugation](../Grammar/Adjectives-い-And-な-conjugations.md) | `n/a` | Please see linked page (to be updated) for past tense conjugations. |
 
 ## Items Not Yet Covered
 
