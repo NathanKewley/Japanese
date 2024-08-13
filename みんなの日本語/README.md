@@ -58,7 +58,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | Lesson Point                | Example | Short Summary                                                                                                                               |
 | --------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | へ (directional)            | `きょうとう へ 行きます` (I am going to kyoto) | Particle after a location to show heading.                                                             |
-| X-も (not any X)            | `どこへも`　(Not Anywhere), `なにも`　(nothing / Not Any) | There are more instances of this that should be captured                                    |
+| X-も (not any X)            | `どこにも` (Nowhere), `なにも` (Nothing) `だれも` (Nobody) | `も` is suffixed to question words to mean none of question.                               |
 | で　(Method of)             | `なんで 東京 へ　いきましたか`　(how did you get to 東京) `しんかんせん で いきます`　(I came by shinkannsenn)| Used to explain a method of doing something |
 | と (with)                   | `だれ　と　東京　へ　いきませか`　(who did you go to 東京　with?) | `と` is used to join Nouns showing something was done together                        |
 | いつ (when)                 | `いつ　にほん　へ　いきますたか`　(When did you come to Japan?) | `いつ` is simply when                                                                   |

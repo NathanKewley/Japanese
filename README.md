@@ -42,3 +42,8 @@ Particle Quick Reference where I have details beyond whats in [みんなの日�
 
 * [Verb Types](Grammar/verb-types.md)
 * [Verb Casual Negating](Grammar/verb-casual-negation.md)
+
+## Notes to write
+
+* Ones handwritten in book during class
+* Talking about change `する`　and `なる` - (Rensuu lesson JLPT5 Change)
