@@ -147,13 +147,14 @@ Where there are extra notes for any lession point, the lesson point will be link
 | とき (At the time)               | `こども　の　とき　なに　が　すきじゃありませんでしたか` (When you were a kid, what did you not like) | Used to set the time context of the sentance. |
 | [い and な past tennse conjugation](../Grammar/Adjectives-い-And-な-conjugations.md) | `n/a` | Please see linked page (to be updated) for past tense conjugations. |
 
-## Items Not Yet Covered
+## Items Not Yet Covered or not sure where belong
 
 | Language Point                | Example | Short Summary                                            |
 | ----------------------------- | ------- | -------------------------------------------------- |
 | で (Duration of Time)         | `にじかん　で　ほん　を　よみました` (I read a book in 4 hours) | `で` is very similar to `に` in terms of refering to time. However `で` is used with `かん` to show **how long** an action took rather than when an action took place. |
 | [Verb Types](../Grammar/verb-types.md) | `n/a` | Types of verbs. `Ichidan`, `Godan` and `Irregular`. Please see linked page for detailed info. |
 | [Verb Casual Negating](../Grammar/verb-casual-negation.md) | `n/a` | Cansual negating of verbs. Please see linked page for detailed info. |
+| まだ (not yet) | `もう　昼ご飯　を　食べましたか` (Have you already eaten?) `いいえ　まだです` (No, Not yet) | `まだです` is used to respond to a question saying you have not yet done something. |
 
 ## Fucked Shit
 
