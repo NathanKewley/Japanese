@@ -30,6 +30,7 @@ In Short if an Adjective is not an `い-Adjective` or one of the `exceptions` it
 
 However there are ways to identiy a `な-Adjective` directly:
 
+* Non `い` Ending - Adjectives that do not end in `い` are `な-Adjectives`.
 * Loan Words - These are almost always `な-Adjectives` even when ending with `イ`. You can identify these easily as they will be written with Katakana.
 * Any adjectives that end in `えい` are always `な-Adjectives`
 * An Adjective that ends in `い` but the ending `い` is part of the Kanji makeup of the word are also `な-Adjectives`
@@ -84,6 +85,7 @@ flowchart TD;
     NotLoan -->|えい| な-Adjective
     NotLoan -->|い| KanjiEnds
     NotLoan -->|しい| KanjiEnds
+    NotLoan -->|Other| な-Adjective
     KanjiEnds -->|Kanji| な-Adjective
     KanjiEnds -->|Hiragana| い-Adjective
 ```
