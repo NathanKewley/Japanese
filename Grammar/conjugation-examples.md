@@ -11,7 +11,7 @@ Central place for examples of every type of conjugations.
 | きれいです   | 綺麗です      | な-Adjective | 綺麗じゃありません | `じゃありません` is appended to the end (in place of `です`) |
 | ゆうめいです | 有名です      | な-Adjective | 有名じゃありません | `じゃありません` is appended to the end (in place of `です`) |
 
-For detailed explanation on Adjectives please see the [Main Page for い and な Conjugations](て-form-conjugation.md)
+For detailed explanation on Adjective conjugations please see the [Main Page for い and な Conjugations](Adjectives-い-And-な-conjugations.md)
 
 ## Past Tense
 
@@ -22,7 +22,7 @@ For detailed explanation on Adjectives please see the [Main Page for い and な
 | きれいです   | 綺麗です      | な-Adjective | 綺麗いでした      | `でした` is appended to the end (in place of `です`) |
 | ゆうめいです | 有名です      | な-Adjective | 有名でした        | `でした` is appended to the end (in place of `です`) |
 
-For detailed explanation on Adjectives please see the [Main Page for い and な Conjugations](て-form-conjugation.md)
+For detailed explanation on Adjective conjugations please see the [Main Page for い and な Conjugations](Adjectives-い-And-な-conjugations.md)
 
 ## Past Negative
 
@@ -33,7 +33,7 @@ For detailed explanation on Adjectives please see the [Main Page for い and な
 | きれいです   | 綺麗です      | な-Adjective | 綺麗じゃありませんでした | Change adjective to `Negative Form` then append `でした` |
 | ゆうめいです | 有名です      | な-Adjective | 有名じゃありませんでした | `でした` is appended to the end (in place of `です`) |
 
-For detailed explanation on Adjectives please see the [Main Page for い and な Conjugations](て-form-conjugation.md)
+For detailed explanation on Adjective conjugations please see the [Main Page for い and な Conjugations](Adjectives-い-And-な-conjugations.md)
 
 ## て Form
 
