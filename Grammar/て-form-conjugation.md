@@ -96,19 +96,4 @@ Also easy, just append `で`!
 
 ## Exampels of Conjugations
 
-The below table contains example of each different conjugation type
-
-| Term     | Type         | て Form    | Rule Summary                                                 |
-| -------- | ------------ | --------- | ------------------------------------------------------------- |
-| 見る     | Verb/Ichidan | 見て       | The final `る` is replaced with `て`                          |
-| する     | EX           | して       | Exception you just have to remember                           |
-| くる     | EX           | きて       | Exception you just have to remember                           |
-| 会う     | Verb/Goadn   | 会って     | Godan Verbs Endings `う`, `つ` or `る` is replaced with `って` |
-| 死ぬ     | Verb/Goadn   | 死んで     | Godan Verbs Endings `ぬ`, `ぶ` or `む` is replaced with `んで` |
-| 殺す     | Verb/Godan   | 殺して     | Godan Verbs Ending `す` is replaced with `して`                |
-| 追いつく | Verb/Godan   | 追いついて  | Godan Verbs Ending `く` is replaced with `いて`                |
-| 泳ぐ     | Verb/Godan   | 泳いで     | Godan Verbs Ending `ぐ` is replaced with `いで`                |
-| 美味しい | い-Adjective | 美味しくて  | The final `い` is replaced with `くて`                         |
-| 暑い     | い-Adjective | 暑くて     | The final `い` is replaced with `くて`                         |
-| 有名     | な-Adjective | 有名で     | `で` is appended to the end of the `な-Adjective`              |
-| 冷蔵庫   | Noun         | 冷蔵庫で　 | `で` is appended to the end of the `Noun`                      |
+Please see the unified [Conjugation-Examples](conjugation-examples.md) page for examples.

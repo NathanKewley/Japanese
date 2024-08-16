@@ -37,3 +37,7 @@ Godan verbs that end in `う` have a special variation - instead of ending in `�
 ```
 
 Note: If a sentance ends with an `い` adjective you can omit `です`/`だ` in casual speech. This includes when you negate an adjective into a negative `い` adjective.
+
+## Examples
+
+Please see the unified [Conjugation-Examples](conjugation-examples.md) page for examples.

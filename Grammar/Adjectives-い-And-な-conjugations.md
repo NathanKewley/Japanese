@@ -59,14 +59,4 @@ The negative form of `いいです` is simply `よくないです`. You just hav
 
 ## Adjective Conjugation Examples
 
-The below table contrins examples for each of the conjugations types covered here.
-
-| Adjective      | Adjective (Kanji)      | Type |  Negative Form   | Past Form      | Negative Past Form   |
-| -------------- | -----------------------| ---- |  --------------- | -------------- | -------------------- |
-| さむいです      | 寒いです                | い   | 寒くないです      | 寒かったです    | 寒くなかったです       |
-| むずかしいです  | 難しです                | い    | 難しくないです    | 難しかったです  | 難しくなかったです     |
-| たかいです      | 高いです                | い   | 高くないです      | 高かったです    | 高くなかったです       |
-| いいです        | いいです                | EX   | TBD              | TBD           | TBD                   |
-| きれいです      | 綺麗です                | な   | 綺麗じゃありません | 綺麗いでした   | 綺麗じゃありませんでした |
-| しんせつです    | 親切です                | な   | 親切じゃありません | 親切でした     | 親切じゃありませんでした |
-| ゆうめいです    | 有名です                | な   | 有名じゃありません | 有名でした     | 有名じゃありませんでした |
+Please see the unified [Conjugation-Examples](conjugation-examples.md) page for examples.
