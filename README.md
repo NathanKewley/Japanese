@@ -13,13 +13,13 @@ Central place for my notes on Learning Japanese. The course in Japan is based on
 | Verb      | A verb describes an action, state or occurance. `A doing word`. |
 | Adjective | An attribute of a noun. `A describing word`.                    |
 
+## Quick References
+
+* [Conjugation Examples](Grammar/conjugation-examples.md)
+
 ## Particle References
 
 Particle Quick Reference where I have details beyond whats in [みんなの日本語](みんなの日本語/README.md).
-
-### Quick Reference
-
-* [Conjugation Examples](Grammar/conjugation-examples.md)
 
 ### General
 
