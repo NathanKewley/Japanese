@@ -149,12 +149,13 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 ## Lesson 12
 
-| Lesson Point                     | Example                                                            | Short Summary                                               |
-| -------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------- |
-| `どちらが` (Which one (of 2?))    | `いぬ　と　ねこ　と　どちらが　すぢですか` (Do you like Dogs or Cats?) | Used in a question to present a choce between 2 options.    |
-| `どちらも` (Both)                 | `どちらも　すきです` (I like both)                                   | Used to say you like both (all?) of the presented options   |
-| `ほうが` (More Than)              |  |  |
-| `より` (Less Than)                |  |  |
+| Lesson Point                             | Example                                                            | Short Summary                                               |
+| ---------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------- |
+| `どちらが` (Which one (of 2?) adjectives) | `いぬ　と　ねこ　と　どちらが　すぢですか` (Do you like Dogs or Cats?) | Used in a question to present a choce between 2 options.    |
+| `どちらも` (Both)                         | `どちらも　すきです` (I like both)                                   | Used to say you like both (all?) of the presented options   |
+| `ほうが` (More Than)                      |  |  |
+| `より` (Less Than)                        |  |  |
+| `ずっと` (Very More in comparison)        | `かんじ　の　ほううが　ずっと　むずかしい　です` (Kanji is much more difficult) | Used in a comparison to say `x` is much more `<adjective>` in comparision to `y` |
 
 ## Items Not Yet Covered or not sure where belong
 
