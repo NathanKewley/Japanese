@@ -155,7 +155,8 @@ Where there are extra notes for any lession point, the lesson point will be link
 | `どちらも` (Both)                         | `どちらも　すきです` (I like both)                                   | Used to say you like both (all?) of the presented options   |
 | `ほうが` (More Than)                      |  |  |
 | `より` (Less Than)                        |  |  |
-| `ずっと` (Very More in comparison)        | `かんじ　の　ほううが　ずっと　むずかしい　です` (Kanji is much more difficult) | Used in a comparison to say `x` is much more `<adjective>` in comparision to `y` |
+| `ずっと` (Very More in comparison)    | `かんじ　の　ほううが　ずっと　むずかしい　です` (Kanji is much more difficult) | Used in a comparison to say `x` is much more `<adjective>` in comparision to `y` |
+| `で` (of this group) | `にほん　の　りょうり　で　なにが　いちばん　すきですか` (What kind of Japanese cooking do you like most) | Used to indicate a choice within a group of things like Japaneese cooking. |
 
 ## Items Not Yet Covered or not sure where belong
 
