@@ -142,10 +142,10 @@ Where there are extra notes for any lession point, the lesson point will be link
 | Lesson Point                     | Example | Short Summary                                            |
 | -------------------------------- | ------- | -------------------------------------------------- |
 | いくつ (Asking how many)         | `りんご　が　いくつ　ありますか` (How many apples are there?) | Used to ask how many of a thing there are. |
-| じかん (Amount of time)          | `私　の　国　から　日本　で　飛行機　で　４時間　かかります` (From my country it takes 4 hours by plane to Japan) | Used to specify an amount of time something takes or is done for. |
+| かん / 間 (Amount of time)       | `私　の　国　から　日本　で　飛行機　で　４時間　かかります` (From my country it takes 4 hours by plane to Japan) | Used to specify an amount of time something takes or is done for. |
 | だけ (Only / Just)               | `毎日　一時間　だけ　勉強します` (Everyday I only study for 1 hour) | Can be used pretty much anywhere. Makes the marked `noun/verb/adjective` as only. In the case of the example implying `only an hour` is a short amount of time to study. |
 | どのくらい (How Long)            | `田中さん　は　どのくらい　日本語　を　勉強しましたか` (Tanaka, how long have you studied Japanese for) | Used to ask how long someone has done something for. `Prob more to this to check later and update.` |
-| ぐらい / くらい (Approximatly)   | `国　で　1年　くらい　日本語　を　勉強しました` (I have studied Japanese for around 1 year) | Used to mark a statement as an approximation. As far as I can tell `ぐらい` and `くらい` are interchangable? |
+| ぐらい / くらい (Approximatly)   | `1年　くらい　日本語　を　勉強しました` (I have studied Japanese for around 1 year) | Used to mark a statement as an approximation. As far as I can tell `ぐらい` and `くらい` are interchangable? |
 | かかります (Duration to go)      | `大阪　から　東京　まで　新幹線　で　どのくらい　かかりますか` (How long does it take to get from Osake to Tokyo via ShinnKanSenn) | Used to ask or answer how long something takes.  |
 | に (Frequency)                   | `1年　に　5回　ぐらい　映画　を　みます` (I watch about 5 movies each year) | Used to specify a frequency withing a timeframe. `<TimeFrame>に<TimesPerTimeframe>` |
 | とき (At the time)               | `こども　の　とき　なに　が　すきじゃありませんでしたか` (When you were a kid, what did you not like) | Used to set the time context of the sentance. |
@@ -155,12 +155,12 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point                             | Example                                                            | Short Summary                                               |
 | ---------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------- |
-| `どちらが` (Which one (of 2?) adjectives) | `犬　と　猫　と　どちらが　すぢですか` (Do you like Dogs or Cats?) | Used in a question to present a choce between 2 options.    |
+| `どちらが` (Which one (of 2?) adjectives) | `犬　と　猫　と　どちらが　すきですか` (Do you like Dogs or Cats?) | Used in a question to present a choce between 2 options.    |
 | `どちらも` (Both)                         | `どちらも　すきです` (I like both)                                   | Used to say you like both (all?) of the presented options   |
 | `のほうが` (More Than)                      | `漢字　のほうが　むずかいです` (Kanji is the most complicated)    | Used as `more than` in a comparison |
 | `より` (Less Than)                        | `バス　は　電車　より　おそいです` (The train is less slow than the bus) | Used as `less than` in a comparison |
 | `ずっと` (Very More in comparison)    | `漢字　の　ほううが　ずっと　難しい　です` (Kanji is much more difficult) | Used in a comparison to say `x` is much more `<adjective>` in comparision to `y` |
-| `で` (of this group) | `日本　の　料理　で　(なにが/いつが)　一番　すきですか` (What kind of Japanese cooking do you like most) | Used to indicate a choice within a group of things like Japaneese cooking. |
+| `で` (of this group) | `日本　の　料理　で　(なにが/いつが)　一番　すきですか` (What kind of Japanese cooking do you like most) | Used to indicate a choice within a group of things like Japaneese cooking. Difference between (なにが/いつが) is still unclear to me when you use what. |
 
 ## Items Not Yet Covered or not sure where belong
 
