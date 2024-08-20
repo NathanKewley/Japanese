@@ -121,7 +121,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | ----------------------------- | ------- | --------------------------------------------------- |
 | とくい (Am good at - polite)   | `わたし　は　うた　が　とくい　です` (I am good at singing) | `とくい` is a more humble way of talking about been good at something and generally should be used when talking about yourself or family rather than `じょうず`. |
 | にがて (Am bad at - polite)    | `わたし　は　うた　が　あまり　にがて　です` (I am not very good at singing) | `にがて` is a bit different in that it can mean not being good at, or not liking something. |
-| すこし, とても, だいたい, よこ (+ Frequency) | `よく を あまり たべます` (I often eat apples) | For `+` frequency words the sentance should be in positive form. |
+| すこし, とても, だいたい, よこ (+ Frequency) | `りんご を よく たべます` (I often eat apples) | For `+` frequency words the sentance should be in positive form. |
 | あまり, ぜんぜん　(- Frequency) | `りんご を あまり たべません` (I dont eat apples often) | For `-` Frequency terms the sentance should take negative form. |
 
 ## Lesson 10
