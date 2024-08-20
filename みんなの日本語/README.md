@@ -139,9 +139,9 @@ Where there are extra notes for any lession point, the lesson point will be link
 | -------------------------------- | ------- | -------------------------------------------------- |
 | いくつ (Asking how many)         | `りんご　が　いくつ　ありますか` (How many apples are there?) | Used to ask how many of a thing there are. |
 | じかん (Amount of time)          | `わたし　の　くに　から　にほん　で　ひこうき　で　４じかん　かかります` (From my country it takes 4 hours by plane to Japan) | Used to specify an amount of time something takes or is done for. |
-| だけ (Only / Just)               | `毎日　一時間　だけ　勉強します` (Everyday I only study for 1 hour) | Can be used pretty much anywhere. Makes the marked `noun/verb/adjective` and only |
-| どのくらい (How Long)            | `田中さん　は　どのくらい　にほんご　を　べんきょうしましたか` (Tanaka, how long have you studied Japanese for) | Used to ask how long someone has done something for. Prob more to this to check later and update as well. |
-| ぐらい / くらい (Approximatly)   | `くに　で　１ねん　くらい　にほんご　を　べんきょうしました` (I have studied Japanese for around 1 year) | Used to mark a statement as an approximation. When to use `ぐらい` vs `くらい` ?? |
+| だけ (Only / Just)               | `毎日　一時間　だけ　勉強します` (Everyday I only study for 1 hour) | Can be used pretty much anywhere. Makes the marked `noun/verb/adjective` as only. In the case of the example implying `only an hour` is a short amount of time to study. |
+| どのくらい (How Long)            | `田中さん　は　どのくらい　にほんご　を　べんきょうしましたか` (Tanaka, how long have you studied Japanese for) | Used to ask how long someone has done something for. `Prob more to this to check later and update.` |
+| ぐらい / くらい (Approximatly)   | `くに　で　１ねん　くらい　にほんご　を　べんきょうしました` (I have studied Japanese for around 1 year) | Used to mark a statement as an approximation. As far as I can tell `ぐらい` and `くらい` are interchangable? |
 | かかります (Duration to go)      | `大阪　から　とうきょう　まで　しんかんせん　で　どのくらい　かかりますか` (How long does it take to get from Osake to Tokyo via ShinnKanSenn) | Used to ask or answer how long something takes.  |
 | に (Frequency)                   | `1ねん　に　５かい　ぐらい　えいが　を　みます` (I watch about 5 movies each year) | Used to specify a frequency withing a timeframe. `<TimeFrame>に<TimesPerTimeframe>` |
 | とき (At the time)               | `こども　の　とき　なに　が　すきじゃありませんでしたか` (When you were a kid, what did you not like) | Used to set the time context of the sentance. |
@@ -153,8 +153,8 @@ Where there are extra notes for any lession point, the lesson point will be link
 | ---------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------- |
 | `どちらが` (Which one (of 2?) adjectives) | `いぬ　と　ねこ　と　どちらが　すぢですか` (Do you like Dogs or Cats?) | Used in a question to present a choce between 2 options.    |
 | `どちらも` (Both)                         | `どちらも　すきです` (I like both)                                   | Used to say you like both (all?) of the presented options   |
-| `のほうが` (More Than)                      | `かんじ　のほうが　むずかいです` (Kanji is the most complicated)    | Used as more than in a comparison |
-| `より` (Less Than)                        | `バス　わ　でんしゃ　より　おそいです` (The train is less slow than the bus) | Used as less than in a comparison |
+| `のほうが` (More Than)                      | `かんじ　のほうが　むずかいです` (Kanji is the most complicated)    | Used as `more than` in a comparison |
+| `より` (Less Than)                        | `バス　は　でんしゃ　より　おそいです` (The train is less slow than the bus) | Used as `less than` in a comparison |
 | `ずっと` (Very More in comparison)    | `かんじ　の　ほううが　ずっと　むずかしい　です` (Kanji is much more difficult) | Used in a comparison to say `x` is much more `<adjective>` in comparision to `y` |
 | `で` (of this group) | `にほん　の　りょうり　で　(なにが/いつが)　いちばん　すきですか` (What kind of Japanese cooking do you like most) | Used to indicate a choice within a group of things like Japaneese cooking. |
 
