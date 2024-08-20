@@ -135,7 +135,8 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 ## Lesson 11
 
-From here examples will start to make use of kanji in some instances.
+> [!NOTE]
+> From here examples will start to make use of kanji in some instances.
 
 | Lesson Point                     | Example | Short Summary                                            |
 | -------------------------------- | ------- | -------------------------------------------------- |
