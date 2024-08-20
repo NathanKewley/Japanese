@@ -1,9 +1,10 @@
 # みんなの日本語
 
-Broken down by lesson and important parts of each lesson.
+Notes takes as we are going through the book in class.
 
 > [!WARNING]
-> These notes are just for me and are not comprehensive and written in the way I want them // the way that makes sense to me. There may also be mistakes as I am shit at Japanese.
+> These notes are written for me in the way I want them // the way that makes sense to me.
+> There will almost certantly be some mistakes as I am shit at Japanese.
 
 Where there are extra notes for any lession point, the lesson point will be linked to the additional notes in the `Lesson Point` column.
 
