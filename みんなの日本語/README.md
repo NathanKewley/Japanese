@@ -139,7 +139,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | -------------------------------- | ------- | -------------------------------------------------- |
 | いくつ (Asking how many)         | `りんご　が　いくつ　ありますか` (How many apples are there?) | Used to ask how many of a thing there are. |
 | じかん (Amount of time)          | `わたし　の　くに　から　にほん　で　ひこうき　で　４じかん　かかります` (From my country it takes 4 hours by plane to Japan) | Used to specify an amount of time something takes or is done for. |
-| だけ (Only / Just)               | `` ------  | ------ |
+| だけ (Only / Just)               | `毎日　一時間　だけ　勉強します` (Everyday I only study for 1 hour) | Can be used pretty much anywhere. Makes the marked `noun/verb/adjective` and only |
 | どのくらい (How Long)            | `田中さん　は　どのくらい　にほんご　を　べんきょうしましたか` (Tanaka, how long have you studied Japanese for) | Used to ask how long someone has done something for. Prob more to this to check later and update as well. |
 | ぐらい / くらい (Approximatly)   | `くに　で　１ねん　くらい　にほんご　を　べんきょうしました` (I have studied Japanese for around 1 year) | Used to mark a statement as an approximation. When to use `ぐらい` vs `くらい` ?? |
 | かかります (Duration to go)      | `大阪　から　とうきょう　まで　しんかんせん　で　どのくらい　かかりますか` (How long does it take to get from Osake to Tokyo via ShinnKanSenn) | Used to ask or answer how long something takes.  |
