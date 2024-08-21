@@ -166,9 +166,11 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point                 | Example                                            | Short Summary                                               |
 | ---------------------------- | -------------------------------------------------- | ----------------------------------------------------------- |
-| `ほしい` (Want)               | `新しい　ゲーム　が　欲しいです` (I want a new game) | Used at the end of a sentance to say you want something |
+| `ほしい` (Want)               | `新しい　ゲーム　が　欲しいです` (I want a new game) | Used at the end of a sentance to say you want something. Used in the format `<Noun>　が　ほしいです`. |
 | `ほしくないです` (Do not want) | `いいえ　ほしくないです` (No, I do not want)        | Negative conjugation of `ほしい` to indicate not wanting something |
-| `たい` (want)                 | `ビール　を　のみたいです` (I want to dirnk beer)   | Conjugates a verb to indicate wanting to do -- `Need to update verb conjugation page to include this` |
+| `たい` (want)                 | `ビール　を　のみたいです` (I want to dirnk beer)   | Conjugates a verb to indicate wanting to do -- `Need to update verb conjugation page to include this and the negative form たべたくないです`  |
+| `なにか` (Anything?)          | `なにか　食べたいです` (I want to eat anything)　  | not sure on details.... `tbd` |
+| `に` (Purpose)                | `渋谷　へ　お酒　を　のみ　に　いきました` (I went to shibuyya to drink). `よこはま　へ　コンサート　に　いきました`　(I went to yokohoma for a consert). | `に` marks the reason you go somwewhere. |
 
 ## Items Not Yet Covered or not sure where belong
 
