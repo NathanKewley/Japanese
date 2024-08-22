@@ -155,22 +155,22 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point                             | Example                                                            | Short Summary                                               |
 | ---------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------- |
-| `どちらが` (Which one (of 2?) adjectives) | `犬　と　猫　と　どちらが　すきですか` (Do you like Dogs or Cats?) | Used in a question to present a choce between 2 options.    |
-| `どちらも` (Both)                         | `どちらも　すきです` (I like both)                                   | Used to say you like both (all?) of the presented options   |
-| `のほうが` (More Than)                      | `漢字　のほうが　むずかいです` (Kanji is the most complicated)    | Used as `more than` in a comparison |
-| `より` (Less Than)                        | `バス　は　電車　より　おそいです` (The train is less slow than the bus) | Used as `less than` in a comparison |
-| `ずっと` (Very More in comparison)    | `漢字　の　ほううが　ずっと　難しい　です` (Kanji is much more difficult) | Used in a comparison to say `x` is much more `<adjective>` in comparision to `y` |
-| `で` (of this group) | `日本　の　料理　で　(なにが/いつが)　一番　すきですか` (What kind of Japanese cooking do you like most) | Used to indicate a choice within a group of things like Japaneese cooking. Difference between (なにが/いつが) is still unclear to me when you use what. |
+| どちらが (Which one (of 2?) adjectives) | `犬　と　猫　と　どちらが　すきですか` (Do you like Dogs or Cats?) | Used in a question to present a choce between 2 options.    |
+| どちらも (Both)                         | `どちらも　すきです` (I like both)                                   | Used to say you like both (all?) of the presented options   |
+| のほうが (More Than)                      | `漢字　のほうが　むずかいです` (Kanji is the most complicated)    | Used as `more than` in a comparison |
+| より (Less Than)                        | `バス　は　電車　より　おそいです` (The train is less slow than the bus) | Used as `less than` in a comparison |
+| ずっと (Very More in comparison)    | `漢字　の　ほううが　ずっと　難しい　です` (Kanji is much more difficult) | Used in a comparison to say `x` is much more `<adjective>` in comparision to `y` |
+| で (of this group) | `日本　の　料理　で　(なにが/いつが)　一番　すきですか` (What kind of Japanese cooking do you like most) | Used to indicate a choice within a group of things like Japaneese cooking. Difference between (なにが/いつが) is still unclear to me when you use what. |
 
 ## Lesson 13
 
 | Lesson Point                 | Example                                            | Short Summary                                               |
 | ---------------------------- | -------------------------------------------------- | ----------------------------------------------------------- |
-| `ほしい` (Want)               | `新しい　ゲーム　が　欲しいです` (I want a new game) | Used at the end of a sentance to say you want something. Used in the format `<Noun>　が　ほしいです`. |
-| `ほしくないです` (Do not want) | `いいえ　ほしくないです` (No, I do not want)        | Negative conjugation of `ほしい` to indicate not wanting something |
-| `たい` (want)                 | `ビール　を　のみたいです` (I want to dirnk beer)   | Conjugates a verb to indicate wanting to do -- `Need to update verb conjugation page to include this and the negative form たべたくないです`  |
-| `なにか` (Anything?)          | `なにか　食べたいです` (I want to eat anything)　  | not sure on details.... `tbd` |
-| [`に` (Purpose)](../Grammar/に.md) | `渋谷　へ　お酒　を　のみ　に　いきました` (I went to shibuyya to drink). `よこはま　へ　コンサート　に　いきました`　(I went to yokohoma for a consert). | `に` marks the reason you go somwewhere. In this case the `まし` is removed from the Verb. So the form is `<Place>へ<thing>を<Verb()>に<いきまし>`. |
+| ほしい (Want)               | `新しい　ゲーム　が　欲しいです` (I want a new game) | Used at the end of a sentance to say you want something. Used in the format `<Noun>　が　ほしいです`. |
+| ほしくないです (Do not want) | `いいえ　ほしくないです` (No, I do not want)        | Negative conjugation of `ほしい` to indicate not wanting something |
+| たい (want)                 | `ビール　を　のみたいです` (I want to dirnk beer)   | Conjugates a verb to indicate wanting to do -- `Need to update verb conjugation page to include this and the negative form たべたくないです`  |
+| なにか (Anything?)          | `なにか　食べたいです` (I want to eat anything)　  | not sure on details.... `tbd` |
+| [に (Purpose)](../Grammar/に.md) | `渋谷　へ　お酒　を　のみ　に　いきました` (I went to shibuyya to drink). `よこはま　へ　コンサート　に　いきました`　(I went to yokohoma for a consert). | `に` marks the reason you go somwewhere. In this case the `まし` is removed from the Verb. So the form is `<Place>へ<thing>を<Verb()>に<いきまし>`. |
 
 ## Items Not Yet Covered or not sure where belong
 
