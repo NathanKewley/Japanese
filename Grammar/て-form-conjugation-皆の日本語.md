@@ -26,7 +26,7 @@ Group 1 seems to bascially just be `Godan Verbs` but with a set of modified rule
 
 #### Group 1 Verbs Ending in います　ちます　ります
 
- ending `います`, `ちます` or `ります` is replaced with `って`:
+The Ending `います`, `ちます` or `ります` is replaced with `って`:
 
 * `買います` --> `買って`
 * `もらいます` --> `もらって`
