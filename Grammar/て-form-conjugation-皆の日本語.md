@@ -2,9 +2,9 @@
 
 > [!WARNING]
 > `皆の日本語` teaches vocabuly based on the `ます Form` rather than the dictionary form. IMHO this is a bad way to learn vocabulary.
-
+>
 > This is relevant here because `皆の日本語` teaches conjugation to `て Form` from the `ます Form` rather than the dictionary form. This introduces unessasary steps to conjugation and created some ambiguity.
-
+>
 > This page only exists because the course I am doing uses `皆の日本語` and thus I have to learn this bad way of conjugation. I strongly reccomend lerning `て Form` conjugation from the dictionary form. see [て-form-conjugations.md](て-form-conjugation.md).
 
 The following all have conjugations into the `て Form`:
