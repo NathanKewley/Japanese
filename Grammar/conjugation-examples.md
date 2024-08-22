@@ -56,8 +56,8 @@ For detailed explanation of `て` form conjugations please see the [Main Page fo
 
 ## て Form (皆の日本語)
 
-> ![WARNING]
-> This table is not updated yet and should not be referenced.
+> [!WARNING]
+> This table is not updated yet and should not be referenced. Also this is not the advised way to conjugate into `て Form`.
 
 | Term     | Type         | て Form    | Rule Summary                                                 |
 | -------- | ------------ | --------- | ------------------------------------------------------------- |
