@@ -174,7 +174,10 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 ## Lesson 14
 
-this was basically te form. Fix this later but for now just linking here - * [て Form Conjugations 皆の日本語](../Grammar/て-form-conjugation-皆の日本語.md)
+| Lesson Point                   | Example                                            | Short Summary                                                    |
+| ------------------------------ | -------------------------------------------------- | ---------------------------------------------------------------- |
+| [て Form Conjugations 皆の日本語](../Grammar/て-form-conjugation-皆の日本語.md)       | See linked page | Conjugation rules for `ます` form to `て` form. |
+| います to て Form (Doing "ing") | `女の人　は　話しています` (A woman is talking)      | Makes the て Form represent an action currently being performed. For this `います` is appended to the `て Form` form. `いません` can also be used for the negative to say something is not currently being done. |
 
 ## Items Not Yet Covered or not sure where belong
 
