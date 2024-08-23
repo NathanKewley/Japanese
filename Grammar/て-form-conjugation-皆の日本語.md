@@ -42,15 +42,15 @@ The ending `みます`, `びます` or `にます` is replaced with `んで`:
 
 The ending `します` is replaced with `して`:
 
-* `話す` --> `話して`
-* `殺す` --> `殺して`
+* `話します` --> `話して`
+* `殺します` --> `殺して`
 
 #### Group 1 Verbs Ending in きます
 
 The ending `きます` is replaced with `いて`:
 
-* `書く` --> `書いて`
-* `追いつく` --> `追いついて`
+* `書きます` --> `書いて`
+* `追いついます` --> `追いついて`
 
 #### Group 1 Verbs Ending in ぎます
 
