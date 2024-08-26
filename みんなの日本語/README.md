@@ -189,8 +189,6 @@ Where there are extra notes for any lession point, the lesson point will be link
 | `てもいい` (You can do)    | `食べ物　を　食べて　もいい　です` (It is ok if you eat). `まど　を　閉めて　もいいですか` (is it ok to close the window) | To instruct that an action is ok. This is used in the form `<て Form><もいい>です`         |
 | `から` (The reason is)    | `頭　が　痛い　から。学校　を　休んでいます` (I have a headache thus wont be at school) | Used to provide a reason for something. As like any grammar point it is appended to the statment providing the reason. |
 
-お酒　のんで　は　いけません (page 128) - ?
-
 ## Items Not Yet Covered or not sure where belong
 
 | Language Point                | Example | Short Summary                                            |

@@ -63,3 +63,4 @@ Central place for my notes on Learning Japanese. The course in Japan is based on
 ## Things to understand betta
 
 * `で` みんなの日本語 - lesson 12: `なにが` vs `いつが` --> What is the difference?
+* `お酒　のんで　は　いけません` - What is the purpose of `のんで` in this sentance?
