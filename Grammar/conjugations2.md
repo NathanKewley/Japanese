@@ -30,13 +30,16 @@ All verbs are in the centre `う` row in thier dicitonary form. Conjugating requ
     <------>
 ```
 
+> [!NOTE]
+> There is 1 single exception to this rule. `う` moving to the `あ` colum has the sound change to `わ` rather than `あ`.
+
 ### い Column
 
 | Type | Form         | Ichidan Helper Verb | Short explanation | Example   |
 | ---- | ------------ | ------------------- | ----------------- | --------- |
-| ます | Formal       | <None>              | Speak so Profesh  | はなします |
-| たい | Desire       | <None>              | Desire to do      | はなしたい |
-| そう | Looks Like   | <None>              | Looks Like        | はなしそう |
+| ます | Formal       | (None)              | Speak so Profesh  | はなします |
+| たい | Desire       | (None)              | Desire to do      | はなしたい |
+| そう | Looks Like   | (None)              | Looks Like        | はなしそう |
 
 ### あ Column
 
