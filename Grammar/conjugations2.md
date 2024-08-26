@@ -11,11 +11,19 @@ From this page there is missing (For Now):
 
 ## Conjugation types
 
-Every example will make use of the Godan Verb `はなす` (to talk) showing it in every form.
+### Godan
 
-## Columns
+`Godan` verbs make use of the `Conjugation Colums` to identify the last sound change required to transform into each form. For simplicity every conjugation will use `はなす` as the example.
 
-All verbs are in the centre `う` row in thier dicitonary form. Conjugating requires moving across the kana chart. Left to right in the one below. The last `う` sound of the Verb is replaced with the sound in the corresponding colums of each conjugation type.
+### Ichidan
+
+`Ichidan` Verbs are easy, the ending `る` is replaced with the `Ichidan Helper Verb` in the tables below for each form.
+
+## Conjugation Columns
+
+All `Godan` verbs are in the centre `う` row in thier dicitonary form. Conjugating requires moving across the kana chart (Left <--> right in the one below).
+
+The last `う` sound of the Verb is replaced with the sound in the corresponding colums of each conjugation type.
 
 ```text
     <------>
@@ -37,9 +45,9 @@ All verbs are in the centre `う` row in thier dicitonary form. Conjugating requ
 
 | Type | Form         | Ichidan Helper Verb | Short explanation | Example   |
 | ---- | ------------ | ------------------- | ----------------- | --------- |
-| ます | Formal       | (None)              | Speak so Profesh  | はなします |
-| たい | Desire       | (None)              | Desire to do      | はなしたい |
-| そう | Looks Like   | (None)              | Looks Like        | はなしそう |
+| ます | Formal       | ます                | Speak so Profesh  | はなします |
+| たい | Desire       | たい                | Desire to do      | はなしたい |
+| そう | Looks Like   | そう                | Looks Like        | はなしそう |
 
 ### あ Column
 
@@ -61,4 +69,4 @@ All verbs are in the centre `う` row in thier dicitonary form. Conjugating requ
 | ---- | ------------ | ------------------- | --------------------------- | -------- |
 | う   | volitional   | よう                 | Lets do x                   | はなそう |
 
-[Great video explaing this really really well where the screenshot is stolen from...](https://www.youtube.com/watch?v=FhyrskGBKHE&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=8)
+[Great video explaing this really really well](https://www.youtube.com/watch?v=FhyrskGBKHE&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=8)
