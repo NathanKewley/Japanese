@@ -11,9 +11,6 @@ The following all have conjugations into the `て Form`:
 
 For `な-Adjectives` and `Nouns` `で` is simply appended.
 
-> [!NOTE]
-> There is a table at the bottom of this page with examples of each and a summary of the rules to conjugate.
-
 ## Conjugating Verbs
 
 The way `verbs` conjugate depends on the type of verb. For how to identify Verb type please see [verb-types](verb-types.md).
@@ -94,6 +91,6 @@ Also easy, just append `で`!
 * `冷蔵庫` --> `冷蔵庫で`
 * `駅` --> `駅で`
 
-## Exampels of Conjugations
+## Examples
 
 Please see the unified [Conjugation-Examples](conjugation-examples.md) page for examples.

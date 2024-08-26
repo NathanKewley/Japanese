@@ -2,7 +2,23 @@
 
 Central place for examples of every type of conjugations.
 
-## Negative Form
+## Verb Stem Form
+
+For now please see the full page [here](verb-types)
+
+## ます Form (Verbs)
+
+| Term        | Type         | Verb Stem | Conjugation Type | ます Form       | Rule Summary                                              |
+| ----------- | ------------ | --------- | ---------------- | -------------- | ---------------------------------------------------------- |
+| たべる       | Ichidan Verb | たべ      | Present          | たべます        | `ます` is appended to the `Verb Stem`                      |
+| たべる       | Ichidan Verb | たべ      | Negative         | たべません      | `ません` is appended to the `Verb Stem`                    |
+| たべる       | Ichidan Verb | たべ      | Past             | たべました      | `ました` is appended to the `Verb Stem`                    |
+| たべる       | Ichidan Verb | たべ      | Past Negative    | たべませんでした | `ませんでし` is appended to the `Verb Stem`                |
+
+> [!NOTE]
+> Only Ichidan Verbs are shown in the examples, however once you have the `Verb Stem` the rules are the same regardless or Ichidan, Godan or Irregular Verbs.
+
+## Negative Form Adjectives
 
 | Term        | Term (Kanji) | Type         | Negative Form    | Rule Summary                                               |
 | ----------- | ------------ | ------------ | ---------------- | ---------------------------------------------------------- |
@@ -13,7 +29,7 @@ Central place for examples of every type of conjugations.
 
 For detailed explanation on Adjective conjugations please see the [Main Page for い and な Conjugations](Adjectives-い-And-な-conjugations.md)
 
-## Past Tense
+## Past Tense Adjectives
 
 | Term        | Term (Kanji) | Type         | Past Form        | Rule Summary                                               |
 | ----------- | ------------ | ------------ | ---------------- | ---------------------------------------------------------- |
@@ -24,7 +40,7 @@ For detailed explanation on Adjective conjugations please see the [Main Page for
 
 For detailed explanation on Adjective conjugations please see the [Main Page for い and な Conjugations](Adjectives-い-And-な-conjugations.md)
 
-## Past Negative
+## Past Negative Adjectives
 
 | Term        | Term (Kanji) | Type         | Past Negative Form     | Rule Summary                                               |
 | ----------- | ------------ | ------------ | ---------------------- | ---------------------------------------------------------- |

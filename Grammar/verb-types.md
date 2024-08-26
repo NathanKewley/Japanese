@@ -1,6 +1,6 @@
 # Verb Types
 
-`Verbs` are words that describe an action, there are 3 types of `Verbs` in Japanese. `Ichidan`, `Godan` and `Irregular`. All verbs have a Verb stem used for conjugations. The verb stem in the tables on this page is refered to as `Conjugation prepped` (prob change this all to verb stem for consistency?)
+`Verbs` are words that describe an action, there are 3 types of `Verbs` in Japanese. `Ichidan`, `Godan` and `Irregular`. All verbs have a `Verb Stem` that is used as the base for conjugations.
 
 ## Ichidan
 
@@ -8,17 +8,20 @@
 
 The dictionary form of all `Ichidan` verbs end with `る`. However not every verb that ends in `る` is an `Ichidan` verb. There is no set rule or logic to this... you just have to lean which verbs ending in `る` are `Ichidan` or `Godan`. (Love me some ambiguity).
 
-### Ichidan Conjugation
+### Ichidan Stem Form
 
 `Ichidan` verbs are easy to conjugate as they take only `1-step` to prepare for conjugation. That `1-step` is to drop the `る`. The new verb ending is then added.
 
 ### Ichidan Examples
 
-| Base Verb (Positive) | Conjugation Prepped | Negative | Negative (Polite) | Positive (Polite) |
-| -------------------- | ------------------- | -------- | ----------------- | ----------------- |
-| たべる (To Eat)       | たべ                | たべない  | たべません         | たべます          |
-| おきる (To wake up)   | おき                | おきない  | おきません         | おきます          |
-| みる (To see)         | み                  | みない   | みません           | みます            |
+> [!NOTE]
+> To be centralised in conjugation exmaples
+
+| Base Verb (Positive) | Verb Stem | Negative | Negative (Polite) | Positive (Polite) |
+| -------------------- | --------- | -------- | ----------------- | ----------------- |
+| たべる (To Eat)       | たべ      | たべない  | たべません         | たべます          |
+| おきる (To wake up)   | おき      | おきない  | おきません         | おきます          |
+| みる (To see)         | み        | みない   | みません           | みます            |
 
 ## Godan
 
@@ -26,7 +29,7 @@ The dictionary form of all `Ichidan` verbs end with `る`. However not every ver
 
 If a verb does not end in `る` it is deffiantly a `Godan` Verb. If a verb ends in `る` it **MIGHT** be a `Godan` Verb. There is no rule for this, you just have to know which are which.
 
-### Goadn Conjugation
+### Godan Stem Form
 
 Conjugating a `Godan` verb is a bit more complicated than `Ichidan`. It requires knowing the Japanese `vowel order` of `あ → い → う → え → お`. Preparing a `Godan` verb for conjugation requires taking the last sound of the verb and moving it `up` the `vowel order` one step.
 
@@ -47,13 +50,16 @@ Here is a chart for a quick reference to `vowel order` for all hiragana.
 
 ### Godan Examples
 
-| Base Verb (Positive) | Conjugation Prepped | Negative | Negative (Polite) | Positive (Polite) |
-| -------------------- | ------------------- | -------- | ----------------- | ----------------- |
-| かく (To Write)       | かき                | かかない  | かきません         | かきます          |
-| きる (To Cut)         | きり                | きらない  | きりません         | きります          |
-| はなす (To Talk)      | はなし              | はなさない | はなしません       | はなします        |
+> [!NOTE]
+> To be centralised in conjugation exmaples
 
-## Irregular
+| Base Verb (Positive) | Verb Stem | Negative | Negative (Polite) | Positive (Polite) |
+| -------------------- | --------- | -------- | ----------------- | ----------------- |
+| かく (To Write)       | かき      | かかない  | かきません         | かきます          |
+| きる (To Cut)         | きり      | きらない  | きりません         | きります          |
+| はなす (To Talk)      | はなし    | はなさない | はなしません       | はなします        |
+
+## Irregular Stem Form
 
 There are 2 irregular verbs (2 too many).
 
