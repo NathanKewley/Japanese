@@ -52,6 +52,7 @@ Particle Quick Reference where I have details beyond whats in [みんなの日�
 
 * Ones handwritten in book during class
 * Talking about change `する`　and `なる` - (Rensuu lesson JLPT5 Change)
+* Re-organise conjugations notes
 
 ## Things to understand betta
 

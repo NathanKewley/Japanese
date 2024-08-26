@@ -178,7 +178,14 @@ Where there are extra notes for any lession point, the lesson point will be link
 | ------------------------------ | -------------------------------------------------- | ---------------------------------------------------------------- |
 | [て Form Conjugations 皆の日本語](../Grammar/て-form-conjugation-皆の日本語.md)       | See linked page | Conjugation rules for `ます` form to `て` form. |
 | います to て Form (Doing "ing") | `女の人　は　話しています` (A woman is talking)      | Makes the て Form represent an action currently being performed. For this `います` is appended to the `て Form` form. `いません` can also be used for the negative to say something is not currently being done. |
-| `かた` (How / Method)           | `この　漢字　の　読みかた` (How to read this kanji?) | `かた` / `方` is used to ask / tell the how or method to do something |
+| かた (How / Method)             | `この　漢字　の　読みかた` (How to read this kanji?) | `かた` / `方` is used to ask / tell the how or method to do something |
+
+## Lesson 15
+
+| Lesson Point                   | Example                                                        | Short Summary                                                    |
+| ------------------------------ | -------------------------------------------------------------- | ---------------------------------------------------------------- |
+| `住んでいます` (Residing)       | `どこに　住んでいましたか` (Where did you live)                  | This is just vocab, no?                                          |
+| `いけません` (do not do) 　　　 |　`教室　で　たべて　は　いけません` (do not eat in the classroom) | To instruct that an action is prohibited (check details on this). This is used in the form `<て Form>(を/は)<いけません>`  |
 
 ## Items Not Yet Covered or not sure where belong
 

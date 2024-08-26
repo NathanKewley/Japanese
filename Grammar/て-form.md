@@ -4,9 +4,19 @@ Like most things in Japanese the `て Form` has multiple different uses.
 
 ## Tense for currently doing
 
-The `て Form` can be used to say you are currently doing something.
+This `tense` is apparently called `present progressive` which is used to indicate an action is currently in progress. For the `て Form` to be used this way it must be combined with the `いる` or `います` form (depening on formality).
 
-Like `eat` --> `eating` you have `食べる` --> `食べて`
+In english this is similar to the following 'ing' transformation of words:
+
+* `eat` --> `eating`     | `食べる` --> `食べて` --> `たべています`
+* `teach` --> `teaching` | `教える` --> `教えて` --> `教えています`
+
+### Examples
+
+* `先生　は　日本語　を　教えています` (Teacher is teaching Japanese)
+* `だいがく　は　日本語　を　べんきょうしてます` (Student is studying Japanese)
+* `だいがく　を　勉強しています` (Student is studying)
+* `会社　で　働いています` (I am working at company)
 
 ## Linking ideas
 
