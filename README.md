@@ -16,6 +16,7 @@ Central place for my notes on Learning Japanese. The course in Japan is based on
 ## Quick References
 
 * [Conjugation Examples](Grammar/conjugation-examples.md)
+* [Conjugation Forms Summary](Grammar/conjugations2.md)
 
 ## Language Terms
 
