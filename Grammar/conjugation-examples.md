@@ -4,7 +4,7 @@ Central place for examples of every type of conjugations.
 
 ## Verb Stem Form
 
-For now please see the full page [here](verb-types)
+For now please see the full page [here](verb-types.md)
 
 ## ます Form (Verbs)
 
