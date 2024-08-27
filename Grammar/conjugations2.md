@@ -8,19 +8,19 @@ From this page there is missing (For Now):
 
 * Adjectives
 
-## Conjugation types
-
-### Godan
-
-`Godan` verbs make use of the `Conjugation Colums` to identify the last sound change required to transform into each form. For simplicity every conjugation will use `はなす` as the example.
+## Verb Conjugations
 
 ### Ichidan
 
 `Ichidan` Verbs are easy, the ending `る` is replaced with the `Ichidan Helper Verb` in the tables below for each form.
 
+### Godan
+
+`Godan` verbs make use of the `Conjugation Colums` to identify the last sound change required to transform into each form. For simplicity every conjugation will use `はなす` as the example.
+
 ## た and て Form
 
-The table below shows the conjugations for all Ichidan verbs into both the `た` and `て` forms. The `Verb Ending` is replaced to make the `て` and `た` Forms.
+The table below shows the conjugations for all Godan verbs into both the `た` and `て` forms. The `Verb Ending` is replaced to make the `て` and `た` Forms.
 
 | Verb Ending      | て Form   | た Form  |
 | ---------------- | --------- | -------- |
@@ -29,6 +29,9 @@ The table below shows the conjugations for all Ichidan verbs into both the `た`
 | `す`             | `して`     | `した`   |
 | `く`             | `いて`     | `いた`   |
 | `ぐ`             | `いで`     | `いだ`   |
+
+> [!NOTE]
+> `Ichidan Helper Verb` is excluded form this table is its literally as simple as replacing the ending `る` with `て` or `た`.
 
 ## Conjugation Columns
 
