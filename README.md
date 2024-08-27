@@ -20,21 +20,35 @@ Central place for my notes on Learning Japanese. The course in Japan is based on
 
 ## Language Terms
 
-### General
-
-| Term                                               | Summary                           |
-| -------------------------------------------------- | --------------------------------- |
-| [あげる](Grammar/あげる.md)                         | Giving Things                     |
-| [もらう](Grammar/もらう.md)                         | Recieving Things                  |
-| [これ、それ、あれ](Grammar/これーそれーあれ.md)       | This, that, That over There       |
-| [この、その、あの](Grammar/このーそのーあの.md)       | This-x, That-x, That-x over There |
-| [いきます　と　きます](Grammar/いきます-と-きます.md) | To go to / to come to             |
-
 ### Particles
 
-* [か](Grammar/か.md)
-* [を](Grammar/を.md)
-* [に](Grammar/に.md)
+#### Logical Particles
+
+Logical particles always attach to the end of a noun and show the structure ofa sentance. Most particles have more than one purpose which is not conveyed in the short description.
+
+| particle                     | Short Description |
+| ---------------------------- | ----------------- |
+| [が](Grammar/particles/が.md) | `Who` or `What` is this sentance about |
+| [を](Grammar/particles/を.md) | `Who` or `What` was affected by the action of the sentance |
+| [に](Grammar/particles/に.md) | `where is something/someone` or `where is something/someone going` |
+| [へ]()                        | In `What Direction` did someone/something go |
+| [で]()                        | `Where` or `with what` was the action of the sentance performed |
+
+#### Non Logical Particles
+
+These do not change the structure of a sentance.
+
+| particle                     | Short Description |
+| ---------------------------- | ----------------- |
+| [は]()                       | |
+| [も]()                       | |
+
+#### Other Particles
+
+| particle                     | Short Description |
+| ---------------------------- | ----------------- |
+| [か](Grammar/particles/か.md) | |
+| [の]()                        | |
 
 ### Adjectives
 
@@ -44,15 +58,31 @@ Central place for my notes on Learning Japanese. The course in Japan is based on
 
 * [Verb Types](Grammar/verb-types.md)
 
-### Forms and Conjugations
+### Conjugated Form
 
+* [たい Form](Grammar/conjugated-forms/たい-to-want.md)
 * [Verb Steam Form](Grammar/verb-types.md)
 * [ます Form](Grammar/conjugation-ます-form.md)
 * [て Form](Grammar/て-form.md)
+
+### Conjugating
+
+* [Conjugations2](Grammar/conjugations2.md)
 * [て Form Conjugations](Grammar/て-form-conjugation.md)
 * [て Form Conjugations 皆の日本語](Grammar/て-form-conjugation-皆の日本語.md)
 * [い-Adjectives And な-Adjective Conjugations](Grammar/Adjectives-い-And-な-conjugations.md)
 * [Verb Casual Negating](Grammar/verb-casual-negation.md)
+
+### Other
+
+| Term                                               | Summary                           |
+| -------------------------------------------------- | --------------------------------- |
+| [あげる](Grammar/あげる.md)                         | Giving Things                     |
+| [もらう](Grammar/もらう.md)                         | Recieving Things                  |
+| [これ、それ、あれ](Grammar/これーそれーあれ.md)       | This, that, That over There       |
+| [この、その、あの](Grammar/このーそのーあの.md)       | This-x, That-x, That-x over There |
+| [いきます　と　きます](Grammar/いきます-と-きます.md) | To go to / to come to             |
+
 
 ## Notes to write
 
