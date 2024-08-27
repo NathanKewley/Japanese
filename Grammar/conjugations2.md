@@ -6,8 +6,7 @@ This page will aim to have every conjugation coverd as concicely as possible. Th
 
 From this page there is missing (For Now):
 
-* た Form
-* て Form
+* Adjectives
 
 ## Conjugation types
 
@@ -18,6 +17,18 @@ From this page there is missing (For Now):
 ### Ichidan
 
 `Ichidan` Verbs are easy, the ending `る` is replaced with the `Ichidan Helper Verb` in the tables below for each form.
+
+## た and て Form
+
+The table below shows the conjugations for all Ichidan verbs into both the `た` and `て` forms. The `Verb Ending` is replaced to make the `て` and `た` Forms.
+
+| Verb Ending      | て Form   | た Form  |
+| ---------------- | --------- | -------- |
+| `う`, `つ`, `る` | `って`     | `った`   |
+| `ぬ`, `ぶ`, `む` | `んで`     | `んだ`   |
+| `す`             | `して`     | `した`   |
+| `く`             | `いて`     | `いた`   |
+| `ぐ`             | `いで`     | `いだ`   |
 
 ## Conjugation Columns
 

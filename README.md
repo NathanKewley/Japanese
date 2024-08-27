@@ -30,9 +30,9 @@ Logical particles always attach to the end of a noun and show the structure ofa 
 | ---------------------------- | ----------------- |
 | [が](Grammar/particles/が.md) | `Who` or `What` is this sentance about |
 | [を](Grammar/particles/を.md) | `Who` or `What` was affected by the action of the sentance |
+| [で]()                        | `Where` or `with what` was the action of the sentance performed |
 | [に](Grammar/particles/に.md) | `where is something/someone` or `where is something/someone going` |
 | [へ]()                        | In `What Direction` did someone/something go |
-| [で]()                        | `Where` or `with what` was the action of the sentance performed |
 
 #### Non Logical Particles
 
@@ -58,12 +58,20 @@ These do not change the structure of a sentance.
 
 * [Verb Types](Grammar/verb-types.md)
 
+#### Helper Verbs
+
+Helper verbs are kind of the same as conjugations? or are the same but using a diff name?
+
+| Helper Verb                         | Short Description |
+| ----------------------------------- | ----------------- |
+| [がる](Grammar/helper_verbs/がる.md) | `がる` is used to talk about what someone else might feel or want |
+
 ### Conjugated Form
 
 * [たい Form](Grammar/conjugated-forms/たい-to-want.md)
-* [Verb Steam Form](Grammar/verb-types.md)
-* [ます Form](Grammar/conjugation-ます-form.md)
-* [て Form](Grammar/て-form.md)
+* [Verb Steam Form](Grammar/conjugated-forms/verb-types.md)
+* [ます Form](Grammar/conjugated-forms/conjugation-ます-form.md)
+* [て Form](Grammar/conjugated-forms/て-form.md)
 
 ### Conjugating
 
@@ -82,7 +90,6 @@ These do not change the structure of a sentance.
 | [これ、それ、あれ](Grammar/これーそれーあれ.md)       | This, that, That over There       |
 | [この、その、あの](Grammar/このーそのーあの.md)       | This-x, That-x, That-x over There |
 | [いきます　と　きます](Grammar/いきます-と-きます.md) | To go to / to come to             |
-
 
 ## Notes to write
 
