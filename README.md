@@ -1,6 +1,6 @@
 # Japanese
 
-Central place for my notes on Learning Japanese. I started taking these notes as part of a course I am doing in Japan. The course in Japan is based on the [みんなの日本語](みんなの日本語/README.md). The notes in the linked page follow along with the class and the textbook. The notes on this page are notes I am taking based on my own study and learning.
+Central place for my notes on Learning Japanese. I started taking these notes as part of a course I am doing in Japan. The course in Japan is based on the [みんなの日本語](みんなの日本語/README.md) textbook. The notes in the linked page follow along with the class and the textbook. The notes on this page are notes I am taking based on my own study and learning.
 
 > [!CAUTION]
 > Everything here is subject to my poor understanding of Japanese and could very well be wrong. Take this all with a grain of salt.
@@ -41,7 +41,7 @@ Why make these notes public? Well why not? I am a strong believer that learning 
 | [も]()                       | |
 | [か](Grammar/particles/か.md) | |
 | [の]()                        | |
-| [と](Grammar/particles/と.md) | Joining things like `AND` / Quotation marker |
+| [と](Grammar/particles/と.md) | `Joining things like "and"` or `marking a quote` |
 
 ### Adjectives
 
@@ -51,7 +51,7 @@ Why make these notes public? Well why not? I am a strong believer that learning 
 
 * [Verb Types](Grammar/verb-types.md)
 
-#### Helper Verbs
+### Helper Verbs
 
 Helper verbs are kind of the same as conjugations? or are the same but using a diff name?
 
@@ -60,6 +60,11 @@ Helper verbs are kind of the same as conjugations? or are the same but using a d
 | [がる](Grammar/helper_verbs/がる.md)    | `がる` is used to talk about what someone else might feel or want |
 | [られる](Grammar/helper_verbs/られる.md) | Receptive Helper - Used to indicate somethng was done to something/someone else. |
 | [ない](Grammar/helper_verbs/ない.md)     | Negative Form - used to say something is not |
+
+## To Reorganise
+
+> [!NOTE]
+> Everything from here is a bit of a mess on this page and needs to be re-organised. The whole thing really needs to be re-organised a bit.
 
 ### Nouns
 
