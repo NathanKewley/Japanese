@@ -12,12 +12,12 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point  | Example | Short Summary                                                                            |
 | ------------- | ------- | ---------------------------------------------------------------------------------------- |
-| は            | `わたしは　Nathです` (I am Nath) | Particle to mark subject of a sentance, In this case `わたし`/`I`    |
-| です          | `わたしは　Nathです` (I am Nath) | To state something `is` used at end of sentance. |
+| は            | `わたしは　Aです` (I am A) | Particle to mark subject of a sentance, In this case `わたし`/`I`    |
+| です          | `わたしは　Aです` (I am A) | To state something `is` used at end of sentance. |
 | ですか        | `あのひとは　だれ　ですか` (Who is that person?) | `か` Appended to `です` making the statement a question instead. |
 | じゃありません | `わたしは　がくせい　じゃ　ありません` (I am not a student) | This is the negative form of `です` to state something `IS NOT`. |
-| さん          | `Nathさん` | Polite Honorific for someones name. This is generally how you should refer to people in Japanese. Similar to `MR`/`MRS`/`etc`. |
-| も (is also)  | `Nathさんは　オーストラリアじん です. Rileyさんも オーストラリアじん です` (Nath is Australian. Riley is also Australian.) | `も` can replace both `を` and `が` directly, but for `に` and `で` it is appended into `にも` and `でも` |
+| さん          | `Aさん` | Polite Honorific for someones name. This is generally how you should refer to people in Japanese. Similar to `MR`/`MRS`/`etc`. |
+| [も (is also)](../Grammar/particles/も.md)  | `Aさんは　オーストラリアじん です. Bさんも オーストラリアじん です` (A is Australian. B is also Australian.) | `も` can replace both `を` and `が` directly, but for `に` and `で` it is appended into `にも` and `でも` |
 
 ## Lesson 2
 
@@ -26,7 +26,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | [これ、それ、あれ](../Grammar/これーそれーあれ.md)      | `これは　ほん　です` (This is a book) | These act as noun placeholders for `this`, `that`, `that over there`. They are treated as a noun themselves. |
 | [この、その、あの](../Grammar/このーそのーあの.md)      | `このかばんは　わたしの　です` (This bag belongs to me) | These are not treated as Nouns themselves and must always have a noun attached in the format `this<noun>`, `that<noun>`, `that-over-there<noun>`. |
 | だれ                 | `これは だれの ですか` (Who does this belong to?) | Used to ask who ownes something. |
-| の (ownership)       | `それは Nathさんの です` (That belongs to Nath) | Particle is attached to a Noun to show ownership. |
+| の (ownership)       | `それは Aさんの です` (That belongs to A) | Particle is attached to a Noun to show ownership. |
 | の (Noun Substitute) | `たべものは　からい　の　は　にがてです` (As for food I cannot eat spicy food) | `の` can also be used to substitute a noun that is already known by context, this typically sounds more natural that repeating a noun. |
 | なん (what)          | `これは　なん　ですか` (What is this?) | `ほんです` (A book). Used to ask what something is. |
 | なんの               | `それは　なんの　ざっし　ですか` (What kind of magazine is that?). `くるまの　ざっし　です` (A car magazine) | Used to ask what type of x something is. |

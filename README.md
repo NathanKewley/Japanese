@@ -17,10 +17,12 @@ Why make these notes public? Well why not? I am a strong believer that learning 
 | Noun      | A Names Entity, often defined as: `A Person, Place or Thing`.   |
 | Verb      | A verb describes an action, state or occurance. `A doing word`. |
 | Adjective | An attribute of a noun. `A describing word`.                    |
+| Adverb    | A word that modifes an existing adjective or phrase. Like saying "that person is `VERY`" tall |
 | tenten    | That little quote like mark you see on Hiragana and Katakana that changes the sound. (`か` --> `が`) |
 
 ## Quick References
 
+* [みんなの日本語 Textbook Notes](みんなの日本語/README.md)
 * [Conjugations 2](Grammar/conjugations2.md)
 * [Conjugation Examples](Grammar/conjugation-examples.md)
 * [い-Adjectives And な-Adjectives](Grammar/Adjectives-い-And-な.md)
@@ -38,7 +40,7 @@ Why make these notes public? Well why not? I am a strong believer that learning 
 | [に](Grammar/particles/に.md) | `where is something/someone` or `where is something/someone going` |
 | [へ]()                        | In `What Direction` did someone/something go |
 | [は]()                       | |
-| [も]()                       | |
+| [も](Grammar/particles/も.md) | `As well as` |
 | [か](Grammar/particles/か.md) | |
 | [の]()                        | |
 | [と](Grammar/particles/と.md) | `Joining things like "and"` or `marking a quote` |
@@ -63,7 +65,7 @@ Helper verbs are kind of the same as conjugations? or are the same but using a d
 
 ## To Reorganise
 
-> [!NOTE]
+> [!WARNING]
 > Everything from here is a bit of a mess on this page and needs to be re-organised. The whole thing really needs to be re-organised a bit.
 
 ### Nouns
@@ -106,9 +108,11 @@ When 2 nouns together to create a new noun. The sound of the second noun is modi
 * Ones handwritten in book during class
 * Talking about change `する`　and `なる` - (Rensuu lesson JLPT5 Change)
 * Re-organise conjugations notes
-* Form Types Summary
+* Create a page on small easy to mis things / east to make mistakes
+* Opinionated view on good and bad resources for learning with
 
 ## Things to understand betta
 
 * `で` みんなの日本語 - lesson 12: `なにが` vs `いつが` --> What is the difference?
 * `お酒　のんで　は　いけません` - What is the purpose of `のんで` in this sentance?
+* and like literally everything else lmao
