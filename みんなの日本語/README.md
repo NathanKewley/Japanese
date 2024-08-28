@@ -197,6 +197,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | て-Form-から (before / since)     | `うちへ　帰ってから　ばんごはんを　たべまし` (I rutuned home, then ate dinner)  | Used to mark something as happening first or before another thing              |
 | て-Form (な-Adjectives)             | `親切で　きれい　です` ((Subject) is Kind and Pretty)        　　            | Used to link mulitple adjectives together to create more descriptive sentances. `で` is appended to the `な-adjective` to create the `て-Form`. |
 | て-Form (い-Adjectives)          | `たかくて　しんせつ　です` ((Subject) is Tall and Kind)                       | Used to link mulitple adjectives together to create more descriptive sentances. The `い` of an `い-adjective` is replaced with `くて` to create the `て-Form`. |
+| て-Form (Noun)                   | `日本人で　きれいな　人　です` ((Subject) is a person who is japanese and pretty) | The `で` form of a Noun can be used as an Adjective in the same way. `で` is appended to the `Noun` to create the `て-Form`. |
 
 ## Items Not Yet Covered or not sure where belong
 
