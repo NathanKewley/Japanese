@@ -1,12 +1,14 @@
 # Japanese
 
-Central place for my notes on Learning Japanese. The course in Japan is based on the [みんなの日本語](みんなの日本語/README.md). A book I dont really like, but anyhow, I have notes for it in the linked page as we are going through the chapters.
+Central place for my notes on Learning Japanese. I started taking these notes as part of a course I am doing in Japan. The course in Japan is based on the [みんなの日本語](みんなの日本語/README.md). The notes in the linked page follow along with the class and the textbook. The notes on this page are notes I am taking based on my own study and learning.
 
-> [!WARNING]
+> [!CAUTION]
 > Everything here is subject to my poor understanding of Japanese and could very well be wrong. Take this all with a grain of salt.
+> This is very much a work in progress and I am very much a beginner to Japanese.
 
-> [!WARNING]
-> This is very much a work in progress and I am very much a beginner.
+## Why?
+
+Why make these notes public? Well why not? I am a strong believer that learning and the resources required for learning should be as accessable as possible to as many people as possible. In the event that my notes may be helpful to anyone else learning Japanese, then sharing them has been worthwhile.
 
 ## Jargon Buster
 
@@ -15,11 +17,14 @@ Central place for my notes on Learning Japanese. The course in Japan is based on
 | Noun      | A Names Entity, often defined as: `A Person, Place or Thing`.   |
 | Verb      | A verb describes an action, state or occurance. `A doing word`. |
 | Adjective | An attribute of a noun. `A describing word`.                    |
+| tenten    | That little quote like mark you see on Hiragana and Katakana that changes the sound. (`か` --> `が`) |
 
 ## Quick References
 
+* [Conjugations 2](Grammar/conjugations2.md)
 * [Conjugation Examples](Grammar/conjugation-examples.md)
-* [Conjugation Form Summary](Grammar/conjugations2.md)
+* [い-Adjectives And な-Adjectives](Grammar/Adjectives-い-And-な.md)
+* [Verb Types](Grammar/verb-types.md)
 
 ## Language Terms
 
@@ -50,15 +55,17 @@ Central place for my notes on Learning Japanese. The course in Japan is based on
 
 Helper verbs are kind of the same as conjugations? or are the same but using a diff name?
 
-| Helper Verb                         | Short Description |
-| ----------------------------------- | ----------------- |
-| [がる](Grammar/helper_verbs/がる.md) | `がる` is used to talk about what someone else might feel or want |
+| Helper Verb                            | Short Description |
+| -------------------------------------- | ----------------- |
+| [がる](Grammar/helper_verbs/がる.md)    | `がる` is used to talk about what someone else might feel or want |
+| [られる](Grammar/helper_verbs/られる.md) | Receptive Helper - Used to indicate somethng was done to something/someone else. |
+| [ない](Grammar/helper_verbs/ない.md)     | Negative Form - used to say something is not |
 
 ### Nouns
 
 Organise and move later but taking the note for now.
 
-#### Joining Nouns
+#### Joining Nouns to Form Other Nouns
 
 When 2 nouns together to create a new noun. The sound of the second noun is modified with a `tenten`. This feels so obvious now I know it... but like its not obvious if you dont know.
 

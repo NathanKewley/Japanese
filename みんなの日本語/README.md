@@ -2,7 +2,7 @@
 
 Notes takes as we are going through the book in class.
 
-> [!WARNING]
+> [!CAUTION]
 > These notes are written for me in the way I want them // the way that makes sense to me.
 > There will almost certantly be some mistakes as I am shit at Japanese.
 

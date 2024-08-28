@@ -77,7 +77,7 @@ The last `う` sound of the Verb is replaced with the sound in the corresponding
 | Type | Form         | Ichidan Helper Verb | Short explanation               | Example   |
 | ---- | ------------ | ------------------- | ------------------------------- | --------- |
 | ない | negative     | ない                 | Negative is not / iru opposite  | はなさない |
-| れる | passive      | られる               | to get? to transition to state? | はなされる |
+| [れる/られる](helper_verbs/られる.md) | passive /Receptive Helper Verb | られる               | to get? to transition to state? | はなされる |
 | せる | causative    | させる               | Allowed to do // Made to do     | はなさせる |
 
 ### え column
