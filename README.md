@@ -5,6 +5,9 @@ Central place for my notes on Learning Japanese. The course in Japan is based on
 > [!WARNING]
 > Everything here is subject to my poor understanding of Japanese and could very well be wrong. Take this all with a grain of salt.
 
+> [!WARNING]
+> This is very much a work in progress and I am very much a beginner.
+
 ## Jargon Buster
 
 | Term      | Definition                                                      |
@@ -22,10 +25,6 @@ Central place for my notes on Learning Japanese. The course in Japan is based on
 
 ### Particles
 
-#### Logical Particles
-
-Logical particles always attach to the end of a noun and show the structure ofa sentance. Most particles have more than one purpose which is not conveyed in the short description.
-
 | particle                     | Short Description |
 | ---------------------------- | ----------------- |
 | [が](Grammar/particles/が.md) | `Who` or `What` is this sentance about |
@@ -33,22 +32,11 @@ Logical particles always attach to the end of a noun and show the structure ofa 
 | [で]()                        | `Where` or `with what` was the action of the sentance performed |
 | [に](Grammar/particles/に.md) | `where is something/someone` or `where is something/someone going` |
 | [へ]()                        | In `What Direction` did someone/something go |
-
-#### Non Logical Particles
-
-These do not change the structure of a sentance.
-
-| particle                     | Short Description |
-| ---------------------------- | ----------------- |
 | [は]()                       | |
 | [も]()                       | |
-
-#### Other Particles
-
-| particle                     | Short Description |
-| ---------------------------- | ----------------- |
 | [か](Grammar/particles/か.md) | |
 | [の]()                        | |
+| [と](Grammar/particles/と.md) | Joining things like `AND` / Quotation marker |
 
 ### Adjectives
 
@@ -65,6 +53,16 @@ Helper verbs are kind of the same as conjugations? or are the same but using a d
 | Helper Verb                         | Short Description |
 | ----------------------------------- | ----------------- |
 | [がる](Grammar/helper_verbs/がる.md) | `がる` is used to talk about what someone else might feel or want |
+
+### Nouns
+
+Organise and move later but taking the note for now.
+
+#### Joining Nouns
+
+When 2 nouns together to create a new noun. The sound of the second noun is modified with a `tenten`. This feels so obvious now I know it... but like its not obvious if you dont know.
+
+* ほん + たな --> ほんだな (book + shelf == bookshelf)
 
 ### Conjugated Form
 

@@ -7,14 +7,21 @@ This page will aim to have every conjugation coverd as concicely as possible. Th
 From this page there is missing (For Now):
 
 * Adjectives
+* Nouns
+
+## Noun Conjugations
+
+TBC
 
 ## Adjective Conjugations
+
+TBC
 
 ## Verb Conjugations
 
 ### Ichidan
 
-`Ichidan` Verbs are easy, the ending `る` is replaced with the `Ichidan Helper Verb` in the tables below for each form.
+`Ichidan` Verbs are easy, the ending `る` is replaced with the `Ichidan Helper Verb` in the `Godan` tables below for each form.
 
 ### Godan
 

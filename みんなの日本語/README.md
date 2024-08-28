@@ -198,6 +198,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | て-Form (な-Adjectives)             | `親切で　きれい　です` ((Subject) is Kind and Pretty)        　　            | Used to link mulitple adjectives together to create more descriptive sentances. `で` is appended to the `な-adjective` to create the `て-Form`. |
 | て-Form (い-Adjectives)          | `たかくて　しんせつ　です` ((Subject) is Tall and Kind)                       | Used to link mulitple adjectives together to create more descriptive sentances. The `い` of an `い-adjective` is replaced with `くて` to create the `て-Form`. |
 | て-Form (Noun)                   | `日本人で　きれいな　人　です` ((Subject) is a person who is japanese and pretty) | The `で` form of a Noun can be used as an Adjective in the same way. `で` is appended to the `Noun` to create the `て-Form`. |
+| [たい-Form (Want)](../Grammar/conjugated-forms/たい-to-want.md) | `どれが　飲みたい　ですか` (Which drink do you want) `みずが　飲みたい　です` (Water is the dring I want) | Conjugation used to indicate something is wanted. |
 
 ## Items Not Yet Covered or not sure where belong
 
@@ -207,6 +208,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | [Verb Types](../Grammar/conjugated-forms/verb-types.md) | `n/a` | Types of verbs. `Ichidan`, `Godan` and `Irregular`. Please see linked page for detailed info. |
 | [Verb Casual Negating](../Grammar/verb-casual-negation.md) | `n/a` | Cansual negating of verbs. Please see linked page for detailed info. |
 | まだ (not yet) | `もう　昼ご飯を　食べましたか` (Have you already eaten lunch?) `いいえ　まだです` (No, Not yet) | `まだです` is used to respond to a question saying you have not yet done something. |
+| こと and もの (thing) | `面白い　ことが　ない` (Nothing interesting) | Both mean `thing` but `もの` is used for literal objects while `こと` is used for more abstract thing. |
 
 ## Fucked Shit
 
