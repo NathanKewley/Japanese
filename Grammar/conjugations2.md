@@ -8,6 +8,8 @@ From this page there is missing (For Now):
 
 * Adjectives
 
+## Adjective Conjugations
+
 ## Verb Conjugations
 
 ### Ichidan

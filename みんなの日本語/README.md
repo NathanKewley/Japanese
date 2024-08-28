@@ -191,17 +191,19 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 ## Lesson 16
 
-| Lesson Point              | Example                                                                          | Short Summary                                                     |
-| ------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| どうやって (How to)      | `中国語で　どうやって　書きますか` (How to write (Subject) in Chineese)           | how, in what way, by what means (not in this lesson?)             |
-| から (before / since)    | `うちへ　帰って　から　ばんごはんを　たべまし` (I rutuned home, then ate dinner) | Used to mark something as happening first or before another thing |
+| Lesson Point                     | Example                                                                     | Short Summary                                                                  |
+| -------------------------------- | ----------------------------------------------------------------------------|  ----------------------------------------------------------------------------- |
+| どうやって (How to)               | `中国語で　どうやって　書きますか` (How to write (Subject) in Chineese)        | how, in what way, by what means (not in this lesson?)                          |
+| て-Form-から (before / since)     | `うちへ　帰ってから　ばんごはんを　たべまし` (I rutuned home, then ate dinner)  | Used to mark something as happening first or before another thing              |
+| て-Form (な-Adjectives)             | `親切で　きれい　です` ((Subject) is Kind and Pretty)        　　            | Used to link mulitple adjectives together to create more descriptive sentances. `で` is appended to the `な-adjective` to create the `て-Form`. |
+| て-Form (い-Adjectives)          | `たかくて　しんせつ　です` ((Subject) is Tall and Kind)                       | Used to link mulitple adjectives together to create more descriptive sentances. The `い` of an `い-adjective` is replaced with `くて` to create the `て-Form`. |
 
 ## Items Not Yet Covered or not sure where belong
 
 | Language Point                | Example | Short Summary                                            |
 | ----------------------------- | ------- | -------------------------------------------------- |
 | で (Duration of Time)         | `にじかんで　ほんを　よみました` (I read a book in 4 hours) | `で` is very similar to `に` in terms of refering to time. However `で` is used with `かん` to show **how long** an action took rather than when an action took place. |
-| [Verb Types](../Grammar/verb-types.md) | `n/a` | Types of verbs. `Ichidan`, `Godan` and `Irregular`. Please see linked page for detailed info. |
+| [Verb Types](../Grammar/conjugated-forms/verb-types.md) | `n/a` | Types of verbs. `Ichidan`, `Godan` and `Irregular`. Please see linked page for detailed info. |
 | [Verb Casual Negating](../Grammar/verb-casual-negation.md) | `n/a` | Cansual negating of verbs. Please see linked page for detailed info. |
 | まだ (not yet) | `もう　昼ご飯を　食べましたか` (Have you already eaten lunch?) `いいえ　まだです` (No, Not yet) | `まだです` is used to respond to a question saying you have not yet done something. |
 
