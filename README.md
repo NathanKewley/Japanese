@@ -18,6 +18,8 @@ Why make these notes public? Well why not? I am a strong believer that learning 
 | Verb      | A verb describes an action, state or occurance. `A doing word`. |
 | Adjective | An attribute of a noun. `A describing word`.                    |
 | Adverb    | A word that modifes an existing adjective or phrase. Like saying "that person is `VERY`" tall |
+| Intransative Verb (Self Move) | Verb that is an action performed by onself like `ある` or `でる` |
+| Transative Verb (Other Move) | Verb that is an action performed on another like `する` or `だす` |
 | tenten    | That little quote like mark you see on Hiragana and Katakana that changes the sound. (`か` --> `が`) |
 
 ## Quick References
@@ -44,6 +46,7 @@ Why make these notes public? Well why not? I am a strong believer that learning 
 | [か](Grammar/particles/か.md) | |
 | [の]()                        | |
 | [と](Grammar/particles/と.md) | `Joining things like "and"` or `marking a quote` |
+| [や](Grammar/particles/や.md) | And for incomplete list |
 
 ### Adjectives
 

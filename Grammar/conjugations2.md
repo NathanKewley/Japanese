@@ -7,11 +7,10 @@ This page will aim to have every conjugation coverd as concicely as possible. Th
 From this page there is missing (For Now):
 
 * Adjectives
-* Nouns
 
 ## Noun Conjugations
 
-TBC
+All the conjugation rules for `Nouns` are the same as `な-adjectives`.
 
 ## Adjective Conjugations
 
