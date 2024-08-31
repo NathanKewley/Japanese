@@ -68,8 +68,8 @@ The last `う` sound of the Verb is replaced with the sound in the corresponding
 
 | Type                                             | Form         | Ichidan Helper Verb | Short explanation | Example   |
 | ------------------------------------------------ | ------------ | ------------------- | ----------------- | --------- |
-| [ます](conjugated-forms/conjugation-ます-form.md) | Formal       | ます                | Speak so Profesh  | はなします |
-| [たい](conjugated-forms/たい-to-want.md)          | Desire       | たい                | Desire to do      | はなしたい |
+| [ます](../conjugated-forms/conjugation-ます-form.md) | Formal       | ます                | Speak so Profesh  | はなします |
+| [たい](../conjugated-forms/たい-to-want.md)          | Desire       | たい                | Desire to do      | はなしたい |
 | そう                                             | Looks Like   | そう                | Looks Like        | はなしそう |
 
 ### あ Column
@@ -77,8 +77,8 @@ The last `う` sound of the Verb is replaced with the sound in the corresponding
 | Type                                 | Form                           | Ichidan Helper Verb | Short explanation               | Example   |
 | ------------------------------------ | ------------------------------ | ------------------- | ------------------------------- | --------- |
 | ない                                 | negative                       | ない                 | Negative is not / iru opposite  | はなさない |
-| [れる/られる](helper_verbs/られる.md) | passive /Receptive Helper Verb | られる               | to get? to transition to state? | はなされる |
-| せる                                 | causative                      | させる               | Allowed to do // Made to do     | はなさせる |
+| [れる](../helper_verbs/れる.md) | passive /Receptive Helper Verb | られる               | to get? to transition to state? | はなされる |
+| [せる](../helper_verbs/せる.md)                                 | causative                      | させる               | Allowed to do // Made to do     | はなさせる |
 
 ### え column
 
@@ -88,8 +88,8 @@ The last `う` sound of the Verb is replaced with the sound in the corresponding
 
 ### お Column
 
-| Type | Form         | Ichidan Helper Verb | Short explanation           | Example  |
-| ---- | ------------ | ------------------- | --------------------------- | -------- |
-| う   | volitional   | よう                 | Lets do x                   | はなそう |
+| Type                                          | Form         | Ichidan Helper Verb | Short explanation           | Example  |
+| --------------------------------------------- | ------------ | ------------------- | --------------------------- | -------- |
+| [う](../conjugated-forms/よう-volitional.md)   | volitional   | よう                 | Lets do x                   | はなそう |
 
 [Great video explaing this really really well](https://www.youtube.com/watch?v=FhyrskGBKHE&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=8)

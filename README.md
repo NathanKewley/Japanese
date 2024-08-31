@@ -63,9 +63,10 @@ Helper verbs are kind of the same as conjugations? or are the same but using a d
 | Helper Verb                            | Short Description |
 | -------------------------------------- | ----------------- |
 | [がる](Grammar/helper_verbs/がる.md)    | `がる` is used to talk about what someone else might feel or want |
-| [られる](Grammar/helper_verbs/られる.md) | Receptive Helper - Used to indicate somethng was done to something/someone else. |
 | [ない](Grammar/helper_verbs/ない.md)     | Negative Form - used to say something is not |
 | [ます](Grammar/helper_verbs/ます.md)    | Formal Form containing its own conjugations |
+| [れる](Grammar/helper_verbs/れる.md) | Receptive Helper - Used to indicate somethng was done to something/someone else. |
+| [せる](Grammar/helper_verbs/せる.md)   | ... |
 
 ## To Reorganise
 
