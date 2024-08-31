@@ -44,7 +44,7 @@ Why make these notes public? Well why not? I am a strong believer that learning 
 | [は]()                        | |
 | [も](Grammar/particles/も.md) | `As well as` |
 | [か](Grammar/particles/か.md) | |
-| [の]()                        | |
+| [の](Grammar/particles/の.md) | `Possession` and lots more |
 | [と](Grammar/particles/と.md) | `Joining things like "and"` or `marking a quote` |
 | [や](Grammar/particles/や.md) | And for incomplete list |
 
