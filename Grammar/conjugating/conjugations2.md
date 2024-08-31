@@ -65,19 +65,19 @@ The last `う` sound of the Verb is replaced with the sound in the corresponding
 
 ### い Column
 
-| Type | Form         | Ichidan Helper Verb | Short explanation | Example   |
-| ---- | ------------ | ------------------- | ----------------- | --------- |
-| ます | Formal       | ます                | Speak so Profesh  | はなします |
-| たい | Desire       | たい                | Desire to do      | はなしたい |
-| そう | Looks Like   | そう                | Looks Like        | はなしそう |
+| Type                                             | Form         | Ichidan Helper Verb | Short explanation | Example   |
+| ------------------------------------------------ | ------------ | ------------------- | ----------------- | --------- |
+| [ます](conjugated-forms/conjugation-ます-form.md) | Formal       | ます                | Speak so Profesh  | はなします |
+| [たい](conjugated-forms/たい-to-want.md)          | Desire       | たい                | Desire to do      | はなしたい |
+| そう                                             | Looks Like   | そう                | Looks Like        | はなしそう |
 
 ### あ Column
 
-| Type | Form         | Ichidan Helper Verb | Short explanation               | Example   |
-| ---- | ------------ | ------------------- | ------------------------------- | --------- |
-| ない | negative     | ない                 | Negative is not / iru opposite  | はなさない |
+| Type                                 | Form                           | Ichidan Helper Verb | Short explanation               | Example   |
+| ------------------------------------ | ------------------------------ | ------------------- | ------------------------------- | --------- |
+| ない                                 | negative                       | ない                 | Negative is not / iru opposite  | はなさない |
 | [れる/られる](helper_verbs/られる.md) | passive /Receptive Helper Verb | られる               | to get? to transition to state? | はなされる |
-| せる | causative    | させる               | Allowed to do // Made to do     | はなさせる |
+| せる                                 | causative                      | させる               | Allowed to do // Made to do     | はなさせる |
 
 ### え column
 

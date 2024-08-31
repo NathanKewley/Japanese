@@ -98,8 +98,8 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point                               | Example | Short Summary                                                                      |
 | ------------------------------------------ | ------- | ------------------------------------------------------------------------------ |
-| [い-Adjectives And な-Adjectives](../Grammar/Adjectives-い-And-な.md) | `n/a` | In Japanese there are 2 types of Adjectives: `い-Adjectives` And `な-Adjectives`. Please see the full page for identifying which are which and for exceptions.  |
-| [い-Adjectives And な-Adjectives (Negating)](../Grammar/Adjectives-い-And-な-conjugations.md) | `n/a` | The way you create the negative for of an Adjective depends on the adjective type. The exceptions have thier own rules as well. Please see full article. |
+| [い-Adjectives And な-Adjectives](../Grammar/word-types/Adjectives-い-And-な.md) | `n/a` | In Japanese there are 2 types of Adjectives: `い-Adjectives` And `な-Adjectives`. Please see the full page for identifying which are which and for exceptions.  |
+| [い-Adjectives And な-Adjectives (Negating)](../Grammar/conjugating/Adjectives-い-And-な-conjugations.md) | `n/a` | The way you create the negative for of an Adjective depends on the adjective type. The exceptions have thier own rules as well. Please see full article. |
 | よ (New Info)                          | `わたしの　くにの　8月は　あまり　あつくないです　よ` (In my country its not very hot in August.) | The `よ` particle can be placed at the end of a sentance when the speaker expects the information they are providing to be new to the listener. In the case of the example the speaker does not expect the listener knows about the weather in thier country |
 | そして (and same) | `このへやは きれいです。　そして　ひろいですよ`(This room is is both clean and spacious) | `そして` is used to say something is `x` and `y`. Where `x` and `y` must either BOTH be good or bad. You cannot use `そして` for a good and bad thing. |
 | けど (and different)　| `にほんごは　おもしろいです　けど　とても　むずかしい`　(Japanese is interesting but very difficult) | `けど` is used in the same context as `そして` but used to show conflicting ideas. Where `x` is good and `y` is bad. |
@@ -149,7 +149,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | かかります (Duration to go)      | `大阪　から　東京　まで　新幹線で　どのくらい　かかりますか` (How long does it take to get from Osake to Tokyo via ShinnKanSenn) | Used to ask or answer how long something takes.  |
 | に (Frequency)                   | `1年に　5回　ぐらい　映画を　みます` (I watch about 5 movies each year) | Used to specify a frequency withing a timeframe. `<TimeFrame>に<TimesPerTimeframe>` |
 | とき (At the time)               | `こどもの　とき　なにが　すきじゃありませんでしたか` (When you were a kid, what did you not like) | Used to set the time context of the sentance. |
-| [い and な past tennse conjugation](../Grammar/Adjectives-い-And-な-conjugations.md) | `n/a` | Please see linked page (to be updated) for past tense conjugations. |
+| [い and な past tennse conjugation](../Grammar/conjugating/Adjectives-い-And-な-conjugations.md) | `n/a` | Please see linked page (to be updated) for past tense conjugations. |
 
 ## Lesson 12
 
@@ -176,7 +176,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 | Lesson Point                   | Example                                            | Short Summary                                                    |
 | ------------------------------ | -------------------------------------------------- | ---------------------------------------------------------------- |
-| [て Form Conjugations 皆の日本語](../Grammar/て-form-conjugation-皆の日本語.md)       | See linked page | Conjugation rules for `ます` form to `て` form. |
+| [て Form Conjugations 皆の日本語](../Grammar/conjugating/て-form-conjugation-皆の日本語.md)       | See linked page | Conjugation rules for `ます` form to `て` form. |
 | います to て Form (Doing "ing") | `女の人は　話しています` (A woman is talking)      | Makes the て Form represent an action currently being performed. For this `います` is appended to the `て Form` form. `いません` can also be used for the negative to say something is not currently being done. |
 | かた (How / Method)             | `この　漢字　の　読みかた` (How to read this kanji?) | `かた` / `方` is used to ask / tell the how or method to do something |
 
@@ -213,8 +213,7 @@ Where there are extra notes for any lession point, the lesson point will be link
 | Language Point                | Example | Short Summary                                            |
 | ----------------------------- | ------- | -------------------------------------------------- |
 | で (Duration of Time)         | `にじかんで　ほんを　よみました` (I read a book in 4 hours) | `で` is very similar to `に` in terms of refering to time. However `で` is used with `かん` to show **how long** an action took rather than when an action took place. |
-| [Verb Types](../Grammar/conjugated-forms/verb-types.md) | `n/a` | Types of verbs. `Ichidan`, `Godan` and `Irregular`. Please see linked page for detailed info. |
-| [Verb Casual Negating](../Grammar/verb-casual-negation.md) | `n/a` | Cansual negating of verbs. Please see linked page for detailed info. |
+| [Verb Types](../Grammar/word-types/verb-types.md) | `n/a` | Types of verbs. `Ichidan`, `Godan` and `Irregular`. Please see linked page for detailed info. |
 | まだ (not yet) | `もう　昼ご飯を　食べましたか` (Have you already eaten lunch?) `いいえ　まだです` (No, Not yet) | `まだです` is used to respond to a question saying you have not yet done something. |
 | こと and もの (thing) | `面白い　ことが　ない` (Nothing interesting) | Both mean `thing` but `もの` is used for literal objects while `こと` is used for more abstract thing. |
 | [いきます　と　きます](../Grammar/いきます-と-きます.md) | `n/a` | `いきます`（行きます）To Go. `きます`（来ます）To Come. Always used from the speakers perspective. Therefore `いきます` is used when the speaker is talking about going to somewhere they are not currently. `きます` is used when the speaker is talking about coming to the location they are currently at. |

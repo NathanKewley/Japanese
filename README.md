@@ -25,23 +25,23 @@ Why make these notes public? Well why not? I am a strong believer that learning 
 ## Quick References
 
 * [みんなの日本語 Textbook Notes](みんなの日本語/README.md)
-* [Conjugations 2](Grammar/conjugations2.md)
-* [Conjugation Examples](Grammar/conjugation-examples.md)
-* [い-Adjectives And な-Adjectives](Grammar/Adjectives-い-And-な.md)
-* [Verb Types](Grammar/verb-types.md)
+* [Conjugations 2](Grammar/conjugating/conjugations2.md)
+* [Conjugation Examples](Grammar/conjugating/conjugation-examples.md)
+* [い-Adjectives And な-Adjectives](Grammar/word-types/Adjectives-い-And-な.md)
+* [Verb Types](Grammar/word-types/verb-types.md)
 
 ## Language Terms
 
 ### Particles
 
-| particle                     | Short Description |
-| ---------------------------- | ----------------- |
+| particle                      | Short Description |
+| ----------------------------- | ----------------- |
 | [が](Grammar/particles/が.md) | `Who` or `What` is this sentance about |
 | [を](Grammar/particles/を.md) | `Who` or `What` was affected by the action of the sentance |
 | [で]()                        | `Where` or `with what` was the action of the sentance performed |
 | [に](Grammar/particles/に.md) | `where is something/someone` or `where is something/someone going` |
 | [へ]()                        | In `What Direction` did someone/something go |
-| [は]()                       | |
+| [は]()                        | |
 | [も](Grammar/particles/も.md) | `As well as` |
 | [か](Grammar/particles/か.md) | |
 | [の]()                        | |
@@ -50,11 +50,11 @@ Why make these notes public? Well why not? I am a strong believer that learning 
 
 ### Adjectives
 
-* [い-Adjectives And な-Adjectives](Grammar/Adjectives-い-And-な.md)
+* [い-Adjectives And な-Adjectives](Grammar/word-types/Adjectives-い-And-な.md)
 
 ### Verbs
 
-* [Verb Types](Grammar/verb-types.md)
+* [Verb Types](Grammar/word-types/verb-types.md)
 
 ### Helper Verbs
 
