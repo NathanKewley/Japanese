@@ -200,7 +200,15 @@ Where there are extra notes for any lession point, the lesson point will be link
 | て-Form (Noun)                   | `日本人で　きれいな　人　です` ((Subject) is a person who is japanese and pretty) | The `で` form of a Noun can be used as an Adjective in the same way. `で` is appended to the `Noun` to create the `て-Form`. |
 | [たい-Form (Want)](../Grammar/conjugated-forms/たい-to-want.md) | `どれが　飲みたい　ですか` (Which drink do you want) `みずが　飲みたい　です` (Water is the dring I want) | Conjugation used to indicate something is wanted. |
 
-## Items Not Yet Covered or not sure where belong
+## Lesson 17
+
+| Lesson Point                     | Example                                                                         | Short Summary                                                                    |
+| -------------------------------- | --------------------------------------------------------------------------------|  ------------------------------------------------------------------------------- |
+| ない-Form (Negative Plain / Not) | `分からない` ((Subject) does not understand)                                     | Negative plain form. Makes the conjugated term its negative.                     |
+| てください (Please do)            | `来てください` (Please come). `飲んでください` (Please drink)                     | Polite way to ask someone to do something. Usage is: `<て-Form><ください>`        |
+| ないでください (Please dont do)    | `来ないでください` (Please do not come). `飲まないでください` (Please dont drink) | Polite way to ask someone not to do something. Usage is: `<たい-Form><でください>` |
+
+## Other Stuff
 
 | Language Point                | Example | Short Summary                                            |
 | ----------------------------- | ------- | -------------------------------------------------- |
@@ -209,9 +217,4 @@ Where there are extra notes for any lession point, the lesson point will be link
 | [Verb Casual Negating](../Grammar/verb-casual-negation.md) | `n/a` | Cansual negating of verbs. Please see linked page for detailed info. |
 | まだ (not yet) | `もう　昼ご飯を　食べましたか` (Have you already eaten lunch?) `いいえ　まだです` (No, Not yet) | `まだです` is used to respond to a question saying you have not yet done something. |
 | こと and もの (thing) | `面白い　ことが　ない` (Nothing interesting) | Both mean `thing` but `もの` is used for literal objects while `こと` is used for more abstract thing. |
-
-## Fucked Shit
-
-| Language Point                                        | Example | Short Summary                                                                                      |
-| ----------------------------------------------------- | ------- | --------------------------------------------------------------------------------------------- |
 | [いきます　と　きます](../Grammar/いきます-と-きます.md) | `n/a` | `いきます`（行きます）To Go. `きます`（来ます）To Come. Always used from the speakers perspective. Therefore `いきます` is used when the speaker is talking about going to somewhere they are not currently. `きます` is used when the speaker is talking about coming to the location they are currently at. |
