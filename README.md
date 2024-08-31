@@ -25,7 +25,7 @@ Why make these notes public? Well why not? I am a strong believer that learning 
 ## Quick References
 
 * [みんなの日本語 Textbook Notes](みんなの日本語/README.md)
-* [Conjugations 2](Grammar/conjugating/conjugations2.md)
+* [Conjugations V2](Grammar/conjugating/conjugations2.md)
 * [Conjugation Examples](Grammar/conjugating/conjugation-examples.md)
 * [い-Adjectives And な-Adjectives](Grammar/word-types/Adjectives-い-And-な.md)
 * [Verb Types](Grammar/word-types/verb-types.md)
@@ -65,6 +65,7 @@ Helper verbs are kind of the same as conjugations? or are the same but using a d
 | [がる](Grammar/helper_verbs/がる.md)    | `がる` is used to talk about what someone else might feel or want |
 | [られる](Grammar/helper_verbs/られる.md) | Receptive Helper - Used to indicate somethng was done to something/someone else. |
 | [ない](Grammar/helper_verbs/ない.md)     | Negative Form - used to say something is not |
+| [ます](Grammar/helper_verbs/ます.md)    | Formal Form containing its own conjugations |
 
 ## To Reorganise
 
@@ -85,7 +86,6 @@ When 2 nouns together to create a new noun. The sound of the second noun is modi
 
 * [たい Form](Grammar/conjugated-forms/たい-to-want.md)
 * [Verb Steam Form](Grammar/conjugated-forms/verb-types.md)
-* [ます Form](Grammar/conjugated-forms/conjugation-ます-form.md)
 * [て Form](Grammar/conjugated-forms/て-form.md)
 
 ### Conjugating

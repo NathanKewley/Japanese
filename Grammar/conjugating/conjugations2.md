@@ -7,6 +7,7 @@ This page will aim to have every conjugation coverd as concicely as possible. Th
 From this page there is missing (For Now):
 
 * Adjectives
+* Irregular Verbs
 
 ## Noun Conjugations
 
@@ -41,7 +42,7 @@ The table below shows the conjugations for all Godan verbs into both the `た` a
 > [!NOTE]
 > `Ichidan Helper Verb` is excluded form this table is its literally as simple as replacing the ending `る` with `て` or `た`.
 
-## Conjugation Columns
+## Conjugation Columns (Other Forms)
 
 All `Godan` verbs are in the centre `う` row in thier dicitonary form. Conjugating requires moving across the kana chart (Left <--> right in the one below).
 

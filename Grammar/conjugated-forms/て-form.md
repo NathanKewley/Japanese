@@ -28,9 +28,4 @@ The following all have conjugations into the `て Form`:
 
 ## Conjugating to the て Form
 
-* Verbs
-* い-Adjectives
-* な-Adjectives
-* Nouns
-
-for details on how to conjugate each type please see [て Form Conjugations](て-form-conjugation.md).
+Please see [conjugations v2](../conjugating/conjugations2.md).
