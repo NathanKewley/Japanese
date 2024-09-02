@@ -85,6 +85,7 @@ The last `う` sound of the Verb is replaced with the sound in the corresponding
 | Type | Form               | Ichidan Helper Verb | Short explanation           | Example |
 | ---- | ------------------ | ------------------- | --------------------------- | ------- |
 | る   | potential form     | られる               | You can do the verb         | はなせる |
+| ば | Conditional Form   | れば | if its the case / hypothetical | はなせば |
 
 ### お Column
 

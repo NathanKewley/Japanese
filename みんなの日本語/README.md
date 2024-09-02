@@ -202,11 +202,13 @@ Where there are extra notes for any lession point, the lesson point will be link
 
 ## Lesson 17
 
-| Lesson Point                     | Example                                                                         | Short Summary                                                                    |
-| -------------------------------- | --------------------------------------------------------------------------------|  ------------------------------------------------------------------------------- |
-| ない-Form (Negative Plain / Not) | `分からない` ((Subject) does not understand)                                     | Negative plain form. Makes the conjugated term its negative.                     |
-| てください (Please do)            | `来てください` (Please come). `飲んでください` (Please drink)                     | Polite way to ask someone to do something. Usage is: `<て-Form><ください>`        |
-| ないでください (Please dont do)    | `来ないでください` (Please do not come). `飲まないでください` (Please dont drink) | Polite way to ask someone not to do something. Usage is: `<たい-Form><でください>` |
+| Lesson Point                        | Example                                                                         | Short Summary                                                                    |
+| ----------------------------------- | --------------------------------------------------------------------------------|  ------------------------------------------------------------------------------- |
+| ない-Form (Negative Plain / Not)    | `分からない` ((Subject) does not understand)                                     | Negative plain form. Makes the conjugated term its negative.                     |
+| てください (Please do)               | `来てください` (Please come). `飲んでください` (Please drink)                     | Polite way to ask someone to do something. Usage is: `<て-Form><ください>`        |
+| ないでください (Please dont do)      | `来ないでください` (Please do not come). `飲まないでください` (Please dont drink) | Polite way to ask someone not to do something. Usage is: `<たい-Form><でください>` |
+| なければ　なりません (Must do / bad)  | `シートベルトを　しなければなりません` (You must use a seatbelt (even though you dont want to)) | You have to do something with the implecation of it being something you `don't want to do`. |
+| なければ　いけません (Must do / good) | `シートベルトを　しなければなりません` (You must use a seatbest (and its something you want to do)) | You have to do something with the implecation of it being something you `do want to do`. |
 
 ## Other Stuff
 
