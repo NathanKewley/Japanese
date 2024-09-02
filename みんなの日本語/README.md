@@ -208,7 +208,8 @@ Where there are extra notes for any lession point, the lesson point will be link
 | てください (Please do)               | `来てください` (Please come). `飲んでください` (Please drink)                     | Polite way to ask someone to do something. Usage is: `<て-Form><ください>`        |
 | ないでください (Please dont do)      | `来ないでください` (Please do not come). `飲まないでください` (Please dont drink) | Polite way to ask someone not to do something. Usage is: `<たい-Form><でください>` |
 | なければ　なりません (Must do / bad)  | `シートベルトを　しなければなりません` (You must use a seatbelt (even though you dont want to)) | You have to do something with the implecation of it being something you `don't want to do`. |
-| なければ　いけません (Must do / good) | `シートベルトを　しなければなりません` (You must use a seatbest (and its something you want to do)) | You have to do something with the implecation of it being something you `do want to do`. |
+| なければ　いけません (Must do / good) | `シートベルトを　しなければいけません` (You must use a seatbest (and its something you want to do)) | You have to do something with the implecation of it being something you `do want to do`. |
+| までに (by/before)                   | `明日までに　宿題しなければなりません` (Homework must be done by tomorrow)         | Markes a time in the future to indicate that time as a time limit for the action in the sentance. |
 
 ## Other Stuff
 
