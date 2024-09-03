@@ -211,6 +211,14 @@ Where there are extra notes for any lesson point, the lesson point will be linke
 | なければ　いけません (Must do / good) | `シートベルトを　しなければいけません` (You must use a seatbelt (and its something you want to do)) | You have to do something with the implication of it being something you `do want to do`. |
 | までに (by/before)                   | `明日までに　宿題しなければなりません` (Homework must be done by tomorrow)         | Marks a time in the future to indicate that time as a time limit for the action in the sentence. |
 
+## Lesson 18
+
+| Lesson Point                     | Example | Short Summary                                            |
+| -------------------------------- | ------- | -------------------------------------------------------- |
+| こと　(Noun Bundler)             | `泳ぐこと` (泳ぐ modified into a noun.) | Turns a `Verb` into a `Noun`. |
+| (ことが)できる (Able to Do)       | `空手ができる` (Able to do Karate). `漢字を読むことができますか` (is (subject) capable of reading this sentence?) | Attached to a `Noun` to say or ask is something is able to be done. |
+| (ことが)ある (I have done)        | `飛行機に乗ったことがない` (I have not ridden a plane before) | Can be used in any tense to say you have or have not been able to experience something before. |
+
 ## Other Stuff
 
 | Language Point                | Example | Short Summary                                            |
