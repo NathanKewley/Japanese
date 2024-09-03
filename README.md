@@ -26,6 +26,7 @@ Why make these notes public? Well why not? I am a strong believer that learning 
 
 * [みんなの日本語 Textbook Notes](みんなの日本語/README.md)
 * [Conjugations V2](Grammar/conjugating/conjugations2.md)
+* [Sentence Enders](Grammar/particles/Sentence_enders.md)
 * [Conjugation Examples](Grammar/conjugating/conjugation-examples.md)
 * [い-Adjectives And な-Adjectives](Grammar/word-types/Adjectives-い-And-な.md)
 * [Verb Types](Grammar/word-types/verb-types.md)
@@ -47,6 +48,7 @@ Why make these notes public? Well why not? I am a strong believer that learning 
 | [の](Grammar/particles/の.md) | `Possession` and lots more                                         |
 | [と](Grammar/particles/と.md) | `Joining things like "and"` or `marking a quote`                   |
 | [や](Grammar/particles/や.md) | And for incomplete list                                            |
+| [Sentence Enders](Grammar/particles/Sentence_enders.md) | A collection of sentence enders          |
 
 ### Adjectives
 
