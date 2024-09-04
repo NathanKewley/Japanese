@@ -219,6 +219,7 @@ Where there are extra notes for any lesson point, the lesson point will be linke
 | (ことが)できる (Able to Do)       | `空手ができる` (Able to do Karate). `漢字を読むことができますか` (is (subject) capable of reading this sentence?) | Attached to a `Noun` to say or ask is something is able to be done. |
 | (ことが)ある (I have done)        | `飛行機に乗ったことがない` (I have not ridden a plane before) | Can be used in any tense to say you have or have not been able to experience something before. |
 | しゅみ (like / hobby)            | `しゅみは　カラオケ　です` ((Subject) likes Karaoke). `しゅみは　テニスを　遊び　ことです` ((Subject) Enjoys playing tennis) | Used to express something is a hobby or enjoyable. This needs to be done with a noun so `こと` can be used to make verbs into nouns in this case. |
+| まえに (Before/ago time)         | `2ヶ月　まえに　にゅうがく　しました` (2 months ago (Subject) was a new student). `6年　まえに　きました` ((Subject) had come here 6 years ago) | Used to say something happened or was x amount of time ago. |
 
 ## Other Stuff
 
