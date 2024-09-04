@@ -1,6 +1,6 @@
 # Conjugations v2
 
-This page will aim to have every conjugation coverd as concicely as possible. This is a hopefully better version of previous attempts.
+This page will aim to have every conjugation coved as concisely as possible. This is a hopefully better version of previous attempts.
 
 ## Missing
 
@@ -25,7 +25,7 @@ TBC
 
 ### Godan
 
-`Godan` verbs make use of the `Conjugation Colums` to identify the last sound change required to transform into each form. For simplicity every conjugation will use `はなす` as the example.
+`Godan` verbs make use of the `Conjugation Colum` to identify the last sound change required to transform into each form. For simplicity every conjugation will use `はなす` as the example.
 
 ## た and て Form
 
@@ -44,9 +44,9 @@ The table below shows the conjugations for all Godan verbs into both the `た` a
 
 ## Conjugation Columns (Other Forms)
 
-All `Godan` verbs are in the centre `う` row in thier dicitonary form. Conjugating requires moving across the kana chart (Left <--> right in the one below).
+All `Godan` verbs are in the centre `う` row in their dictionary form. Conjugating requires moving across the kana chart (Left <--> right in the one below).
 
-The last `う` sound of the Verb is replaced with the sound in the corresponding colums of each conjugation type.
+The last `う` sound of the Verb is replaced with the sound in the corresponding colum of each conjugation type.
 
 ```text
     <------>
@@ -66,11 +66,12 @@ The last `う` sound of the Verb is replaced with the sound in the corresponding
 
 ### い Column
 
-| Type                                             | Form         | Ichidan Helper Verb | Short explanation | Example   |
-| ------------------------------------------------ | ------------ | ------------------- | ----------------- | --------- |
-| [ます](../conjugated-forms/conjugation-ます-form.md) | Formal       | ます                | Speak so Profesh  | はなします |
-| [たい](../conjugated-forms/たい-to-want.md)          | Desire       | たい                | Desire to do      | はなしたい |
-| そう                                             | Looks Like   | そう                | Looks Like        | はなしそう |
+| Type                                                | Form         | Ichidan Helper Verb | Short explanation  | Example    |
+| --------------------------------------------------- | ------------ | ------------------- | ------------------ | ---------- |
+| [ます](../conjugated-forms/conjugation-ます-form.md) | Formal       | ます                | Speak so Profesh   | はなします  |
+| [たい](../conjugated-forms/たい-to-want.md)          | Desire       | たい                | Desire to do       | はなしたい  |
+| そう                                                 | Looks Like   | そう                | Looks Like         | はなしそう  |
+| なさい                                               | Request      | なさい              | Please do (polite) | はなしなさい |
 
 ### あ Column
 
