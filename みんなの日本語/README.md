@@ -223,10 +223,13 @@ Where there are extra notes for any lesson point, the lesson point will be linke
 
 ## Lesson 19
 
-| Lesson Point            | Example                             | Short Summary                                                                          |
-| ----------------------- | ----------------------------------- | -------------------------------------------------------------------------------------- |
-| た-Form (Casual Past) | `食べた` (Ate)                       | Turns a `Verb` into a `Noun`. This allows it to be marked with particles such as `が`. |
-| <た-Form> ありません     | `食べた　ことが　ありません` (I have not yet had the experience of eating) | An expression used to say you have not yet had the experience of doing x. |
+| Lesson Point               | Example                             | Short Summary                                                                          |
+| -------------------------- | ----------------------------------- | -------------------------------------------------------------------------------------- |
+| た-Form (Casual Past)      | `食べた` (Ate)                       | Turns a `Verb` into a `Noun`. This allows it to be marked with particles such as `が`. |
+| <た-Form> ありません        | `食べた　ことが　ありません` (I have not yet had the experience of eating) | An expression used to say you have not yet had the experience of doing x. |
+| たり (Chaining Verbs)      | `飲んだり　食べたりしました` ((Subject) drank and ate among other things) | Used to create an incomplete list of actions. Much like the `や` particle for things. In effect `り` is appended to the `た` form, However the tense of the final action listed determines the tense of the whole sentence. |
+| たり (Chaining Adjectives) | `---` (---)                          | Used to create an incomplete list of states something can be in. |
+| たり (Chaining Nouns)      | `---` (---)                          | Used to create an incomplete list of possible scenarios. |
 
 ## Other Stuff
 
