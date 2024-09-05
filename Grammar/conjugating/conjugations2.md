@@ -78,20 +78,20 @@ The last `う` sound of the Verb is replaced with the sound in the corresponding
 | Type                                 | Form                           | Ichidan Helper Verb | Short explanation               | Example   |
 | ------------------------------------ | ------------------------------ | ------------------- | ------------------------------- | --------- |
 | ない                                 | negative                       | ない                 | Negative is not / iru opposite  | はなさない |
-| [れる](../helper_verbs/れる.md) | passive /Receptive Helper Verb | られる               | to get? to transition to state? | はなされる |
-| [せる](../helper_verbs/せる.md)                                 | causative                      | させる               | Allowed to do // Made to do     | はなさせる |
+| [れる](../helper_verbs/れる.md)       | passive /Receptive Helper Verb | られる               | to get? to transition to state? | はなされる |
+| [せる](../helper_verbs/せる.md)       | causative                      | させる               | Allowed to do // Made to do     | はなさせる |
 
 ### え column
 
-| Type | Form               | Ichidan Helper Verb | Short explanation           | Example |
-| ---- | ------------------ | ------------------- | --------------------------- | ------- |
-| る   | potential form     | られる               | You can do the verb         | はなせる |
-| ば | Conditional Form   | れば | if its the case / hypothetical | はなせば |
+| Type | Form               | Ichidan Helper Verb | Short explanation              | Example |
+| ---- | ------------------ | ------------------- | ------------------------------ | ------- |
+| る   | potential form     | られる               | You can do the verb            | はなせる |
+| ば   | Conditional Form   | れば                 | if its the case / hypothetical | はなせば |
 
 ### お Column
 
 | Type                                          | Form         | Ichidan Helper Verb | Short explanation           | Example  |
 | --------------------------------------------- | ------------ | ------------------- | --------------------------- | -------- |
-| [う](../conjugated-forms/よう-volitional.md)   | volitional   | よう                 | Lets do x                   | はなそう |
+| [う](../conjugated-forms/よう-volitional.md)   | volitional   | よう                | Lets do x                   | はなそう |
 
-[Great video explaing this really really well](https://www.youtube.com/watch?v=FhyrskGBKHE&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=8)
+[Great video explaining this really really well](https://www.youtube.com/watch?v=FhyrskGBKHE&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=8)
