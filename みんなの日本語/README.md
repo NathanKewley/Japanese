@@ -187,7 +187,7 @@ Where there are extra notes for any lesson point, the lesson point will be linke
 | 住んでいます (Residing)  | `どこに　住んでいましたか` (Where did you live)                  | This is just vocab, no?                                          |
 | いけません (do not do)   | `教室で　たべては　いけません` (do not eat in the classroom)  | To instruct that an action is prohibited. This is used in the form `<て Form>(を/は)<いけません>` |
 | てもいい (You can do)    | `食べ物を　食べて　もいい　です` (It is ok if you eat). `まど　を　閉めて　もいいですか` (is it ok to close the window) | To instruct that an action is ok. This is used in the form `<て Form><もいい>です`         |
-| から (The reason is)    | `頭が　痛い　から。学校を　休んでいます` (I have a headache thus wont be at school) | Used to provide a reason for something. As like any grammar point it is appended to the statement providing the reason. |
+| から (The reason is)    | `頭が　痛い　から。学校を　休んでいます` (I have a headache thus wont be at school) | Used to provide a reason for something. As like any grammar point it is appended to the statement it is modifying. |
 
 ## Lesson 16
 
@@ -199,6 +199,11 @@ Where there are extra notes for any lesson point, the lesson point will be linke
 | て-Form (い-Adjectives)          | `たかくて　しんせつ　です` ((Subject) is Tall and Kind)                       | Used to link multiple adjectives together to create more descriptive sentences. The `い` of an `い-adjective` is replaced with `くて` to create the `て-Form`. |
 | て-Form (Noun)                   | `日本人で　きれいな　人　です` ((Subject) is a person who is japanese and pretty) | The `で` form of a Noun can be used as an Adjective in the same way. `で` is appended to the `Noun` to create the `て-Form`. |
 | [たい-Form (Want)](../Grammar/conjugated-forms/たい-to-want.md) | `どれが　飲みたい　ですか` (Which drink do you want) `みずが　飲みたい　です` (Water is the drink I want) | Conjugation used to indicate something is wanted. |
+
+どの   - do here
+どれ   - do here
+どんな  - covered
+だれ   - covered
 
 ## Lesson 17
 
@@ -220,6 +225,9 @@ Where there are extra notes for any lesson point, the lesson point will be linke
 | しゅみ (like / hobby)            | `しゅみは　カラオケ　です` ((Subject) likes Karaoke). `しゅみは　テニスを　遊び　ことです` ((Subject) Enjoys playing tennis) | Used to express something is a hobby or enjoyable. This needs to be done with a noun so `こと` can be used to make verbs into nouns in this case. |
 | までに (by/before)                   | `明日までに　宿題しなければなりません` (Homework must be done by tomorrow)         | Marks a time in the future to indicate that time as a time limit for the action in the sentence. |
 | まえに (Before/ago time)         | `2ヶ月　まえに　にゅうがく　しました` (2 months ago (Subject) was a new student). `6年　まえに　きました` ((Subject) had come here 6 years ago). `たべる　まえに　はらいます` (Before eating, pay) | Used to say something happened or was x amount of time ago. |
+| できます | | |
+| できません | | |
+| あります | | |
 
 ## Lesson 19
 
@@ -230,6 +238,7 @@ Where there are extra notes for any lesson point, the lesson point will be linke
 | たり (Chaining Verbs)      | `飲んだり　食べたりしました` ((Subject) drank and ate among other things) | Used to create an incomplete list of actions. Much like the `や` particle for things. In effect `り` is appended to the `た` form, However the tense of the final action listed determines the tense of the whole sentence. |
 | たり (Chaining Adjectives) | `---` (---)                          | Used to create an incomplete list of states something can be in. |
 | たり (Chaining Nouns)      | `---` (---)                          | Used to create an incomplete list of possible scenarios. |
+| <に>なります (Change) | | |
 
 ## Other Stuff
 
@@ -240,3 +249,21 @@ Where there are extra notes for any lesson point, the lesson point will be linke
 | まだ (not yet) | `もう　昼ご飯を　食べましたか` (Have you already eaten lunch?) `いいえ　まだです` (No, Not yet) | `まだです` is used to respond to a question saying you have not yet done something. |
 | こと and もの (thing) | `面白い　ことが　ない` (Nothing interesting) | Both mean `thing` but `もの` is used for literal objects while `こと` is used for more abstract thing. |
 | [いきます　と　きます](../Grammar/いきます-と-きます.md) | `n/a` | `いきます`（行きます）To Go. `きます`（来ます）To Come. Always used from the speakers perspective. Therefore `いきます` is used when the speaker is talking about going to somewhere they are not currently. `きます` is used when the speaker is talking about coming to the location they are currently at. |
+
+<details>
+
+<summary>Casual</summary>
+
+```text
+いきます　  ⇒　いく
+いきません　⇒　いかない
+いいえ　    ⇒　ない
+あります　  ⇒　ある
+ありますか　⇒　ある
+```
+
+### Examples
+
+`こんばん　どこへ　いく?` (Where are you going tonight?) | `どこへも　いかない` -> Going nowhere
+
+</details>
