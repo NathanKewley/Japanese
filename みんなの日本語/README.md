@@ -220,14 +220,11 @@ Where there are extra notes for any lesson point, the lesson point will be linke
 | Lesson Point                     | Example | Short Summary                                            |
 | -------------------------------- | ------- | -------------------------------------------------------- |
 | こと　(Noun Bundler)             | `泳ぐこと` (泳ぐ modified into a noun.) | Turns a `Verb` into a `Noun`. This allows it to be marked with particles such as `が`. |
-| (ことが)できる (Able to Do)       | `空手ができる` (Able to do Karate). `漢字を読むことができますか` (is (subject) capable of reading this sentence?) | Attached to a `Noun` to say or ask is something is able to be done. |
-| (ことが)ある (I have done)        | `飛行機に乗ったことがない` (I have not ridden a plane before) | Can be used in any tense to say you have or have not been able to experience something before. |
+| (ことが)できます (Able to Do)       | `空手ができる` (Able to do Karate). `漢字を読むことができますか` (is (subject) capable of reading this sentence?) | Attached to a `Noun` to say or ask is something is able to be done. |
+| (ことが)あります (I have done)        | `飛行機に乗ったことがない` (I have not ridden a plane before) | Can be used in any tense to say you have or have not been able to experience something before. |
 | しゅみ (like / hobby)            | `しゅみは　カラオケ　です` ((Subject) likes Karaoke). `しゅみは　テニスを　遊び　ことです` ((Subject) Enjoys playing tennis) | Used to express something is a hobby or enjoyable. This needs to be done with a noun so `こと` can be used to make verbs into nouns in this case. |
 | までに (by/before)                   | `明日までに　宿題しなければなりません` (Homework must be done by tomorrow)         | Marks a time in the future to indicate that time as a time limit for the action in the sentence. |
 | まえに (Before/ago time)         | `2ヶ月　まえに　にゅうがく　しました` (2 months ago (Subject) was a new student). `6年　まえに　きました` ((Subject) had come here 6 years ago). `たべる　まえに　はらいます` (Before eating, pay) | Used to say something happened or was x amount of time ago. |
-| できます | | |
-| できません | | |
-| あります | | |
 
 ## Lesson 19
 
@@ -238,7 +235,7 @@ Where there are extra notes for any lesson point, the lesson point will be linke
 | たり (Chaining Verbs)      | `飲んだり　食べたりしました` ((Subject) drank and ate among other things) | Used to create an incomplete list of actions. Much like the `や` particle for things. In effect `り` is appended to the `た` form, However the tense of the final action listed determines the tense of the whole sentence. |
 | たり (Chaining Adjectives) | `---` (---)                          | Used to create an incomplete list of states something can be in. |
 | たり (Chaining Nouns)      | `---` (---)                          | Used to create an incomplete list of possible scenarios. |
-| <に>なります (Change) | | |
+| <に>なります (Change)       | `かれは　25歳　になりました` (He turned 25). `たかくなりました` (Became Tall) | Used to state change. Usage is `<Noun><に>なります`, `<い-Adjective><く>なります` |
 
 ## Other Stuff
 
@@ -252,7 +249,7 @@ Where there are extra notes for any lesson point, the lesson point will be linke
 
 <details>
 
-<summary>Casual</summary>
+<summary>Casual Speech</summary>
 
 ```text
 いきます　  ⇒　いく
