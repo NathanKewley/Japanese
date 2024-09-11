@@ -237,15 +237,7 @@ Where there are extra notes for any lesson point, the lesson point will be linke
 | たり (Chaining Nouns)      | `---` (---)                          | Used to create an incomplete list of possible scenarios. |
 | <に>なります (Change)       | `かれは　25歳　になりました` (He turned 25). `たかくなりました` (Became Tall) | Used to state change. Usage is `<Noun><に>なります`, `<い-Adjective><く>なります` |
 
-## Other Stuff
-
-| Language Point                | Example | Short Summary                                            |
-| ----------------------------- | ------- | -------------------------------------------------- |
-| で (Duration of Time)         | `にじかんで　ほんを　よみました` (I read a book in 4 hours) | `で` is very similar to `に` in terms of referring to time. However `で` is used with `かん` to show **how long** an action took rather than when an action took place. |
-| [Verb Types](../Grammar/word-types/verb-types.md) | `n/a` | Types of verbs. `Ichidan`, `Godan` and `Irregular`. Please see linked page for detailed info. |
-| まだ (not yet) | `もう　昼ご飯を　食べましたか` (Have you already eaten lunch?) `いいえ　まだです` (No, Not yet) | `まだです` is used to respond to a question saying you have not yet done something. |
-| こと and もの (thing) | `面白い　ことが　ない` (Nothing interesting) | Both mean `thing` but `もの` is used for literal objects while `こと` is used for more abstract thing. |
-| [いきます　と　きます](../Grammar/いきます-と-きます.md) | `n/a` | `いきます`（行きます）To Go. `きます`（来ます）To Come. Always used from the speakers perspective. Therefore `いきます` is used when the speaker is talking about going to somewhere they are not currently. `きます` is used when the speaker is talking about coming to the location they are currently at. |
+## Lesson 20
 
 <details>
 
@@ -261,6 +253,18 @@ Where there are extra notes for any lesson point, the lesson point will be linke
 
 ### Examples
 
-`こんばん　どこへ　いく?` (Where are you going tonight?) | `どこへも　いかない` -> Going nowhere
+* `こんばん　どこへ　いく?` (Where are you going tonight?)
+* `どこへも　いかない` -> Going nowhere
 
 </details>
+
+## Other Stuff
+
+| Language Point                | Example | Short Summary                                            |
+| ----------------------------- | ------- | -------------------------------------------------- |
+| で (Duration of Time)         | `にじかんで　ほんを　よみました` (I read a book in 4 hours) | `で` is very similar to `に` in terms of referring to time. However `で` is used with `かん` to show **how long** an action took rather than when an action took place. |
+| [Verb Types](../Grammar/word-types/verb-types.md) | `n/a` | Types of verbs. `Ichidan`, `Godan` and `Irregular`. Please see linked page for detailed info. |
+| まだ (not yet) | `もう　昼ご飯を　食べましたか` (Have you already eaten lunch?) `いいえ　まだです` (No, Not yet) | `まだです` is used to respond to a question saying you have not yet done something. |
+| こと and もの (thing) | `面白い　ことが　ない` (Nothing interesting) | Both mean `thing` but `もの` is used for literal objects while `こと` is used for more abstract thing. |
+| [いきます　と　きます](../Grammar/いきます-と-きます.md) | `n/a` | `いきます`（行きます）To Go. `きます`（来ます）To Come. Always used from the speakers perspective. Therefore `いきます` is used when the speaker is talking about going to somewhere they are not currently. `きます` is used when the speaker is talking about coming to the location they are currently at. |
+
