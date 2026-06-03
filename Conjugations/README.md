@@ -1,301 +1,281 @@
 # Japanese Conjugation Reference (by Word Type)
 
-Japanese words fall into a few major categories when it comes to conjugation:
+[<- HOME](../README.md)
 
-1. Godan Verbs (う-verbs)
-2. Ichidan Verbs (る-verbs)
-3. Irregular Verbs
-4. い-Adjectives
-5. な-Adjectives
-6. Copula (だ / です)
+This is organized **by conjugation type**, with rows showing how each word class forms that conjugation.
 
 ---
 
-# 1. Godan Verbs (五段動詞)
+# Dictionary Form
 
-Examples:
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | Base form | 書く |
+| Ichidan Verb | Base form | 食べる |
+| する | Irregular | する |
+| 来る | Irregular | 来る |
+| い-Adjective | Base form | 高い |
+| な-Adjective | Stem + だ | 静かだ |
+| Noun | Noun + だ | 学生だ |
 
-- 書く (to write)
-- 読む (to read)
-- 話す (to speak)
-- 待つ (to wait)
-- 買う (to buy)
+---
 
-## Stem Changes
+# Polite Form (ます / です)
 
-| Dictionary | A-form | I-form | U-form | E-form | O-form |
-|------------|--------|--------|--------|--------|--------|
-| 書く | 書か | 書き | 書く | 書け | 書こ |
-| 読む | 読ま | 読み | 読む | 読め | 読も |
-| 話す | 話さ | 話し | 話す | 話せ | 話そ |
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | I-stem + ます | 書きます |
+| Ichidan Verb | Remove る + ます | 食べます |
+| する | します | します |
+| 来る | 来ます | 来ます |
+| い-Adjective | Unchanged | 高いです |
+| な-Adjective | Stem + です | 静かです |
+| Noun | Noun + です | 学生です |
 
-## Main Conjugations
+---
 
-Using **書く** (to write)
+# Negative Form
 
-| Form | Japanese | Meaning |
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | A-stem + ない | 書かない |
+| Ichidan Verb | Remove る + ない | 食べない |
+| する | しない | しない |
+| 来る | 来ない | 来ない |
+| い-Adjective | Replace い → くない | 高くない |
+| な-Adjective | Stem + ではない | 静かではない |
+| Noun | Noun + ではない | 学生ではない |
+
+---
+
+# Polite Negative
+
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | I-stem + ません | 書きません |
+| Ichidan Verb | Remove る + ません | 食べません |
+| する | しません | しません |
+| 来る | 来ません | 来ません |
+| い-Adjective | Negative + です | 高くないです |
+| な-Adjective | Stem + ではありません | 静かではありません |
+| Noun | Noun + ではありません | 学生ではありません |
+
+---
+
+# Past Form
+
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | た-form | 書いた |
+| Ichidan Verb | Remove る + た | 食べた |
+| する | した | した |
+| 来る | 来た | 来た |
+| い-Adjective | Replace い → かった | 高かった |
+| な-Adjective | Stem + だった | 静かだった |
+| Noun | Noun + だった | 学生だった |
+
+---
+
+# Polite Past
+
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | I-stem + ました | 書きました |
+| Ichidan Verb | Remove る + ました | 食べました |
+| する | しました | しました |
+| 来る | 来ました | 来ました |
+| い-Adjective | Past + です | 高かったです |
+| な-Adjective | Stem + でした | 静かでした |
+| Noun | Noun + でした | 学生でした |
+
+---
+
+# Past Negative
+
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | A-stem + なかった | 書かなかった |
+| Ichidan Verb | Remove る + なかった | 食べなかった |
+| する | しなかった | しなかった |
+| 来る | 来なかった | 来なかった |
+| い-Adjective | Replace い → くなかった | 高くなかった |
+| な-Adjective | Stem + ではなかった | 静かではなかった |
+| Noun | Noun + ではなかった | 学生ではなかった |
+
+---
+
+# Polite Past Negative
+
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | I-stem + ませんでした | 書きませんでした |
+| Ichidan Verb | Remove る + ませんでした | 食べませんでした |
+| する | しませんでした | しませんでした |
+| 来る | 来ませんでした | 来ませんでした |
+| い-Adjective | Past Negative + です | 高くなかったです |
+| な-Adjective | Stem + ではありませんでした | 静かではありませんでした |
+| Noun | Noun + ではありませんでした | 学生ではありませんでした |
+
+---
+
+# Te Form
+
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | Te-form rules | 書いて |
+| Ichidan Verb | Remove る + て | 食べて |
+| する | して | して |
+| 来る | 来て | 来て |
+| い-Adjective | Replace い → くて | 高くて |
+| な-Adjective | Stem + で | 静かで |
+| Noun | Noun + で | 学生で |
+
+---
+
+# Potential Form
+
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | E-stem + る | 書ける |
+| Ichidan Verb | Remove る + られる | 食べられる |
+| する | できる | できる |
+| 来る | 来られる | 来られる |
+| い-Adjective | N/A | — |
+| な-Adjective | N/A | — |
+| Noun | N/A | — |
+
+---
+
+# Passive Form
+
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | A-stem + れる | 書かれる |
+| Ichidan Verb | Remove る + られる | 食べられる |
+| する | される | される |
+| 来る | 来られる | 来られる |
+| い-Adjective | N/A | — |
+| な-Adjective | N/A | — |
+| Noun | N/A | — |
+
+---
+
+# Causative Form
+
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | A-stem + せる | 書かせる |
+| Ichidan Verb | Remove る + させる | 食べさせる |
+| する | させる | させる |
+| 来る | 来させる | 来させる |
+| い-Adjective | N/A | — |
+| な-Adjective | N/A | — |
+| Noun | N/A | — |
+
+---
+
+# Volitional Form
+
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | O-stem + う | 書こう |
+| Ichidan Verb | Remove る + よう | 食べよう |
+| する | しよう | しよう |
+| 来る | 来よう | 来よう |
+| い-Adjective | N/A | — |
+| な-Adjective | N/A | — |
+| Noun | N/A | — |
+
+---
+
+# Imperative Form
+
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | E-stem | 書け |
+| Ichidan Verb | Remove る + ろ | 食べろ |
+| する | しろ | しろ |
+| 来る | 来い | 来い |
+| い-Adjective | N/A | — |
+| な-Adjective | N/A | — |
+| Noun | N/A | — |
+
+---
+
+# Conditional (ば)
+
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | E-stem + ば | 書けば |
+| Ichidan Verb | Remove る + れば | 食べれば |
+| する | すれば | すれば |
+| 来る | 来れば | 来れば |
+| い-Adjective | Replace い → ければ | 高ければ |
+| な-Adjective | Stem + なら（common） | 静かなら |
+| Noun | Noun + なら | 学生なら |
+
+---
+
+# Conditional (たら)
+
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | Past + ら | 書いたら |
+| Ichidan Verb | Past + ら | 食べたら |
+| する | したら | したら |
+| 来る | 来たら | 来たら |
+| い-Adjective | Past + ら | 高かったら |
+| な-Adjective | Past + ら | 静かだったら |
+| Noun | Past + ら | 学生だったら |
+
+---
+
+# Adverb Form
+
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | N/A | — |
+| Ichidan Verb | N/A | — |
+| する | N/A | — |
+| 来る | N/A | — |
+| い-Adjective | Replace い → く | 早く |
+| な-Adjective | Stem + に | 静かに |
+| Noun | Some nouns + に | 本当に |
+
+---
+
+# Noun Modifier Form
+
+| Word Type | Rule | Example |
+|------------|------|----------|
+| Godan Verb | Dictionary form + noun | 書く人 |
+| Ichidan Verb | Dictionary form + noun | 食べる人 |
+| する | Dictionary form + noun | 勉強する人 |
+| 来る | Dictionary form + noun | 来る人 |
+| い-Adjective | Directly modifies noun | 高い山 |
+| な-Adjective | Stem + な | 静かな町 |
+| Noun | Noun + の | 日本の会社 |
+
+---
+
+# Te-form Sound Change Rules (Godan Only)
+
+| Dictionary Ending | Te-form | Ta-form |
+|-------------------|----------|----------|
+| う | って | った |
+| つ | って | った |
+| る | って | った |
+| む | んで | んだ |
+| ぶ | んで | んだ |
+| ぬ | んで | んだ |
+| く | いて | いた |
+| ぐ | いで | いだ |
+| す | して | した |
+
+Exception:
+
+| Verb | Te-form | Ta-form |
 |--------|--------|--------|
-| Dictionary | 書く | write |
-| Polite | 書きます | write |
-| Negative | 書かない | do not write |
-| Polite Negative | 書きません | do not write |
-| Past | 書いた | wrote |
-| Past Negative | 書かなかった | did not write |
-| Polite Past | 書きました | wrote |
-| Te-form | 書いて | writing / and |
-| Potential | 書ける | can write |
-| Passive | 書かれる | be written |
-| Causative | 書かせる | make/let write |
-| Volitional | 書こう | let's write |
-| Imperative | 書け | write! |
-| Conditional (ば) | 書けば | if write |
-| Conditional (たら) | 書いたら | if/when wrote |
-| Provisional Negative | 書かなければ | if don't write |
+| 行く | 行って | 行った |
 
-## Te-form Rules
-
-| Ending | Te-form | Example |
-|---------|---------|---------|
-| う・つ・る | って | 買う → 買って |
-| む・ぶ・ぬ | んで | 読む → 読んで |
-| く | いて | 書く → 書いて |
-| ぐ | いで | 泳ぐ → 泳いで |
-| す | して | 話す → 話して |
-
-### Exception
-
-| Verb | Te-form |
-|--------|--------|
-| 行く | 行って |
-
----
-
-# 2. Ichidan Verbs (一段動詞)
-
-Examples:
-
-- 食べる (to eat)
-- 見る (to see)
-- 起きる (to wake up)
-
-Rule:
-
-Remove **る** and add the ending.
-
-## Main Conjugations
-
-Using **食べる**
-
-| Form | Japanese | Meaning |
-|--------|--------|--------|
-| Dictionary | 食べる | eat |
-| Polite | 食べます | eat |
-| Negative | 食べない | do not eat |
-| Polite Negative | 食べません | do not eat |
-| Past | 食べた | ate |
-| Past Negative | 食べなかった | did not eat |
-| Polite Past | 食べました | ate |
-| Te-form | 食べて | eating / and |
-| Potential | 食べられる | can eat |
-| Passive | 食べられる | be eaten |
-| Causative | 食べさせる | make/let eat |
-| Volitional | 食べよう | let's eat |
-| Imperative | 食べろ | eat! |
-| Conditional (ば) | 食べれば | if eat |
-| Conditional (たら) | 食べたら | if/when eat |
-| Provisional Negative | 食べなければ | if don't eat |
-
----
-
-# 3. Irregular Verbs
-
-## する
-
-| Form | Japanese |
-|--------|--------|
-| Dictionary | する |
-| Polite | します |
-| Negative | しない |
-| Past | した |
-| Te-form | して |
-| Potential | できる |
-| Passive | される |
-| Causative | させる |
-| Volitional | しよう |
-| Imperative | しろ |
-| Conditional | すれば |
-| Tara | したら |
-
-## 来る（くる）
-
-| Form | Japanese |
-|--------|--------|
-| Dictionary | 来る |
-| Polite | 来ます |
-| Negative | 来ない |
-| Past | 来た |
-| Te-form | 来て |
-| Potential | 来られる |
-| Passive | 来られる |
-| Causative | 来させる |
-| Volitional | 来よう |
-| Imperative | 来い |
-| Conditional | 来れば |
-| Tara | 来たら |
-
----
-
-# 4. い-Adjectives
-
-Examples:
-
-- 高い (expensive/high)
-- 大きい (big)
-- 面白い (interesting)
-
-Rule:
-
-Remove the final **い** and attach endings.
-
-## Using 高い
-
-| Form | Japanese | Meaning |
-|--------|--------|--------|
-| Present | 高い | expensive |
-| Negative | 高くない | not expensive |
-| Past | 高かった | was expensive |
-| Past Negative | 高くなかった | wasn't expensive |
-| Te-form | 高くて | and/is expensive |
-| Conditional | 高ければ | if expensive |
-
-## Exception: いい
-
-| Form | Japanese |
-|--------|--------|
-| Present | いい |
-| Negative | よくない |
-| Past | よかった |
-| Past Negative | よくなかった |
-| Te-form | よくて |
-| Conditional | よければ |
-
----
-
-# 5. な-Adjectives
-
-Examples:
-
-- 静か (quiet)
-- 便利 (convenient)
-- 元気 (healthy/energetic)
-
-Requires:
-
-- な before nouns
-- copula for predicates
-
-## Using 静か
-
-| Form | Japanese | Meaning |
-|--------|--------|--------|
-| Present | 静かだ | is quiet |
-| Polite | 静かです | is quiet |
-| Negative | 静かではない | not quiet |
-| Past | 静かだった | was quiet |
-| Past Negative | 静かではなかった | wasn't quiet |
-| Te-form | 静かで | quiet and... |
-| Conditional | 静かなら | if quiet |
-
-## Before Nouns
-
-| Form | Example |
-|--------|--------|
-| Noun Modifier | 静かな部屋 |
-| Meaning | quiet room |
-
----
-
-# 6. Copula (だ / です)
-
-Used with nouns and な-adjectives.
-
-Example: 学生 (student)
-
-## Plain Forms
-
-| Form | Japanese |
-|--------|--------|
-| Present | 学生だ |
-| Negative | 学生ではない |
-| Past | 学生だった |
-| Past Negative | 学生ではなかった |
-
-## Polite Forms
-
-| Form | Japanese |
-|--------|--------|
-| Present | 学生です |
-| Negative | 学生ではありません |
-| Past | 学生でした |
-| Past Negative | 学生ではありませんでした |
-
----
-
-# Passive vs Potential Confusion
-
-Some forms look identical.
-
-| Verb | Potential | Passive |
-|--------|--------|--------|
-| 食べる | 食べられる | 食べられる |
-| 見る | 見られる | 見られる |
-| 起きる | 起きられる | 起きられる |
-
-Meaning is determined by context.
-
----
-
-# Common Helper Constructions
-
-| Pattern | Meaning | Example |
-|----------|----------|----------|
-| ～ている | ongoing state/action | 食べている |
-| ～てある | intentionally done state | 開けてある |
-| ～ておく | do in advance | 買っておく |
-| ～てしまう | finish/regret | 忘れてしまった |
-| ～てみる | try doing | 食べてみる |
-| ～てくる | come to do | 持ってくる |
-| ～ていく | go and do | 持っていく |
-| ～そうだ | looks like | 雨が降りそう |
-| ～らしい | apparently | 学生らしい |
-| ～ようだ | seems | 元気なようだ |
-| ～はずだ | should be | 来るはずだ |
-
----
-
-# Quick Identification Guide
-
-| Ending | Usually Type |
-|----------|----------|
-| ～る after え-sound | Often Ichidan |
-| ～る after い-sound | Sometimes Ichidan |
-| ～う・く・ぐ・す・つ・ぬ・ぶ・む | Godan |
-| する | Irregular |
-| 来る | Irregular |
-| Ends in い and describes quality | い-adjective |
-| Needs な before noun | な-adjective |
-
-## Examples
-
-| Word | Type |
-|--------|--------|
-| 食べる | Ichidan |
-| 見る | Ichidan |
-| 起きる | Ichidan |
-| 書く | Godan |
-| 話す | Godan |
-| 読む | Godan |
-| 静か | な-adjective |
-| 便利 | な-adjective |
-| 高い | い-adjective |
-| 面白い | い-adjective |
+[<- HOME](../README.md)
