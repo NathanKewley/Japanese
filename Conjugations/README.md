@@ -4,7 +4,36 @@
 
 This is organized **by conjugation type**, with rows showing how each word class forms that conjugation.
 
+## Te and Ta Form
+
+Te form is probably the most important to understand and is generally used to connect things. This is included first as its the most complicated and useful and most likley to be referenced reguly.
+
+| Word Type     | Rule            | Example (て) | Example (た) |
+| ------------- | --------------- | ------------ | ----------- |
+| Godan Verb    | See Godan Table | 書いて        | -           |       
+| Ichidan Verb  | Remove る + て   | 食べて        | -          |  
+| い-Adjective  | Replace い → くて | 高くて       | -           |
+| な-Adjective  | Stem + で        | 静かで       | -           |
+| Noun          | Noun + で       | 学生で        | -           |
+| する          | して             | して         | -           |
+| 来る          | 来て             | 来て         | -           |
+
+### Godan Table
+
+The table below shows the conjugations for all Godan verbs into both the `た` and `て` forms. The `Verb Ending` is replaced to make the `て` and `た` Forms.
+
+| Verb Ending      | て Form   | た Form  |
+| ---------------- | --------- | -------- |
+| `う`, `つ`, `る` | `って`     | `った`   |
+| `ぬ`, `ぶ`, `む` | `んで`     | `んだ`   |
+| `す`             | `して`     | `した`   |
+| `く`             | `いて`     | `いた`   |
+| `ぐ`             | `いで`     | `いだ`   |
+
+
 ## Dictionary Form
+
+Used in casual speach and also for looking up terms in the dictionary.
 
 | Word Type | Rule | Example |
 |------------|------|----------|
@@ -17,6 +46,8 @@ This is organized **by conjugation type**, with rows showing how each word class
 | 来る | Irregular | 来る |
 
 ## Polite Form (ます / です)
+
+The form of words used in polite speach.
 
 | Word Type | Rule | Example |
 |------------|------|----------|
@@ -99,18 +130,6 @@ This is organized **by conjugation type**, with rows showing how each word class
 | Noun | Noun + ではありませんでした | 学生ではありませんでした |
 | する | しませんでした | しませんでした |
 | 来る | 来ませんでした | 来ませんでした |
-
-## Te Form
-
-| Word Type | Rule | Example |
-|------------|------|----------|
-| Godan Verb | Te-form rules | 書いて |
-| Ichidan Verb | Remove る + て | 食べて |
-| い-Adjective | Replace い → くて | 高くて |
-| な-Adjective | Stem + で | 静かで |
-| Noun | Noun + で | 学生で |
-| する | して | して |
-| 来る | 来て | 来て |
 
 ## Potential Form
 
@@ -195,5 +214,9 @@ This is organized **by conjugation type**, with rows showing how each word class
 | Noun | Past + ら | 学生だったら |
 | する | したら | したら |
 | 来る | 来たら | 来たら |
+
+## Additional Resources
+
+* [Great video explaining this really really well](https://www.youtube.com/watch?v=FhyrskGBKHE&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=8)
 
 [<- HOME](../README.md)
