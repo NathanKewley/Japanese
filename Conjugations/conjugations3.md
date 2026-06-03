@@ -69,39 +69,25 @@ Use this chart with the tbale above in reference to the `Goadan` rule for a comp
 
 Helper verbs take the `Base Form` from the sections above and append an additional attachment to add meaning.
 
-### Helper Verb Attachments
-
-| Base Form  | Helper Verbs         |
-| ---------- | -------------------------- |
-| ます Stem    | たい, そう, やすい, にくい, なさい, すぎる |
-| て Form     | いる, ある, おく, みる, しまう, ください  |
-| た Form     | ことがある, ばかり, あとで            |
-| Dictionary | こと, つもり, まえに, のがすき         |
-| ない Form    | ないで, なくて, なければ             |
-
-### Helper Verbs Definitions
-
-| Attachment | Name | Meaning |
-|------------|------|---------|
-| たい | Desire | Want to do |
-| そう | Appearance | Looks like will do |
-| やすい | Ease | Easy to do |
-| にくい | Difficulty | Hard to do |
-| なさい | Command | Please do (polite instruction) |
-| いる | Progressive | Be doing |
-| ある | Result State | Has been done / exists |
-| おく | Preparation | Do in advance |
-| みる | Trial | Try doing |
-| しまう | Completion | Finish / accidentally do |
-| ください | Request | Please do |
-| ことがある | Experience | Have done before |
-| ばかり | Recent Action | Just did |
-| こと | Nominalization | The act of doing |
-| つもり | Intention | Plan to do |
-| まえに | Before | Before doing |
-| ために | Purpose | In order to do |
-| ないで | Without doing | Do without doing |
-| なければ | Conditional negative | If not / must do |
-| なくてもいい | Permission negative | Don’t have to do |
+| Base Form | Attachment | Name | Meaning |
+| ---------- | ---------- | ---- | ------- |
+| ます Stem | たい | Desire | Want to do |
+| ます Stem | そう | Appearance | Looks like will do |
+| ます Stem | やすい | Ease | Easy to do |
+| ます Stem | にくい | Difficulty | Hard to do |
+| ます Stem | なさい | Command | Please do (polite instruction) |
+| て Form | いる | Progressive | Be doing |
+| て Form | ある | Result State | Has been done / exists |
+| て Form | おく | Preparation | Do in advance |
+| て Form | みる | Trial | Try doing |
+| て Form | しまう | Completion | Finish / accidentally do |
+| て Form | ください | Request | Please do |
+| た Form | ことがある | Experience | Have done before |
+| た Form | ばかり | Recent Action | Just did |
+| た Form | こと | Nominalization | The act of doing |
+| Dictionary | つもり | Intention | Plan to do |
+| Dictionary | まえに | Before | Before doing |
+| ない Form | ないで | Without doing | Do without doing |
+| ない Form | なければ | Conditional negative | If not / must do |
 
 [<- BACK](./README.md)
