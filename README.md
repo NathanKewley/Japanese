@@ -31,7 +31,7 @@ A collection of resources I would reccomend checking out
 
 | Resource                                                                               | Description                                                                                                      |
 | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [Tofugu's Detailed Guide](https://www.tofugu.com/learn-japanese/).                     | Good resource for starting out and getting the basic down                                                        |
+| [Tofugu's Detailed Guide](https://www.tofugu.com/learn-japanese/)                      | Good resource for starting out and getting the basic down                                                        |
 | [Renshuu](app.renshuu.org/)                                                            | My personal preference of SRS App. Its designed specifically for Japanese and has great built in Grammar lessons |
 | [News Web Easy](https://news.web.nhk/news/easy/)                                       | Almost daily posts all in simple Japanese covering Japanese and world news. Good for beginer reading practice    |
 | [Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) | Great youtube channel that take a different approach to teaching Japanese Grammar, I found this very helpful     |
