@@ -4,6 +4,9 @@
 
 This is organized **by conjugation type**, with rows showing how each word class forms that conjugation.
 
+* [Alternative possible layout for conjugations](./conjugations2.md)
+* [Alternative2 possible layout for conjugations](./conjugations3.md)
+
 ## Te and Ta Form
 
 Te form is probably the most important to understand and is generally used to connect things. This is included first as its the most complicated and useful and most likley to be referenced reguly.
