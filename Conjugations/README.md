@@ -4,24 +4,43 @@
 
 This is organized **by conjugation type**, with rows showing how each word class forms that conjugation.
 
-* [Alternative possible layout for conjugations](./conjugations2.md)
-* [Alternative2 possible layout for conjugations](./conjugations3.md)
+* [Alternative1 possible layout for conjugations](./conjugations1.md)
+* [Alternative2 possible layout for conjugations](./conjugations2.md)
+* [Alternative3 possible layout for conjugations](./conjugations3.md)
 
-## Te and Ta Form
+## Adjectives
 
-Te form is probably the most important to understand and is generally used to connect things. This is included first as its the most complicated and useful and most likley to be referenced reguly.
+| Form | Purpose | い-Adjective Rule | な-Adjective Rule | 高い (い-Adjective) | 静か (な-Adjective) |
+|--------|---------|------------------|------------------|------------|------------|
+| Dictionary | Plain | Base Form | Stem + だ | 高い | 静かだ |
+| Polite | Polite Statement | + です | だ → です | 高いです | 静かです |
+| Negative | Not | い → くない | だ → じゃない | 高くない | 静かじゃない |
+| Negative (Formal) | Not (Polite) | い → くありません | だ → ではありません | 高くありません | 静かではありません |
+| Past | Was | い → かった | だ → だった | 高かった | 静かだった |
+| Past (Polite) | Was (Polite) | い → かったです | だ → でした | 高かったです | 静かでした |
+| Negative Past | Was Not | い → くなかった | だ → じゃなかった | 高くなかった | 静かじゃなかった |
+| Negative Past (Formal) | Was Not (Polite) | い → くありませんでした | だ → ではありませんでした | 高くありませんでした | 静かではありませんでした |
+| て Form | Connect Clauses | い → くて | だ → で | 高くて | 静かで |
+| Negative て Form | Not And | い → くなくて | だ → じゃなくて | 高くなくて | 静かじゃなくて |
+| Conditional | If | い → ければ | なら(ば) | 高ければ | 静かなら(ば) |
+| Adverb | Describe Verb | い → く | に | 高く | 静かに |
+| Looks Like | Appears To Be | い → そう | + そう | 高そう | 静かそう |
+| Apparently | It Seems / I Hear | + らしい | + らしい | 高いらしい | 静からしい |
+| Excessive | Too Much | + すぎる | + すぎる | 高すぎる | 静かすぎる |
+| Become | Become... | くなる | になる | 高くなる | 静かになる |
+| Because | Because... | + から | + だから | 高いから | 静かだから |
+| Although | Although... | + けど | + だけど | 高いけど | 静かだけど |
+| Noun Modifier | Modify Noun | Directly Before Noun | + な Before Noun | 高い山 | 静かな部屋 |
+| Nominalized | The ... Thing | + の | + なの | 高いの | 静かなの |
+| Guess / Probably | Probably | + だろう | + だろう | 高いだろう | 静かだろう |
+| Guess (Polite) | Probably (Polite) | + でしょう | + でしょう | 高いでしょう | 静かでしょう |
+| Too... To... | So... That... | + すぎて | + すぎて | 高すぎて買えない | 静かすぎて寝られる |
 
-| Word Type     | Rule            | Example (て) | Example (た) |
-| ------------- | --------------- | ------------ | ----------- |
-| Godan Verb    | See Godan Table | 書いて        | -           |       
-| Ichidan Verb  | Remove る + て   | 食べて        | -          |  
-| い-Adjective  | Replace い → くて | 高くて       | -           |
-| な-Adjective  | Stem + で        | 静かで       | -           |
-| Noun          | Noun + で       | 学生で        | -           |
-| する          | して             | して         | -           |
-| 来る          | 来て             | 来て         | -           |
+## Verbs
 
-### Godan Table
+### た and て Form
+
+#### Godan
 
 The table below shows the conjugations for all Godan verbs into both the `た` and `て` forms. The `Verb Ending` is replaced to make the `て` and `た` Forms.
 
@@ -33,190 +52,52 @@ The table below shows the conjugations for all Godan verbs into both the `た` a
 | `く`             | `いて`     | `いた`   |
 | `ぐ`             | `いで`     | `いだ`   |
 
+#### Ichidan
 
-## Dictionary Form
+This is its literally as simple as replacing the ending `る` with `て` or `た`.
 
-Used in casual speach and also for looking up terms in the dictionary.
+### Other Forms (Verb)
 
-| Word Type | Rule | Example |
-|------------|------|----------|
-| Godan Verb | Base form | 書く |
-| Ichidan Verb | Base form | 食べる |
-| い-Adjective | Base form | 高い |
-| な-Adjective | Stem + だ | 静かだ |
-| Noun | Noun + だ | 学生だ |
-| する | Irregular | する |
-| 来る | Irregular | 来る |
+| Form | Purpose | Ichidan Rule | Godan Rule | 食べる (Ichidan) | 話す (Godan) |
+|--------|---------|-------------|------------|---------|---------|
+| Dictionary | Plain | Base Form | Base Form | 食べる | 話す |
+| ます | Polite | る → ます | Final kana → い column + ます | 食べます | 話します |
+| ない | Negative | る → ない | Final kana → あ column + ない | 食べない | 話さない |
+| たい | Want To | る → たい | Final kana → い column + たい | 食べたい | 話したい |
+| そう | Looks Like | る → そう | Final kana → い column + そう | 食べそう | 話しそう |
+| やすい | Easy To | る → やすい | Final kana → い column + やすい | 食べやすい | 話しやすい |
+| にくい | Difficult To | る → にくい | Final kana → い column + にくい | 食べにくい | 話しにくい |
+| なさい | Polite Command | る → なさい | Final kana → い column + なさい | 食べなさい | 話しなさい |
+| たり | Do Things Like | た + り | た + り | 食べたり | 話したり |
+| Potential | Can Do | る → られる | Final kana → え column + る | 食べられる | 話せる |
+| Passive | Be Done To | る → られる | Final kana → あ column + れる | 食べられる | 話される |
+| Causative | Make / Let Do | る → させる | Final kana → あ column + せる | 食べさせる | 話させる |
+| Causative Passive | Be Made To Do | る → させられる | Final kana → あ column + せられる | 食べさせられる | 話させられる |
+| Conditional | If | る → れば | Final kana → え column + ば | 食べれば | 話せば |
+| Volitional | Let's | る → よう | Final kana → お column + う | 食べよう | 話そう |
+| Imperative | Command | る → ろ / よ | Final kana → え column | 食べろ | 話せ |
+| Prohibition | Don't Do | + な | + な | 食べるな | 話すな |
 
-## Polite Form (ます / です)
+#### Stem Conversion reference table
 
-The form of words used in polite speach.
+All `Godan` verbs are in the centre `う` row in their dictionary form. Conjugating requires moving across the kana chart (Left <--> right in the one below).
 
-| Word Type | Rule | Example |
-|------------|------|----------|
-| Godan Verb | I-stem + ます | 書きます |
-| Ichidan Verb | Remove る + ます | 食べます |
-| い-Adjective | Unchanged | 高いです |
-| な-Adjective | Stem + です | 静かです |
-| Noun | Noun + です | 学生です |
-| する | します | します |
-| 来る | 来ます | 来ます |
+The last `う` sound of the Verb is replaced with the sound in the corresponding colum of each conjugation type.
 
-## Negative Form
+Use this chart with the tbale above in reference to the `Goadan` rule for a complete understanding of the rule.
 
-| Word Type | Rule | Example |
-|------------|------|----------|
-| Godan Verb | A-stem + ない | 書かない |
-| Ichidan Verb | Remove る + ない | 食べない |
-| い-Adjective | Replace い → くない | 高くない |
-| な-Adjective | Stem + ではない | 静かではない |
-| Noun | Noun + ではない | 学生ではない |
-| する | しない | しない |
-| 来る | 来ない | 来ない |
-
-## Polite Negative
-
-| Word Type | Rule | Example |
-|------------|------|----------|
-| Godan Verb | I-stem + ません | 書きません |
-| Ichidan Verb | Remove る + ません | 食べません |
-| い-Adjective | Negative + です | 高くないです |
-| な-Adjective | Stem + ではありません | 静かではありません |
-| Noun | Noun + ではありません | 学生ではありません |
-| する | しません | しません |
-| 来る | 来ません | 来ません |
-
-## Past Form
-
-| Word Type | Rule | Example |
-|------------|------|----------|
-| Godan Verb | た-form | 書いた |
-| Ichidan Verb | Remove る + た | 食べた |
-| い-Adjective | Replace い → かった | 高かった |
-| な-Adjective | Stem + だった | 静かだった |
-| Noun | Noun + だった | 学生だった |
-| する | した | した |
-| 来る | 来た | 来た |
-
-## Polite Past
-
-| Word Type | Rule | Example |
-|------------|------|----------|
-| Godan Verb | I-stem + ました | 書きました |
-| Ichidan Verb | Remove る + ました | 食べました |
-| い-Adjective | Past + です | 高かったです |
-| な-Adjective | Stem + でした | 静かでした |
-| Noun | Noun + でした | 学生でした |
-| する | しました | しました |
-| 来る | 来ました | 来ました |
-
-## Past Negative
-
-| Word Type | Rule | Example |
-|------------|------|----------|
-| Godan Verb | A-stem + なかった | 書かなかった |
-| Ichidan Verb | Remove る + なかった | 食べなかった |
-| い-Adjective | Replace い → くなかった | 高くなかった |
-| な-Adjective | Stem + ではなかった | 静かではなかった |
-| Noun | Noun + ではなかった | 学生ではなかった |
-| する | しなかった | しなかった |
-| 来る | 来なかった | 来なかった |
-
-## Polite Past Negative
-
-| Word Type | Rule | Example |
-|------------|------|----------|
-| Godan Verb | I-stem + ませんでした | 書きませんでした |
-| Ichidan Verb | Remove る + ませんでした | 食べませんでした |
-| い-Adjective | Past Negative + です | 高くなかったです |
-| な-Adjective | Stem + ではありませんでした | 静かではありませんでした |
-| Noun | Noun + ではありませんでした | 学生ではありませんでした |
-| する | しませんでした | しませんでした |
-| 来る | 来ませんでした | 来ませんでした |
-
-## Potential Form
-
-| Word Type | Rule | Example |
-|------------|------|----------|
-| Godan Verb | E-stem + る | 書ける |
-| Ichidan Verb | Remove る + られる | 食べられる |
-| い-Adjective | N/A | — |
-| な-Adjective | N/A | — |
-| Noun | N/A | — |
-| する | できる | できる |
-| 来る | 来られる | 来られる |
-
-## Passive Form
-
-| Word Type | Rule | Example |
-|------------|------|----------|
-| Godan Verb | A-stem + れる | 書かれる |
-| Ichidan Verb | Remove る + られる | 食べられる |
-| い-Adjective | N/A | — |
-| な-Adjective | N/A | — |
-| Noun | N/A | — |
-| する | される | される |
-| 来る | 来られる | 来られる |
-
-## Causative Form
-
-| Word Type | Rule | Example |
-|------------|------|----------|
-| Godan Verb | A-stem + せる | 書かせる |
-| Ichidan Verb | Remove る + させる | 食べさせる |
-| い-Adjective | N/A | — |
-| な-Adjective | N/A | — |
-| Noun | N/A | — |
-| する | させる | させる |
-| 来る | 来させる | 来させる |
-
-## Volitional Form
-
-| Word Type | Rule | Example |
-|------------|------|----------|
-| Godan Verb | O-stem + う | 書こう |
-| Ichidan Verb | Remove る + よう | 食べよう |
-| い-Adjective | N/A | — |
-| な-Adjective | N/A | — |
-| Noun | N/A | — |
-| する | しよう | しよう |
-| 来る | 来よう | 来よう |
-
-## Imperative Form
-
-| Word Type | Rule | Example |
-|------------|------|----------|
-| Godan Verb | E-stem | 書け |
-| Ichidan Verb | Remove る + ろ | 食べろ |
-| い-Adjective | N/A | — |
-| な-Adjective | N/A | — |
-| Noun | N/A | — |
-| する | しろ | しろ |
-| 来る | 来い | 来い |
-
-## Conditional (ば)
-
-| Word Type | Rule | Example |
-|------------|------|----------|
-| Godan Verb | E-stem + ば | 書けば |
-| Ichidan Verb | Remove る + れば | 食べれば |
-| い-Adjective | Replace い → ければ | 高ければ |
-| な-Adjective | Stem + なら（common） | 静かなら |
-| Noun | Noun + なら | 学生なら |
-| する | すれば | すれば |
-| 来る | 来れば | 来れば |
-
-## Conditional (たら)
-
-| Word Type | Rule | Example |
-|------------|------|----------|
-| Godan Verb | Past + ら | 書いたら |
-| Ichidan Verb | Past + ら | 食べたら |
-| い-Adjective | Past + ら | 高かったら |
-| な-Adjective | Past + ら | 静かだったら |
-| Noun | Past + ら | 学生だったら |
-| する | したら | したら |
-| 来る | 来たら | 来たら |
+```text
+    <------>
+あ　い　う　え　お
+か　き　く　け　こ
+さ　し　す　せ　そ
+た　ち　つ　て　と
+な　に　ぬ　ね　の
+ば　び　ぶ　べ　ぼ
+ま　み　む　め　も
+ら　り　る　れ　ろ
+    <------>
+```
 
 ## Additional Resources
 
