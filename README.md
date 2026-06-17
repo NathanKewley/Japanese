@@ -17,6 +17,12 @@ Learning Japanese for me is still very much a work in progress, however it has e
 4. Now you should have some basic grammar and vocab building up. Its time to start consuming Japanese content and mining words and phrases from that. [News Web Easy](https://news.web.nhk/news/easy/) and mange like [Yotsuba&](https://en.wikipedia.org/wiki/Yotsuba%26!) are great places to start.
 5. Check out the other resources in the `Resources` section below.
 
+## Integrated Guide
+
+This is very much a work in progress and may well never be finished. But this is my attempt at writing a guid for Japanese.
+
+[Integrated Guide](./guide/README.md)
+
 ## Reference Sections
 
 Organised quick references of important components of Japanese

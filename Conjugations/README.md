@@ -4,10 +4,6 @@
 
 This is organized **by conjugation type**, with rows showing how each word class forms that conjugation.
 
-* [Alternative1 possible layout for conjugations](./conjugations1.md)
-* [Alternative2 possible layout for conjugations](./conjugations2.md)
-* [Alternative3 possible layout for conjugations](./conjugations3.md)
-
 ## Adjectives
 
 | Form | Purpose | い-Adjective Rule | 高い (い-Adjective) | な-Adjective Rule | 静か (な-Adjective) |
@@ -102,5 +98,11 @@ Use this chart with the tbale above in reference to the `Goadan` rule for a comp
 ## Additional Resources
 
 * [Great video explaining this really really well](https://www.youtube.com/watch?v=FhyrskGBKHE&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=8)
+
+## Alternative layous for conjugations
+
+* [Alternative1 possible layout for conjugations](./conjugations1.md)
+* [Alternative2 possible layout for conjugations](./conjugations2.md)
+* [Alternative3 possible layout for conjugations](./conjugations3.md)
 
 [<- HOME](../README.md)
