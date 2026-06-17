@@ -13,16 +13,17 @@ Learning Japanese for me is still very much a work in progress, however it has e
 
 1. A great place to start is [Tofugu's Detailed Guide](https://www.tofugu.com/learn-japanese/). This will get you comfortable with Japanese conceptually and teach you Hiragana and Katakana as well as provide a few avenues for steps forward.
 2. It is probably worthwhile picking up a textbook. I personally would reccomend Genki I and Genki II as your first 2 textbooks. みんなの日本語 is also a popular textbook, I did not particually like みんなの日本語.
-3. Get a spaces repition app. Anki is usually the most reccomended. Personally I use and reccomend [Renshuu](https://app.renshuu.org/)
+3. Get a spaces repition app. Anki is usually the most reccomended. Personally I use and reccomend [Renshuu](https://app.renshuu.org/).
 4. Now you should have some basic grammar and vocab building up. Its time to start consuming Japanese content and mining words and phrases from that. [News Web Easy](https://news.web.nhk/news/easy/) and mange like [Yotsuba&](https://en.wikipedia.org/wiki/Yotsuba%26!) are great places to start.
+5. Check out the other resources in the `Resources` section below.
 
-## Sections
+## Reference Sections
 
-Notes are organised into the following sections:
+Organised quick references of important components of Japanese
 
 | Section                                  | Description                                                                         |
 | ---------------------------------------- | ----------------------------------------------------------------------------------- |
-| [Kana Charts](./kana/kana.md)
+| [Kana Charts](./kana/kana.md)            | Hiragana and Katakana charts for quick reference                                    |
 | [Word Types](./WordTypes/README.md)      | Explanation of different work type (Ichidn, Godan, い and な adjectives, etc)        |
 | [Grammar](./Grammar/README.md)           | Grammar points organised via textbooks and JLPT Levels with examples where possible |
 | [Conjugations](./Conjugations/README.md) | Explanations of conjugations per word type                                          |
@@ -34,8 +35,9 @@ A collection of resources I would reccomend checking out
 | Resource                                                                               | Description                                                                                                      |
 | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | [Tofugu's Detailed Guide](https://www.tofugu.com/learn-japanese/)                      | Good resource for starting out and getting the basic down                                                        |
-| [Renshuu](https://app.renshuu.org/)                                                            | My personal preference of SRS App. Its designed specifically for Japanese and has great built in Grammar lessons |
+| [Renshuu](https://app.renshuu.org/)                                                    | My personal preference of SRS App. Its designed specifically for Japanese and has great built in Grammar lessons |
 | [News Web Easy](https://news.web.nhk/news/easy/)                                       | Almost daily posts all in simple Japanese covering Japanese and world news. Good for beginer reading practice    |
 | [Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) | Great youtube channel that take a different approach to teaching Japanese Grammar, I found this very helpful     |
 | [Jumaku-Player](https://github.com/sheodox/jimaku-player)                              | Browser extension to allow you to overlay Japanese Subtitles over Anime in Crunchyroll                           |
 | [GameGengo](https://www.youtube.com/@GameGengo)                                        | A youtube channel based around using video games to teach / learn Japanese. Good to supplimentry learning        |
+| [Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo)                           | Good android app for reading manga in Japanese                                                                   |

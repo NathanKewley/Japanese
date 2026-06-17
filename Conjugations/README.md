@@ -10,31 +10,31 @@ This is organized **by conjugation type**, with rows showing how each word class
 
 ## Adjectives
 
-| Form | Purpose | い-Adjective Rule | な-Adjective Rule | 高い (い-Adjective) | 静か (な-Adjective) |
-|--------|---------|------------------|------------------|------------|------------|
-| Dictionary | Plain | Base Form | Stem + だ | 高い | 静かだ |
-| Polite | Polite Statement | + です | だ → です | 高いです | 静かです |
-| Negative | Not | い → くない | だ → じゃない | 高くない | 静かじゃない |
-| Negative (Formal) | Not (Polite) | い → くありません | だ → ではありません | 高くありません | 静かではありません |
-| Past | Was | い → かった | だ → だった | 高かった | 静かだった |
-| Past (Polite) | Was (Polite) | い → かったです | だ → でした | 高かったです | 静かでした |
-| Negative Past | Was Not | い → くなかった | だ → じゃなかった | 高くなかった | 静かじゃなかった |
-| Negative Past (Formal) | Was Not (Polite) | い → くありませんでした | だ → ではありませんでした | 高くありませんでした | 静かではありませんでした |
-| て Form | Connect Clauses | い → くて | だ → で | 高くて | 静かで |
-| Negative て Form | Not And | い → くなくて | だ → じゃなくて | 高くなくて | 静かじゃなくて |
-| Conditional | If | い → ければ | なら(ば) | 高ければ | 静かなら(ば) |
-| Adverb | Describe Verb | い → く | に | 高く | 静かに |
-| Looks Like | Appears To Be | い → そう | + そう | 高そう | 静かそう |
-| Apparently | It Seems / I Hear | + らしい | + らしい | 高いらしい | 静からしい |
-| Excessive | Too Much | + すぎる | + すぎる | 高すぎる | 静かすぎる |
-| Become | Become... | くなる | になる | 高くなる | 静かになる |
-| Because | Because... | + から | + だから | 高いから | 静かだから |
-| Although | Although... | + けど | + だけど | 高いけど | 静かだけど |
-| Noun Modifier | Modify Noun | Directly Before Noun | + な Before Noun | 高い山 | 静かな部屋 |
-| Nominalized | The ... Thing | + の | + なの | 高いの | 静かなの |
-| Guess / Probably | Probably | + だろう | + だろう | 高いだろう | 静かだろう |
-| Guess (Polite) | Probably (Polite) | + でしょう | + でしょう | 高いでしょう | 静かでしょう |
-| Too... To... | So... That... | + すぎて | + すぎて | 高すぎて買えない | 静かすぎて寝られる |
+| Form | Purpose | い-Adjective Rule | 高い (い-Adjective) | な-Adjective Rule | 静か (な-Adjective) |
+|--------|---------|------------------|------------|------------------|------------|
+| Dictionary | Plain | Base Form | 高い | Stem + だ | 静かだ |
+| Polite | Polite Statement | + です | 高いです | だ → です | 静かです |
+| Negative | Not | い → くない | 高くない | だ → じゃない | 静かじゃない |
+| Negative (Formal) | Not (Polite) | い → くありません | 高くありません | だ → ではありません | 静かではありません |
+| Past | Was | い → かった | 高かった | だ → だった | 静かだった |
+| Past (Polite) | Was (Polite) | い → かったです | 高かったです | だ → でした | 静かでした |
+| Negative Past | Was Not | い → くなかった | 高くなかった | だ → じゃなかった | 静かじゃなかった |
+| Negative Past (Formal) | Was Not (Polite) | い → くありませんでした | 高くありませんでした | だ → ではありませんでした | 静かではありませんでした |
+| て Form | Connect Clauses | い → くて | 高くて | だ → で | 静かで |
+| Negative て Form | Not And | い → くなくて | 高くなくて | だ → じゃなくて | 静かじゃなくて |
+| Conditional | If | い → ければ | 高ければ | なら(ば) | 静かなら(ば) |
+| Adverb | Describe Verb | い → く | 高く | に | 静かに |
+| Looks Like | Appears To Be | い → そう | 高そう | + そう | 静かそう |
+| Apparently | It Seems / I Hear | + らしい | 高いらしい | + らしい | 静からしい |
+| Excessive | Too Much | + すぎる | 高すぎる | + すぎる | 静かすぎる |
+| Become | Become... | くなる | 高くなる | になる | 静かになる |
+| Because | Because... | + から | 高いから | + だから | 静かだから |
+| Although | Although... | + けど | 高いけど | + だけど | 静かだけど |
+| Noun Modifier | Modify Noun | Directly Before Noun | 高い山 | + な Before Noun | 静かな部屋 |
+| Nominalized | The ... Thing | + の | 高いの | + なの | 静かなの |
+| Guess / Probably | Probably | + だろう | 高いだろう | + だろう | 静かだろう |
+| Guess (Polite) | Probably (Polite) | + でしょう | 高いでしょう | + でしょう | 静かでしょう |
+| Too... To... | So... That... | + すぎて | 高すぎて買えない | + すぎて | 静かすぎて寝られる |
 
 ## Verbs
 
@@ -58,25 +58,25 @@ This is its literally as simple as replacing the ending `る` with `て` or `た
 
 ### Other Forms (Verb)
 
-| Form | Purpose | Ichidan Rule | Godan Rule | 食べる (Ichidan) | 話す (Godan) |
-|--------|---------|-------------|------------|---------|---------|
-| Dictionary | Plain | Base Form | Base Form | 食べる | 話す |
-| ます | Polite | る → ます | Final kana → い column + ます | 食べます | 話します |
-| ない | Negative | る → ない | Final kana → あ column + ない | 食べない | 話さない |
-| たい | Want To | る → たい | Final kana → い column + たい | 食べたい | 話したい |
-| そう | Looks Like | る → そう | Final kana → い column + そう | 食べそう | 話しそう |
-| やすい | Easy To | る → やすい | Final kana → い column + やすい | 食べやすい | 話しやすい |
-| にくい | Difficult To | る → にくい | Final kana → い column + にくい | 食べにくい | 話しにくい |
-| なさい | Polite Command | る → なさい | Final kana → い column + なさい | 食べなさい | 話しなさい |
-| たり | Do Things Like | た + り | た + り | 食べたり | 話したり |
-| Potential | Can Do | る → られる | Final kana → え column + る | 食べられる | 話せる |
-| Passive | Be Done To | る → られる | Final kana → あ column + れる | 食べられる | 話される |
-| Causative | Make / Let Do | る → させる | Final kana → あ column + せる | 食べさせる | 話させる |
-| Causative Passive | Be Made To Do | る → させられる | Final kana → あ column + せられる | 食べさせられる | 話させられる |
-| Conditional | If | る → れば | Final kana → え column + ば | 食べれば | 話せば |
-| Volitional | Let's | る → よう | Final kana → お column + う | 食べよう | 話そう |
-| Imperative | Command | る → ろ / よ | Final kana → え column | 食べろ | 話せ |
-| Prohibition | Don't Do | + な | + な | 食べるな | 話すな |
+| Form              | Purpose        | Ichidan Rule | 食べる (Ichidan) | Godan Rule                   | 話す (Godan) |
+| ----------------- | -------------- | ------------ | ------------- | ---------------------------- | ---------- |
+| Dictionary        | Plain          | Base Form    | 食べる           | Base Form                    | 話す         |
+| ます                | Polite         | る → ます       | 食べます          | Final kana → い column + ます   | 話します       |
+| ない                | Negative       | る → ない       | 食べない          | Final kana → あ column + ない   | 話さない       |
+| たい                | Want To        | る → たい       | 食べたい          | Final kana → い column + たい   | 話したい       |
+| そう                | Looks Like     | る → そう       | 食べそう          | Final kana → い column + そう   | 話しそう       |
+| やすい               | Easy To        | る → やすい      | 食べやすい         | Final kana → い column + やすい  | 話しやすい      |
+| にくい               | Difficult To   | る → にくい      | 食べにくい         | Final kana → い column + にくい  | 話しにくい      |
+| なさい               | Polite Command | る → なさい      | 食べなさい         | Final kana → い column + なさい  | 話しなさい      |
+| たり                | Do Things Like | た + り        | 食べたり          | た + り                        | 話したり       |
+| Potential         | Can Do         | る → られる      | 食べられる         | Final kana → え column + る    | 話せる        |
+| Passive           | Be Done To     | る → られる      | 食べられる         | Final kana → あ column + れる   | 話される       |
+| Causative         | Make / Let Do  | る → させる      | 食べさせる         | Final kana → あ column + せる   | 話させる       |
+| Causative Passive | Be Made To Do  | る → させられる    | 食べさせられる       | Final kana → あ column + せられる | 話させられる     |
+| Conditional       | If             | る → れば       | 食べれば          | Final kana → え column + ば    | 話せば        |
+| Volitional        | Let's          | る → よう       | 食べよう          | Final kana → お column + う    | 話そう        |
+| Imperative        | Command        | る → ろ / よ    | 食べろ           | Final kana → え column        | 話せ         |
+| Prohibition       | Don't Do       | + な          | 食べるな          | + な                          | 話すな        |
 
 #### Stem Conversion reference table
 

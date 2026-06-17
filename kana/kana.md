@@ -2,6 +2,10 @@
 
 [<- BACK](../README.md)
 
+## Chart as an Image
+
+![kana chart](assets/chart.png)
+
 ## Combined Hiragana + Katakana Chart
 
 In the format: `Hiragana / Katakana / (english representation)`
