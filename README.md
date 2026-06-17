@@ -22,6 +22,7 @@ Notes are organised into the following sections:
 
 | Section                                  | Description                                                                         |
 | ---------------------------------------- | ----------------------------------------------------------------------------------- |
+| [Kana Charts](./kana/kana.md)
 | [Word Types](./WordTypes/README.md)      | Explanation of different work type (Ichidn, Godan, い and な adjectives, etc)        |
 | [Grammar](./Grammar/README.md)           | Grammar points organised via textbooks and JLPT Levels with examples where possible |
 | [Conjugations](./Conjugations/README.md) | Explanations of conjugations per word type                                          |
@@ -38,7 +39,3 @@ A collection of resources I would reccomend checking out
 | [Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) | Great youtube channel that take a different approach to teaching Japanese Grammar, I found this very helpful     |
 | [Jumaku-Player](https://github.com/sheodox/jimaku-player)                              | Browser extension to allow you to overlay Japanese Subtitles over Anime in Crunchyroll                           |
 | [GameGengo](https://www.youtube.com/@GameGengo)                                        | A youtube channel based around using video games to teach / learn Japanese. Good to supplimentry learning        |
-
-## Archive
-
-There is some archived information from previous notes that are being updated and improved for this new version. Archived notes can be viewed [here](./archive/README.md)
