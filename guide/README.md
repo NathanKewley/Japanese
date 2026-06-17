@@ -4,7 +4,9 @@
 
 This is basically my attempt at creating an into to Japanese, where I will try to provide better explanations, more examples and additional external resources for grammar points that you will find in textbooks. Maybe this will be a helpful guid to read along with textbooks where you find the explanation / examples lacking.
 
-From the first bit of Vocab and Grammar points there will be an example bit of text provided, this same bit of text will remain through the whole guide and be expanded on with each new Grammar point.
+From the first bit of Vocab and Grammar points there will be an example bit of text provided, this same bit of text will remain through the whole guide and be expanded on with each new Grammar point. All vocab introduced in the chapters will be used in the sample text.
+
+All vocab will be introduced along with Kanji. Kanji should be learned along with Vocab IMHO.
 
 ## Prerequisites
 

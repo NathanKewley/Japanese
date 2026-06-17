@@ -1,14 +1,16 @@
 # Chapter 1 - Very Basics
 
-## Furrigana testing
-
-{% include furigana.html text="漢字" furigana="かんじ" %}
-
-{% include furigana.html text="测试" furigana="test" %}
-
 [<- BACK](./README.md)
 
-## Basic Vocab
+## Chapter Vocab
+
+| Vocab                                                     | Meaning |
+| --------------------------------------------------------- | ------- | 
+| {% include furigana.html text="私" furigana="わたし" %}    | I / Me  |
+| {% include furigana.html text="人" furigana="ひと" %}      | person  |
+| {% include furigana.html text="水" furigana="みず" %}      | water   |
+| {% include furigana.html text="食べる" furigana="たべる" %} | to eat  |
+| {% include furigana.html text="先生" furigana="せんせい" %} | teacher |
 
 ## は (ha) particle
 
