@@ -3,10 +3,8 @@
 ## Furrigana testing
 
 {% include furigana.html text="漢字" furigana="かんじ" %}
-{% include furigana.html text="漢,字" furigana="かん,じ" type="B" %}
 
 {% include furigana.html text="测试" furigana="test" %}
-{% include furigana.html text="测,试" furigana="cè,shì" type="B" %}
 
 [<- BACK](./README.md)
 
