@@ -1,18 +1,26 @@
 # Unorganised Grammer Notes
 
-<details markdown="1">
-<summary>## てしまう - Ended up doing (Regrettable Action).</summary>
+## Table of Contents
 
-てしまう is attacd to the て Form form of a verb to indicate 2 possible things:
+For now this is all on this one big page... Maybe it should be split out into individual pages per grammar point? Or organised in some other way? idk?
+
+IDK if my in page markdown links are correct... Guess seperate pages is an easy fix for that.
+
+* [~てしまう - Ended up doing (Regrettable Action)](#~てしまう-ended-up-doing-regrettable-action)
+* [かもしれない - Might / May / Could (Uncertainty)](#かもしれない-might-may-could-uncertainty)
+
+## ~てしまう - Ended up doing (Regrettable Action).
+
+`~てしまう` is attacd to the て Form form of a verb to indicate 2 possible things:
 
 1. That something was done regrettably or by accident.
 1. That something is finally going to be done / finally going ahead.
 
 ### Forms and Usage
 
-`てしまう` is attached to the て Form of a verb.
+`~てしまう` is attached to the て Form of a verb.
 
-| Level           | Standard Form      | Casual Form      | Example (食べる → eat)            |
+| Type            | Standard Form      | Casual Form      | Example (食べる → eat)            |
 | --------------- | ------------------ | ---------------- | -------------------------------- |
 | Plain Non-past  | ～てしまう           | ～ちゃう          | 食べてしまう / 食べちゃう           |
 | Plain Past      | ～てしまった         | ～ちゃった         | 食べてしまった / 食べちゃった        |
@@ -21,28 +29,52 @@
 
 ### Examples
 
-{% include furigana.html text="財布をなくしてしまいました。" furigana="さいふをなくしてしまいました。" %}
-I ended up loosing my wallet.
+財布をなくしてしまいました。
+I ended up losing my wallet.
 
-{% include furigana.html text="宿題を忘れてしまいました。" furigana="しゅくだいをわすれてしまいました。" %}
+宿題を忘れてしまいました。
 I forgot my homework.
 
-{% include furigana.html text="逃げ出してしまいました。" furigana="にげだしてしまいました。" %}
-he ended up running away.
+逃げ出してしまいました。
+He ended up running away.
 
-{% include furigana.html text="ケーキを全部食べてしまった。" furigana="ケーキをぜんぶたべてしまった。" %}
-Regrettably I ate the whole cake
+ケーキを全部食べてしまった。
+Regrettably, I ate the whole cake.
 
-{% include furigana.html text="ケーキを食べちゃった。" furigana="ケーキをたべちゃった。" %}
-Finally I ate cake
+ケーキを食べちゃった。
+Finally, I ate the cake.
 
-</details>
+## かもしれない - Might / May / Could (Uncertainty)
 
-## してしまう　かもしれない
+`~かもしれない` is attached to the plain form of a verb, adjective, or noun to indicate uncertainty or possibility. It means something is not certain but possible.
+
+### Forms and Usage
+
+`~かもしれない` is attached to the plain form of words.
+
+| Type            | Standard Form         | Casual Form      | Example (行く → go)                  |
+| --------------- | --------------------- | ---------------- | ----------------------------------- |
+| Plain Non-past  | 行くかもしれない        | 行くかも          | 行くかもしれない / 行くかも             |
+| Plain Negative  | 行かないかもしれない     | 行かないかも       | 行かないかもしれない / 行かないかも      |
+| Polite Non-past | 行くかもしれません      | 行くかもです       | 行くかもしれません / 行くかもです         |
+| Polite Negative | 行かないかもしれません   | 行かないかもです    | 行かないかもしれません / 行かないかもです |
+
+雨が降るかもしれない。
+It might rain.
+
+彼は来ないかもしれない。
+He might not come.
+
+この店は高いかもしれない。
+This shop might be expensive.
+
+電車が遅れるかもしれません。
+The train may be delayed (polite).
 
 とは言ってみたが実際は逃げ出しちまうかもな。
 That's what I say, but honestly, I might run away too.
-してしまう　かもしれない
+
+## Next One Here Later...
 
 この村の英雄シュタルクなんだ。
 I'm Stark, the hero of this village.
