@@ -1,28 +1,23 @@
 # Unorganised Grammer Notes
 
-## てしまう
+<details markdown="1">
+<summary>## てしまう - Ended up doing (Regrettable Action).</summary>
 
-Ended up doing (Regrettable Action).
+てしまう is attacd to the て Form form of a verb to indicate 2 possible things:
 
-### Forms
+1. That something was done regrettably or by accident.
+1. That something is finally going to be done / finally going ahead.
 
-| Form                     | Standard      | Casual        |
-| ------------------------ | ------------- | ------------- |
-| Present Plain            | ～てしまう     | ～ちゃう        |
-| Past Plain               | ～てしまった    | ～ちゃった     |
-| Present Polite           | ～てしまいます  | ～ちゃいます    |
-| Past Polite              | ～てしまいました | ～ちゃいました |
+### Forms and Usage
 
-### Usage
+`てしまう` is attached to the て Form of a verb.
 
-`てしまいました` and its variants form the above table are attached to the て Form of a verb.
-
-| Dictionary Form   | て Form   | ～てしまいました  |
-| ----------------- | -------- | ---------------- |
-| 食べる             | 食べて    | 食べてしまいました |
-| 飲む               | 飲んで    | 飲んでしまいました |
-| 行く               | 行って    | 行ってしまいました |
-| 忘れる             | 忘れて    | 忘れてしまいました |
+| Level           | Standard Form      | Casual Form      | Example (食べる → eat)            |
+| --------------- | ------------------ | ---------------- | -------------------------------- |
+| Plain Non-past  | ～てしまう           | ～ちゃう          | 食べてしまう / 食べちゃう           |
+| Plain Past      | ～てしまった         | ～ちゃった         | 食べてしまった / 食べちゃった        |
+| Polite Non-past | ～てしまいます        | ～ちゃいます      | 食べてしまいます / 食べちゃいます     |
+| Polite Past     | ～てしまいました      | ～ちゃいました     | 食べてしまいました / 食べちゃいました |
 
 ### Examples
 
@@ -33,11 +28,15 @@ I ended up loosing my wallet.
 I forgot my homework.
 
 {% include furigana.html text="逃げ出してしまいました。" furigana="にげだしてしまいました。" %}
-...and he ended up running away.
+he ended up running away.
 
 {% include furigana.html text="ケーキを全部食べてしまった。" furigana="ケーキをぜんぶたべてしまった。" %}
-I ate the whole cake
+Regrettably I ate the whole cake
 
+{% include furigana.html text="ケーキを食べちゃった。" furigana="ケーキをたべちゃった。" %}
+Finally I ate cake
+
+</details>
 
 ## してしまう　かもしれない
 
