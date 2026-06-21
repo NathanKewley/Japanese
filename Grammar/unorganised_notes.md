@@ -1,18 +1,5 @@
 # Unorganised Grammer Notes
 
-## Next One Here Later...
-
-この村の英雄シュタルクなんだ。
-I'm Stark, the hero of this village.
-です　なんです　なんだ
-
-俺が守らなきゃならないんだよ。
-I'm the one who has to protect it.
-なければいけません　なきゃならない
-
-でしょう。
-I guess so.
-
 くだらねえな。
 That's ridiculous.
 ない　ねえ
@@ -21,20 +8,9 @@ That's ridiculous.
 You know that grimoire? That's the one I've been looking for.
 やつ　＝　　の
 
-相変わらず好きですね…
-You still love this kind of stuff, don't you?
-まだ　＝　あいかわらず
-
-だよね。竜を追いかけっこなんて魔法使いのやり方じゃないよね。
-Yeah. Chasing after a dragon isn't exactly how mages do things.
-
 そこまではねぇ…気になるなら直接聞いてみたらどうだい？
 Not really... But if you're curious, why don't you ask them yourself?
 どうですか　　どうだい
-
-アンデッドかな。その幽霊の見た目ってわかる？
-Maybe it's an undead. Do you know what the ghost looked like?
-は　が　
 
 いつもは興味なさそうなのに。
 You usually don't seem interested in things like this.
