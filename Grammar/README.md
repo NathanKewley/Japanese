@@ -26,13 +26,14 @@ This is probably the main page to reference.
 
 These will move to the lower other grammar points section later when I feel I am comfortable with them.
 
-| Gramma Point                                          | Example                  | Translation                             | Short Explanation                                                                  |
-| ----------------------------------------------------- | ------------------------ | --------------------------------------- | ---------------------------------------------------------------------------------- |
-| [~てしまう](./points/other/てしまう.md)                 | 逃げ出してしまいました       |  He ended up running away               | Ended up doing (Regrettable Action)                                                |
-| [かもしれない](./points/other/かもしれない.md)           | 雨が降るかもしれない         | It might rain                           | Might / May / Could (Uncertainty)                                                  |
-| [なければいけません](./points/other/なければいけません.md) | 俺が守らなきゃならないんだよ  | I'm the one who has to protect it       | Must do (Casual - なきゃならない)                                                    |
-| [って](#)                                             | その幽霊の見た目ってわかる？  | Do you know what the ghost looked like? | In casual speech, って often replaces は or が to introduce or emphasize the topicい |
-
+| Gramma Point                                          | Example                  | Translation                                          | Short Explanation                                                                  |
+| ----------------------------------------------------- | ------------------------ | ---------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [~てしまう](./points/other/てしまう.md)                 | 逃げ出してしまいました       |  He ended up running away                            | Ended up doing (Regrettable Action)                                                |
+| [かもしれない](./points/other/かもしれない.md)           | 雨が降るかもしれない         | It might rain                                        | Might / May / Could (Uncertainty)                                                  |
+| [なければいけません](./points/other/なければいけません.md) | 俺が守らなきゃならないんだよ  | I'm the one who has to protect it                    | Must do (Casual - なきゃならない)                                                    |
+| って                                                  | その幽霊の見た目ってわかる？  | Do you know what the ghost looked like?               | In casual speech, って often replaces は or が to introduce or emphasize the topic  |
+| [なさそう](./points/other/なさそう.md)                  | いつもは興味なさそうなのに   | You usually don't seem interested in things like this | x Doesn't seem likely / A doesn't usually seem to x                                |
+| [たがる](./points/other/たがる.md)                     | 彼は日本に行きたがっている   | He seems like he wants to go to Japan                 | someone **else** seems to want to do something                                     |
 
 ### Particles
 
