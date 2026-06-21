@@ -14,7 +14,7 @@ Learning Japanese for me is still very much a work in progress, however it has e
 1. A great place to start is [Tofugu's Detailed Guide](https://www.tofugu.com/learn-japanese/). This will get you comfortable with Japanese conceptually and teach you Hiragana and Katakana as well as provide a few avenues for steps forward.
 2. It is probably worthwhile picking up a textbook. I personally would reccomend Genki I and Genki II as your first 2 textbooks. みんなの日本語 is also a popular textbook, I did not particually like みんなの日本語.
 3. Get a spaces repition app. Anki is usually the most reccomended. Personally I use and reccomend [Renshuu](https://app.renshuu.org/).
-4. Now you should have some basic grammar and vocab building up. Its time to start consuming Japanese content and mining words and phrases from that. [News Web Easy](https://news.web.nhk/news/easy/) and mange like [Yotsuba&](https://en.wikipedia.org/wiki/Yotsuba%26!) are great places to start.
+4. Now you should have some basic grammar and vocab building up. Its time to start consuming Japanese content and mining words and phrases from that. [News Web Easy](https://news.web.nhk/news/easy/) and manga like [Yotsuba&](https://en.wikipedia.org/wiki/Yotsuba%26!) are great places to start.
 5. Check out the other resources in the `Resources` section below.
 
 <!-- ## Integrated Guide
