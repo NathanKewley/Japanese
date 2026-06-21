@@ -28,7 +28,7 @@ These will move to the lower other grammar points section later when I feel I am
 
 | Gramma Point                                          | Example                     | Translation                          | Short Explanation                                                         |
 | ----------------------------------------------------- | --------------------------- | ------------------------------------ | ------------------------------------------------------------------------- |
-| [~てしまう](./points/other/~てしまう.md)                | 逃げ出してしまいました          |  He ended up running away            | Ended up doing (Regrettable Action)                                       |
+| [~てしまう](./points/other/てしまう.md)                | 逃げ出してしまいました          |  He ended up running away            | Ended up doing (Regrettable Action)                                       |
 | [かもしれない](./points/other/かもしれない.md)           | 雨が降るかもしれない            | It might rain                        | Might / May / Could (Uncertainty)                                         |
 | [なければいけません](./points/other/なければいけません.md) | 俺が守らなきゃならないんだよ     | I'm the one who has to protect it    | Must do (Casual - なきゃならない)                                           |
 
