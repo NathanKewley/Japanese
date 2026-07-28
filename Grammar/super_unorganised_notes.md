@@ -86,3 +86,51 @@ rough
 
 助けてやろう
 dramatic resolve — "I will save you"
+
+## More Notes
+
+２しゅうかん まえ、はじめて Place に いきました。
+ I went to (place) for the first time two weeks ago.
+
+では、日本語を べんきょうしている ひとは あまり いません。
+ There aren't many people studying Japanese there.
+
+かれらの 日本語の レベルは ちがいます。
+ Their Japanese levels are different.
+
+ほんき
+ serious / seriously
+
+I'm serious about studying Japanese.（日本語の勉強を本気でしています。）
+
+Goal（もくひょう）
+
+Purpose（もくてき）
+
+べんきょうすること（noun）
+ studying / the act of studying
+
+きょうだい
+ siblings
+
+３にん きょうだいが います。
+ I have three siblings.（＝４人きょうだい）
+
+４にん きょうだいです。
+ There are four siblings in my family.
+ 
+にほん いがいの くには いきたいですか。
+ Would you like to visit countries other than Japan?
+
+ころ＝とき
+ when / at the time
+ （When I was a child...）
+
+しゃい　で 　じしん　がない。
+ I'm shy and I lack confidence.
+ 
+けんこう
+ health / healthy
+
+こどものころの ゆめは なんですか。
+ What was your dream when you were a child?

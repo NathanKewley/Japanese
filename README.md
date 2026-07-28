@@ -33,6 +33,7 @@ Organised quick references of important components of Japanese
 | [Word Types](./WordTypes/README.md)      | Explanation of different work type (Ichidn, Godan, い and な adjectives, etc)        |
 | [Grammar](./Grammar/README.md)           | Grammar points organised via textbooks and JLPT Levels with examples where possible |
 | [Conjugations](./Conjugations/README.md) | Explanations of conjugations per word type                                          |
+| [Class](./CLASS.md)                      | Notes from our self run class                                                       |
 
 ## Resources
 
